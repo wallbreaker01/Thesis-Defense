@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "developer_name": "spirytoos",
+    "generation_timestamp": "2025-11-14T21:10:20.660116",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "spirytoos",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Moment.js",
+      "Immutability",
+      "Functional Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "spirytoos is a mid-level JavaScript developer with a strong focus on frontend development, particularly in date and time manipulation using Moment.js. They have a deep understanding of immutability and functional programming concepts, which they have applied in their contributions to the Moment.js library. While there is no explicit mention of testing frameworks or build tools, their contributions suggest a modern approach to JavaScript development with an emphasis on code quality and maintainability.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "Moment.js, frequency: 3"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 3": [
+        "Immutability, frequency: 3"
+      ],
+      "Functional Programming, frequency: 3": [
+        "Immutability, frequency: 3"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

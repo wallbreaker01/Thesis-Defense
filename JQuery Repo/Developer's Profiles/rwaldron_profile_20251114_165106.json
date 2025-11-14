@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "developer_name": "rwaldron",
+    "generation_timestamp": "2025-11-14T16:49:00.614231",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 118,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "rwaldron",
+    "experience_level": "Senior",
+    "primary_skills": [
+      "jQuery",
+      "Functional Programming",
+      "Object-Oriented Programming",
+      "Unit Testing",
+      "Code Cleanup and Refactoring",
+      "Performance Optimization"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "rwaldron is a highly experienced senior JavaScript developer with a strong focus on frontend development, particularly in the jQuery library. They have demonstrated expertise in functional and object-oriented programming, code quality, and performance optimization. Their contributions to jQuery showcase a deep understanding of modern JavaScript practices, testing methodologies, and build tools.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 118": [
+        "jQuery, frequency: 118"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Event Handling, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "Internal API Design, frequency: 2"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 118": [
+        "DOM Manipulation, frequency: 118"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 1": [
+        "Grunt, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 118": [
+        "Closures, frequency: 118",
+        "Higher-Order Functions, frequency: 118",
+        "Prototypes & Inheritance, frequency: 118",
+        "Module Systems, frequency: 118",
+        "Event Delegation, frequency: 118",
+        "Memory Management, frequency: 118"
+      ],
+      "Functional Programming, frequency: 118": [
+        "Immutability, frequency: 118",
+        "Pure Functions, frequency: 118",
+        "Declarative Programming, frequency: 118",
+        "Composition, frequency: 118"
+      ],
+      "Data Structures & Algorithms, frequency: 2": [
+        "Data Structures, frequency: 2"
+      ],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 2": [
+        "Code Splitting, frequency: 1",
+        "Minification & Compression, frequency: 1"
+      ],
+      "Event-Driven Architecture, frequency: 2": [
+        "Event Emitters, frequency: 2"
+      ],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 118,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

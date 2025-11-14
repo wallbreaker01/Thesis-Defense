@@ -1,0 +1,44 @@
+{
+  "reviewer_name": "Anjaa84",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 0,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "Anjaa84",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "CI/CD Pipelines",
+      "Azure Static Web Apps"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Anjaa84 has limited JavaScript review data available, which primarily focuses on CI/CD and Azure Static Web Apps. While there is some evidence of understanding build tools and deployment workflows, there is no direct evidence of expertise in JavaScript frameworks, programming patterns, testing, or other advanced JavaScript concepts. Additional review data or code contributions involving JavaScript would be necessary to gain a more comprehensive understanding of their JavaScript skills.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": []
+    }
+  }
+}

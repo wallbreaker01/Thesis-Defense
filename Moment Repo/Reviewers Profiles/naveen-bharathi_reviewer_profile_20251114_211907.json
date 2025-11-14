@@ -1,0 +1,45 @@
+{
+  "reviewer_name": "naveen-bharathi",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 0,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "naveen-bharathi",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Locale Data Handling",
+      "Bug Fixing"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the provided review data, **naveen-bharathi** is a junior-level JavaScript reviewer with a focus on bug fixing and locale data handling. The reviews are limited in scope and do not provide detailed technical feedback or discussions on broader JavaScript concepts, frameworks, or best practices. Additional review data or more detailed technical feedback would be necessary to gain a more comprehensive understanding of their skills.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

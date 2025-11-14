@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "developer_name": "marwahaha",
+    "generation_timestamp": "2025-11-14T20:53:00.888353",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 29,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "marwahaha",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Moment.js",
+      "Functional Programming",
+      "Unit Testing",
+      "Integration Testing",
+      "npm",
+      "Grunt",
+      "Rollup",
+      "ESLint"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "marwahaha demonstrates strong expertise in JavaScript, particularly in date and time manipulation, testing, and modern development practices. They are actively contributing to the Moment.js library, indicating a strong familiarity with functional programming patterns and unit testing. Their experience with build tools like npm, Grunt, and Rollup, as well as code quality tools like ESLint, suggests they are up-to-date with modern JavaScript practices and maintain a high standard of code quality.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "Moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 1": [
+        "API Endpoints, frequency: 1"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills, frequency: 1": [
+        "Middleware, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 4": [
+        "CI/CD Pipelines, frequency: 2",
+        "Containerization, frequency: 1",
+        "Web Servers, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Closures, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Immutability, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 4": [
+        "npm/yarn, frequency: 4"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 29,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

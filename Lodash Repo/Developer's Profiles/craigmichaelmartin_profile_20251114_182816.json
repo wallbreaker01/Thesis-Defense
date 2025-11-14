@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "developer_name": "craigmichaelmartin",
+    "generation_timestamp": "2025-11-14T18:26:51.801719",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "lodash"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "craigmichaelmartin",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Lodash",
+      "Concurrent Execution",
+      "Asynchronous Programming",
+      "Testing",
+      "Build Automation"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "craigmichaelmartin is a mid-level JavaScript developer with a strong focus on backend development, particularly in the use of Lodash for utility functions. They have a solid understanding of both synchronous and asynchronous programming paradigms, as well as experience with testing and build automation. Their contributions to the Lodash repository demonstrate a commitment to code quality and best practices, making them a valuable asset in backend JavaScript development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "Lodash, frequency: 1"
+      ],
+      "Asynchronous Programming, frequency: 3": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1",
+        "Concurrency Control, frequency: 1"
+      ],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 1": [
+        "Middleware, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "lodash"
+    ]
+  }
+}

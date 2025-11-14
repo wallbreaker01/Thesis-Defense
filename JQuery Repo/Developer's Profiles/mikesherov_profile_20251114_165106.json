@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "developer_name": "mikesherov",
+    "generation_timestamp": "2025-11-14T16:50:23.881541",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 58,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "mikesherov",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Error Handling",
+      "Unit Testing",
+      "Grunt",
+      "Uglify2",
+      "Code Linting",
+      "Performance Optimization",
+      "Code Modularity"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "mikesherov is a mid-level JavaScript developer with a strong focus on frontend development, particularly in the context of the jQuery library. They have a deep understanding of DOM manipulation, CSS handling, and animations. Their contributions show a commitment to code quality, performance optimization, and modern JavaScript practices. They are proficient in using build tools like Grunt and Uglify2 and have experience with unit testing and test automation. While there is no explicit mention of TypeScript, the developer's work suggests a familiarity with modern JavaScript features and best practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "jQuery, frequency: 1"
+      ],
+      "Asynchronous Programming, frequency: 1": [
+        "Promises, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 1": [
+        "AJAX, frequency: 1"
+      ],
+      "Error Handling, frequency: 2": [
+        "Custom Error Classes, frequency: 1",
+        "Error Boundaries, frequency: 1"
+      ],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 1",
+        "Containerization, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Closures, frequency: 1",
+        "Higher-Order Functions, frequency: 1",
+        "Prototypes & Inheritance, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 2": [
+        "Lazy Loading, frequency: 1",
+        "Code Splitting, frequency: 1"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 58,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

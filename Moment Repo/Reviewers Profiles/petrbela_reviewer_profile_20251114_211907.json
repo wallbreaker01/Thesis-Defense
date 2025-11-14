@@ -1,0 +1,53 @@
+{
+  "reviewer_name": "petrbela",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 4,
+    "total_comments": 5,
+    "total_prs": 2,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "petrbela",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Internationalization (i18n)",
+      "Localization (l10n)",
+      "String Manipulation",
+      "Code Quality"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "petrbela demonstrates a strong understanding of JavaScript in the context of internationalization and localization. While specific expertise in frameworks, testing frameworks, build tools, and advanced programming patterns is not directly evident, the reviews suggest a general proficiency in modern JavaScript practices, attention to code quality, and a commitment to correctness and maintainability. Further data would be needed to provide a more comprehensive analysis of petrbela's JavaScript skills in other areas.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Functional Programming, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Immutability, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

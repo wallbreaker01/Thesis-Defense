@@ -1,0 +1,68 @@
+{
+  "reviewer_name": "ctcpip",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 14,
+    "total_comments": 4,
+    "total_prs": 10,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "ctcpip",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "RESTful APIs",
+      "Unit Testing",
+      "CI/CD Pipelines",
+      "ES6+ Features"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "ctcpip is a mid-level JavaScript reviewer with strong expertise in backend development, particularly with Node.js and Express.js. They have a good understanding of RESTful API development, unit testing, and CI/CD workflows. Their reviews indicate a commitment to code quality and modern JavaScript practices, including ES6+ features. While there is no explicit evidence of frontend JavaScript or TypeScript usage, their backend expertise suggests a well-rounded skill set in the JavaScript ecosystem.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 14": [
+        "Node.js, frequency: 14",
+        "Express.js, frequency: 14"
+      ],
+      "Asynchronous Programming, frequency: 5": [
+        "Promises, frequency: 3",
+        "async/await, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 10": [
+        "RESTful APIs, frequency: 10"
+      ],
+      "Error Handling, frequency: 2": [
+        "Custom Error Classes, frequency: 2"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 14": [
+        "Middleware, frequency: 5",
+        "API Endpoints, frequency: 5",
+        "Authentication/Authorization, frequency: 4"
+      ],
+      "DevOps & Deployment, frequency: 6": [
+        "CI/CD Pipelines, frequency: 6"
+      ],
+      "Advanced JavaScript Concepts, frequency: 5": [
+        "Prototypes & Inheritance, frequency: 3",
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 14": [
+        "npm/yarn, frequency: 14"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

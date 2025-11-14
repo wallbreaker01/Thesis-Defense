@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "developer_name": "jbedard",
+    "generation_timestamp": "2025-11-14T16:59:58.695000",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 15,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "jbedard",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Code Optimization",
+      "Unit Testing",
+      "Event Handling"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "jbedard is a mid-level frontend JavaScript developer with extensive experience in jQuery, a popular JavaScript library for DOM manipulation and event handling. The developer has a strong focus on code optimization, performance, and best practices. They have contributed to various aspects of jQuery, including DOM manipulation, event handling, and data management, and have experience with unit testing. While primarily focused on frontend development, their contributions demonstrate a deep understanding of the DOM API and efficient JavaScript programming.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 15": [
+        "jQuery, frequency: 15"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 15": [
+        "DOM Manipulation, frequency: 15"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 5": [
+        "Prototypes & Inheritance, frequency: 1",
+        "Module Systems, frequency: 1",
+        "Event Delegation, frequency: 1",
+        "Memory Management, frequency: 2"
+      ],
+      "Functional Programming, frequency: 3": [
+        "Immutability, frequency: 3"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 5": [
+        "Lazy Loading, frequency: 1",
+        "Code Splitting, frequency: 1",
+        "Minification & Compression, frequency: 1",
+        "Critical Rendering Path Optimization, frequency: 1",
+        "Preloading & Prefetching, frequency: 1"
+      ],
+      "Event-Driven Architecture, frequency: 5": [
+        "Event Emitters, frequency: 5"
+      ],
+      "Dependency Management, frequency: 15": [
+        "npm/yarn, frequency: 15"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 15,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

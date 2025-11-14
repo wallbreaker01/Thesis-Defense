@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "developer_name": "Ayoub-Mabrouk",
+    "generation_timestamp": "2025-11-09T21:21:46.685805",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 21,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "Ayoub-Mabrouk",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Functional Programming",
+      "Modern JavaScript (ES6+)",
+      "API Development",
+      "Code Readability and Maintainability"
+    ],
+    "programming_languages": [ 
+      "JavaScript"
+    ],
+    "summary": "Ayoub-Mabrouk demonstrates strong expertise in backend JavaScript development, particularly in the Node.js ecosystem. They are proficient in modern JavaScript (ES6+) features and functional programming patterns, with a strong focus on code readability, maintainability, and best practices. Their contributions to the Express framework indicate a solid foundation in API development and server-side logic. While there is no explicit mention of frontend frameworks, testing frameworks, or build tools, their contributions suggest a solid foundation in these areas, which could be beneficial in a full-stack development role.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 21": [
+        "Node.js, frequency: 21",
+        "Express.js, frequency: 21"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 10": [
+        "RESTful APIs, frequency: 10"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 15": [
+        "Middleware, frequency: 5",
+        "API Endpoints, frequency: 10"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 10": [
+        "Closures, frequency: 3",
+        "Higher-Order Functions, frequency: 2",
+        "Prototypes & Inheritance, frequency: 2",
+        "Module Systems, frequency: 3"
+      ],
+      "Functional Programming, frequency: 10": [
+        "Immutability, frequency: 5",
+        "Pure Functions, frequency: 3",
+        "Declarative Programming, frequency: 2"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 12": [
+        "npm/yarn, frequency: 12"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 21,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

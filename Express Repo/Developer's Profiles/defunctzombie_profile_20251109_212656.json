@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "developer_name": "defunctzombie",
+    "generation_timestamp": "2025-11-09T21:26:17.371851",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 9,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 9
+  },
+  "profile": {
+    "developer_name": "defunctzombie",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Node.js",
+      "Middleware",
+      "Asynchronous Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "defunctzombie is a mid-level JavaScript developer with a strong focus on backend development, particularly in the Express.js framework and Node.js ecosystem. They have contributed significantly to enhancing middleware functionalities, adding HTTP verb methods to the Router, and supporting asynchronous route handlers. Their contributions demonstrate a deep understanding of modern JavaScript practices, a commitment to code quality, and proficiency in API development and design. While their primary focus is on backend development, their work shows a strong emphasis on asynchronous programming and middleware patterns.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 9": [
+        "Node.js, frequency: 9",
+        "Express.js, frequency: 9"
+      ],
+      "Asynchronous Programming, frequency: 3": [
+        "async/await, frequency: 3"
+      ],
+      "API Design & Consumption, frequency: 6": [
+        "RESTful APIs, frequency: 6"
+      ],
+      "Backend Development Skills, frequency: 9": [
+        "Middleware, frequency: 6",
+        "API Endpoints, frequency: 3"
+      ],
+      "Advanced JavaScript Concepts, frequency: 3": [
+        "Closures, frequency: 1",
+        "Higher-Order Functions, frequency: 1",
+        "Prototypes & Inheritance, frequency: 1"
+      ],
+      "Functional Programming, frequency: 3": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1",
+        "Declarative Programming, frequency: 1"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 9,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

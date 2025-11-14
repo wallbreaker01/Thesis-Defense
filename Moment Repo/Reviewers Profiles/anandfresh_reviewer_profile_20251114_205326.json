@@ -1,0 +1,72 @@
+{
+  "reviewer_name": "anandfresh",
+  "generated_at": "20251114_205326",
+  "stats": {
+    "total_reviews": 27,
+    "total_comments": 2,
+    "total_prs": 25,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "anandfresh",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Moment.js",
+      "Functional Programming",
+      "Error Handling",
+      "String Manipulation",
+      "TypeScript",
+      "Unit Testing",
+      "Automated Builds"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "summary": "Anandfresh demonstrates strong expertise in the JavaScript ecosystem, particularly in the Moment.js library for date and time manipulation. They have a solid understanding of functional programming, error handling, and string manipulation. They are proficient in TypeScript and have a good grasp of unit testing and automated build processes. While their reviews are primarily focused on backend JavaScript, they show a strong commitment to maintaining high code quality and modern practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 10": [
+        "Moment.js, frequency: 10"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Error Handling, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 5": [
+        "API Error Handling, frequency: 5"
+      ],
+      "Error Handling, frequency: 5": [
+        "Try-Catch, frequency: 5"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 10": [
+        "API Endpoints, frequency: 5",
+        "Middleware, frequency: 5"
+      ],
+      "DevOps & Deployment, frequency: 5": [
+        "CI/CD Pipelines, frequency: 5"
+      ],
+      "Advanced JavaScript Concepts, frequency: 5": [
+        "Closures, frequency: 2",
+        "Higher-Order Functions, frequency: 3"
+      ],
+      "Functional Programming, frequency: 5": [
+        "Immutability, frequency: 2",
+        "Pure Functions, frequency: 3"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript, frequency: 5": [
+        "Type Definitions, frequency: 5"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 5": [
+        "npm/yarn, frequency: 5"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

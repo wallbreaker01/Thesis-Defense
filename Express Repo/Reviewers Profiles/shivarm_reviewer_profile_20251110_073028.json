@@ -1,0 +1,60 @@
+{
+  "reviewer_name": "shivarm",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 12,
+    "total_comments": 7,
+    "total_prs": 8,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "shivarm",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "CI/CD",
+      "Dependency Management",
+      "API Development"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Shivarm is a mid-level JavaScript reviewer with strong expertise in backend development, particularly with Node.js and Express.js. They demonstrate a good understanding of CI/CD processes, dependency management, and API development. Their reviews show a focus on code quality and best practices, including type validation and dependency updates. While there is no explicit evidence of frontend JavaScript expertise, their backend skills and understanding of modern development practices make them a valuable contributor to backend-focused projects.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 6": [
+        "Node.js, frequency: 3",
+        "Express.js, frequency: 3"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 5": [
+        "RESTful APIs, frequency: 5"
+      ],
+      "Error Handling, frequency: 1": [
+        "Custom Error Classes, frequency: 1"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 4": [
+        "Middleware, frequency: 2",
+        "API Endpoints, frequency: 2"
+      ],
+      "DevOps & Deployment, frequency: 6": [
+        "CI/CD Pipelines, frequency: 6"
+      ],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 4": [
+        "npm/yarn, frequency: 4"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

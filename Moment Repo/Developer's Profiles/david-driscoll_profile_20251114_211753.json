@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "developer_name": "david-driscoll",
+    "generation_timestamp": "2025-11-14T21:04:06.712458",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 4,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 4
+  },
+  "profile": {
+    "developer_name": "david-driscoll",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "TypeScript",
+      "Moment.js",
+      "Type Safety",
+      "Type Guards"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "summary": "David Driscoll is a mid-level JavaScript developer with a strong focus on TypeScript and type safety. He has contributed to the Moment.js library, demonstrating expertise in date and time manipulation. His contributions emphasize type definitions, type guards, and strongly typed entry points, indicating a deep understanding of modern JavaScript and TypeScript. While his contributions are primarily focused on frontend development, his emphasis on type safety and code quality suggests a commitment to maintaining robust and maintainable code.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 4": [
+        "Moment.js, frequency: 4"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 4": [
+        "API Error Handling, frequency: 4"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 4": [
+        "DOM Manipulation, frequency: 4"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Type Safety, frequency: 4"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript, frequency: 4": [
+        "Type Definitions, frequency: 4"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 4,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

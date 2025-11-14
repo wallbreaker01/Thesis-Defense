@@ -1,0 +1,3422 @@
+{
+  "metadata": {
+    "total_prs_processed": 39,
+    "processing_date": "2025-10-21",
+    "available_reviewers": [],
+    "total_available_reviewers": 0
+  },
+  "pr_assignments": [
+    {
+      "pr_number": 5912,
+      "pr_title": "[locale] vi: Improve months, weekdays and relative week",
+      "pr_author": "nobiit",
+      "pr_state": "open",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Moment.js(5x)"
+          ],
+          "review_experience": "sschueller has reviewed multiple locale-related PRs in the Moment.js repository, demonstrating a strong understanding of locale data and internationalization. They have a high frequency in JavaScript and localization, making them an excellent match for this PR.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Testing(7x), Documentation(5x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Testing(7x)",
+            "Documentation(5x)",
+            "Moment.js(4x)"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs related to testing and documentation in the Moment.js repository. They have a high frequency in JavaScript and testing, making them a strong candidate for this PR.",
+          "potential_concerns": "Slightly lower frequency in localization and internationalization compared to sschueller"
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(6x), Internationalization(4x). Relevant experience with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(6x)",
+            "Internationalization(4x)",
+            "Moment.js(3x)"
+          ],
+          "review_experience": "carlmrichter has contributed to locale-related PRs in the Moment.js repository, showing a good understanding of locale data and internationalization. They have a moderate frequency in JavaScript and localization, making them a suitable candidate for this PR.",
+          "potential_concerns": "Lower frequency in testing and documentation compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar past reviews.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5912",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple locale-related PRs in the Moment.js repository, demonstrating a strong understanding of locale data and internationalization. They have a high frequency in JavaScript and localization, making them an excellent match for this PR.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Moment.js(5x)"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple locale-related PRs in the Moment.js repository, demonstrating a strong understanding of locale data and internationalization. They have a high frequency in JavaScript and localization, making them an excellent match for this PR.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5728,
+      "pr_title": "[bugfix] add format and standalone in hi locale",
+      "pr_author": "PriyaBihani",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Testing(8x). Strong experience match with similar PRs involving locale data and testing.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Testing(8x)",
+            "Code Quality"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs involving locale data and testing in the Moment.js repository, demonstrating a strong understanding of localization and test coverage. They have a high frequency in JavaScript, Localization, and Testing, making them an excellent match for this PR.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Testing(7x). Strong experience match with similar PRs involving locale data and testing.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Testing(7x)",
+            "Code Quality"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs involving locale data and testing in the Moment.js repository, demonstrating a strong understanding of testing and code quality. They have a high frequency in JavaScript and Testing, making them a strong candidate for this PR.",
+          "potential_concerns": "Slightly lower frequency in Localization compared to sschueller"
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(5x). Relevant experience with similar PRs involving locale data.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(5x)",
+            "Code Quality"
+          ],
+          "review_experience": "carlmrichter has contributed to and reviewed PRs involving locale data in the Moment.js repository, demonstrating a good understanding of localization and code quality. They have a moderate frequency in JavaScript and Localization, making them a suitable candidate for this PR.",
+          "potential_concerns": "Lower frequency in Testing compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Testing(8x). Strong experience match with similar PRs involving locale data and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 9,
+      "pr_url": "https://github.com/expressjs/express/pull/5728",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Testing(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple PRs involving locale data and testing in the Moment.js repository, demonstrating a strong understanding of localization and test coverage. They have a high frequency in JavaScript, Localization, and Testing, making them an excellent match for this PR.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Testing"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Testing",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Testing",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Testing(8x). Strong experience match with similar PRs involving locale data and testing.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Testing(8x)",
+            "Code Quality"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs involving locale data and testing in the Moment.js repository, demonstrating a strong understanding of localization and test coverage. They have a high frequency in JavaScript, Localization, and Testing, making them an excellent match for this PR.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5125,
+      "pr_title": "[locale] Update for Norwegian and Nynorsk",
+      "pr_author": "Spiralis",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Testing"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs related to locale data and internationalization in Moment.js, demonstrating a strong understanding of the technical requirements and review focus areas.",
+          "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Localization(7x), Testing(5x). Strong experience with similar past reviews and a focus on testing and documentation.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(7x)",
+            "Testing(5x)",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed PRs involving locale data and testing in Moment.js, showing a solid grasp of the technical and review requirements.",
+          "potential_concerns": "Slightly lower frequency in Internationalization compared to sschueller."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(5x), Internationalization(4x). Relevant experience with similar past reviews, but slightly less frequent in testing and documentation.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(5x)",
+            "Internationalization(4x)"
+          ],
+          "review_experience": "carlmrichter has contributed to and reviewed PRs involving locale data in Moment.js, indicating a good understanding of the technical requirements.",
+          "potential_concerns": "Lower frequency in testing and documentation compared to the top two reviewers."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar past reviews.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 12,
+      "pr_url": "https://github.com/expressjs/express/pull/5125",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization(8x)"
+      ],
+      "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives.",
+      "review_experience": "sschueller has reviewed multiple PRs related to locale data and internationalization in Moment.js, demonstrating a strong understanding of the technical requirements and review focus areas.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Testing"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs related to locale data and internationalization in Moment.js, demonstrating a strong understanding of the technical requirements and review focus areas.",
+          "potential_limitations": "None significant, but may benefit from a second reviewer for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 6156,
+      "pr_title": "feat: consider string number as milliseconds",
+      "pr_author": "0Ncoder0",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(20x), Moment.js(15x), Unit Testing(10x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(20x)",
+            "Moment.js(15x)",
+            "Unit Testing(10x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js and unit testing, demonstrating a strong understanding of the technology and the ability to provide high-quality reviews.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Unit Testing(5x). Good experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Unit Testing(5x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "marwahaha has reviewed PRs related to Moment.js and has a good track record of providing thorough and constructive feedback.",
+          "potential_concerns": "Slightly lower frequency in Unit Testing compared to anandfresh"
+        },
+        {
+          "reviewer_name": "DiscoNova",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Moment.js(8x), Unit Testing(3x). Relevant experience with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Moment.js(8x)",
+            "Unit Testing(3x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "DiscoNova has contributed to and reviewed PRs related to Moment.js, showing a good understanding of the technology and testing practices.",
+          "potential_concerns": "Lower frequency in Unit Testing compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(20x), Moment.js(15x), Unit Testing(10x). Strong experience match with similar PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/6156",
+      "reviewer_strengths": [
+        "JavaScript(20x)",
+        "Moment.js(15x)",
+        "Unit Testing(10x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js and unit testing, demonstrating a strong understanding of the technology and the ability to provide high-quality reviews.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Unit Testing"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Testing",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(20x), Moment.js(15x), Unit Testing(10x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(20x)",
+            "Moment.js(15x)",
+            "Unit Testing(10x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs related to Moment.js and unit testing, demonstrating a strong understanding of the technology and the ability to provide high-quality reviews.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 4561,
+      "pr_title": "[bugfix] Avoid memory leak in updateLocale",
+      "pr_author": "ashsearle",
+      "pr_state": "closed",
+      "assigned_reviewer": "marwahaha",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Memory Management(8x). Strong experience match in memory leak fixes and performance impact.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Memory Management(8x)",
+            "Frontend",
+            "Testing",
+            "Performance"
+          ],
+          "review_experience": "Marwahaha has a strong track record of reviewing memory leak fixes and performance-related changes in Moment.js. They have reviewed multiple PRs with similar complexity and focus areas, ensuring high-quality and thorough reviews.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Moment.js(5x). Strong experience in testing and documentation changes.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Moment.js(5x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "Anandfresh has reviewed multiple PRs related to testing and documentation in the Moment.js repository. They have a good understanding of the project and can provide valuable insights into test coverage and performance impact.",
+          "potential_concerns": "Lower frequency in Memory Management compared to marwahaha"
+        },
+        {
+          "reviewer_name": "ashsearle",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: JavaScript(8x), Moment.js(6x). Strong experience in memory leak fixes and performance-related changes.",
+          "strengths_alignment": [
+            "JavaScript(8x)",
+            "Moment.js(6x)",
+            "Memory Management(4x)",
+            "Frontend",
+            "Testing",
+            "Performance"
+          ],
+          "review_experience": "Ashsearle has reviewed PRs related to memory leak fixes and performance improvements in Moment.js. They have a solid understanding of the project and can provide detailed and constructive feedback.",
+          "potential_concerns": "Lower overall frequency compared to marwahaha and anandfresh"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Memory Management(8x). Strong experience match in memory leak fixes and performance impact.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 3,
+      "pr_url": "https://github.com/expressjs/express/pull/4561",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Moment.js(10x)",
+        "Memory Management(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "Marwahaha has a strong track record of reviewing memory leak fixes and performance-related changes in Moment.js. They have reviewed multiple PRs with similar complexity and focus areas, ensuring high-quality and thorough reviews.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Memory Management"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Performance"
+        ],
+        "complexity_level": "Medium",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Performance/Testing",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Memory Management(8x). Strong experience match in memory leak fixes and performance impact.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Memory Management(8x)",
+            "Frontend",
+            "Testing",
+            "Performance"
+          ],
+          "review_experience_details": "Marwahaha has a strong track record of reviewing memory leak fixes and performance-related changes in Moment.js. They have reviewed multiple PRs with similar complexity and focus areas, ensuring high-quality and thorough reviews.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5520,
+      "pr_title": "[locale] de, de-at, de-ch: add german translation for week",
+      "pr_author": "carlmrichter",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization (i18n)(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization (i18n)(8x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs related to locale and translation in the Moment.js repository, demonstrating a strong understanding of localization and internationalization. They have a history of ensuring the correctness of translations and consistency with existing locale files.",
+          "potential_concerns": "None significant, but may need to ensure they are available for timely reviews."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Localization(7x), Internationalization (i18n)(5x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(7x)",
+            "Internationalization (i18n)(5x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs related to locale and testing in the Moment.js repository, demonstrating a strong understanding of localization and internationalization. They have a history of ensuring the correctness of translations and consistency with existing locale files.",
+          "potential_concerns": "Slightly lower frequency in some required skills compared to sschueller."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(5x), Internationalization (i18n)(4x). Good experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(5x)",
+            "Internationalization (i18n)(4x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "carlmrichter has contributed to and reviewed PRs related to locale and translation in the Moment.js repository, demonstrating a good understanding of localization and internationalization. They have a history of ensuring the correctness of translations and consistency with existing locale files.",
+          "potential_concerns": "Lower frequency in some required skills compared to the top two reviewers."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization (i18n)(8x). Strong experience match with similar past reviews.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5520",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization (i18n)(8x)"
+      ],
+      "potential_concerns": "None significant, but may need to ensure they are available for timely reviews.",
+      "review_experience": "sschueller has reviewed multiple PRs related to locale and translation in the Moment.js repository, demonstrating a strong understanding of localization and internationalization. They have a history of ensuring the correctness of translations and consistency with existing locale files.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization (i18n)"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Localization",
+          "Testing"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization (i18n)(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization (i18n)(8x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs related to locale and translation in the Moment.js repository, demonstrating a strong understanding of localization and internationalization. They have a history of ensuring the correctness of translations and consistency with existing locale files.",
+          "potential_limitations": "None significant, but may need to ensure they are available for timely reviews."
+        }
+      }
+    },
+    {
+      "pr_number": 5147,
+      "pr_title": "[feature] Added isWeekend support (#5134)",
+      "pr_author": "raghavmac",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match in testing and documentation.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs in the moment/moment repository, including documentation updates and test additions. They have a strong track record in ensuring test coverage and documentation accuracy.",
+          "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives."
+        },
+        {
+          "reviewer_name": "DiscoNova",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Moment.js(7x), JavaScript(10x). Good experience in testing and functionality.",
+          "strengths_alignment": [
+            "Moment.js(7x)",
+            "JavaScript(10x)",
+            "Testing",
+            "Functionality"
+          ],
+          "review_experience": "DiscoNova has contributed to PRs involving testing and functionality improvements in the moment/moment repository. They have a solid understanding of Moment.js and JavaScript, making them a strong candidate for this review.",
+          "potential_concerns": "Less experience in documentation compared to anandfresh."
+        },
+        {
+          "reviewer_name": "yulodl",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: Moment.js(5x), JavaScript(8x). Good experience in bugfixes and functionality.",
+          "strengths_alignment": [
+            "Moment.js(5x)",
+            "JavaScript(8x)",
+            "Bugfixes",
+            "Functionality"
+          ],
+          "review_experience": "yulodl has reviewed PRs involving bugfixes and functionality improvements in the moment/moment repository. They have a good understanding of Moment.js and JavaScript, making them a suitable candidate for this review.",
+          "potential_concerns": "Less experience in documentation and testing compared to anandfresh and DiscoNova."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match in testing and documentation.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 8,
+      "pr_url": "https://github.com/expressjs/express/pull/5147",
+      "reviewer_strengths": [
+        "Moment.js(10x)",
+        "JavaScript(15x)",
+        "Testing"
+      ],
+      "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives.",
+      "review_experience": "anandfresh has reviewed multiple PRs in the moment/moment repository, including documentation updates and test additions. They have a strong track record in ensuring test coverage and documentation accuracy.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Date and Time Manipulation"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match in testing and documentation.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs in the moment/moment repository, including documentation updates and test additions. They have a strong track record in ensuring test coverage and documentation accuracy.",
+          "potential_limitations": "None significant, but may benefit from a second reviewer for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 5427,
+      "pr_title": "[locale] ar-ma, fix a typo in monday's name",
+      "pr_author": "kafiln",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs involving localization and internationalization in the Moment.js repository, demonstrating a strong understanding of the required technical skills and review focus areas.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(12x), Localization(6x), Internationalization(4x). Good experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(6x)",
+            "Internationalization(4x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed PRs involving localization and typo fixes in the Moment.js repository, showing a solid grasp of the required technical skills and review focus areas.",
+          "potential_concerns": "Slightly lower frequency in required skills compared to sschueller"
+        },
+        {
+          "reviewer_name": "ichernev",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(5x), Internationalization(3x). Some experience with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(5x)",
+            "Internationalization(3x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "ichernev has reviewed PRs involving bug fixes and localization in the Moment.js repository, indicating a good understanding of the required technical skills and review focus areas.",
+          "potential_concerns": "Lower frequency in required skills compared to sschueller and anandfresh"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 5,
+      "pr_url": "https://github.com/expressjs/express/pull/5427",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple PRs involving localization and internationalization in the Moment.js repository, demonstrating a strong understanding of the required technical skills and review focus areas.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Code Quality",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs involving localization and internationalization in the Moment.js repository, demonstrating a strong understanding of the required technical skills and review focus areas.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 6219,
+      "pr_title": "[locale] Change Saat to Saa in dist/locale/sw.js",
+      "pr_author": "Louq-Tech",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Git(10x), Localization(8x). Strong experience match with localization and Moment.js.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Git(10x)",
+            "Localization(8x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating strong expertise in localization and code quality. They have a high frequency in JavaScript and Git, which aligns well with the PR requirements.",
+          "potential_concerns": "None significant, given the high frequency in required skills and relevant review experience."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Git(7x), Localization(5x). Good experience with localization and Moment.js.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Git(7x)",
+            "Localization(5x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed localization PRs in the Moment.js repository, showing a good understanding of localization and code quality. They have a moderate frequency in JavaScript and Git, which aligns well with the PR requirements.",
+          "potential_concerns": "Slightly lower frequency in required skills compared to sschueller."
+        },
+        {
+          "reviewer_name": "icambron",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: JavaScript(8x), Git(6x), Localization(4x). Good experience with localization and Moment.js.",
+          "strengths_alignment": [
+            "JavaScript(8x)",
+            "Git(6x)",
+            "Localization(4x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "icambron has reviewed localization PRs in the Moment.js repository, demonstrating a good understanding of localization and code quality. They have a moderate frequency in JavaScript and Git, which aligns well with the PR requirements.",
+          "potential_concerns": "Lower frequency in required skills compared to sschueller and anandfresh."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Git(10x), Localization(8x). Strong experience match with localization and Moment.js.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6219",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Git(10x)",
+        "Localization(8x)"
+      ],
+      "potential_concerns": "None significant, given the high frequency in required skills and relevant review experience.",
+      "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating strong expertise in localization and code quality. They have a high frequency in JavaScript and Git, which aligns well with the PR requirements.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Git",
+          "Localization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Code Quality",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Git(10x), Localization(8x). Strong experience match with localization and Moment.js.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Git(10x)",
+            "Localization(8x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating strong expertise in localization and code quality. They have a high frequency in JavaScript and Git, which aligns well with the PR requirements.",
+          "potential_limitations": "None significant, given the high frequency in required skills and relevant review experience."
+        }
+      }
+    },
+    {
+      "pr_number": 5387,
+      "pr_title": "[locale] (ro) Fixed month abbreviation for February",
+      "pr_author": "cepem",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Moment.js(5x)"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs related to localization and internationalization in Moment.js, demonstrating a strong understanding of the technical and cultural aspects required for this PR.",
+          "potential_concerns": "None significant, but may need to ensure consistency with other locale files."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Localization(7x), Testing(6x). Strong experience with similar PRs and testing.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(7x)",
+            "Testing(6x)",
+            "Moment.js(4x)"
+          ],
+          "review_experience": "anandfresh has reviewed several PRs involving localization and testing in Moment.js, showing a good grasp of the technical and testing requirements.",
+          "potential_concerns": "May need additional focus on cultural accuracy and grammar."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(5x), Internationalization(4x). Experience with similar PRs, but slightly lower frequency compared to top choices.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(5x)",
+            "Internationalization(4x)",
+            "Moment.js(3x)"
+          ],
+          "review_experience": "carlmrichter has contributed to and reviewed PRs involving localization in Moment.js, indicating a solid understanding of the technical requirements.",
+          "potential_concerns": "May need more guidance on cultural and grammatical accuracy."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/5387",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization(8x)"
+      ],
+      "potential_concerns": "None significant, but may need to ensure consistency with other locale files.",
+      "review_experience": "sschueller has reviewed multiple PRs related to localization and internationalization in Moment.js, demonstrating a strong understanding of the technical and cultural aspects required for this PR.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Moment.js(5x)"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs related to localization and internationalization in Moment.js, demonstrating a strong understanding of the technical and cultural aspects required for this PR.",
+          "potential_limitations": "None significant, but may need to ensure consistency with other locale files."
+        }
+      }
+    },
+    {
+      "pr_number": 6101,
+      "pr_title": "Correct month subjective in PL",
+      "pr_author": "idoodler",
+      "pr_state": "open",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Regular Expressions(10x), Date and Time Handling(8x). Strong experience match with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Regular Expressions(10x)",
+            "Date and Time Handling(8x)",
+            "Frontend",
+            "Testing",
+            "Localization"
+          ],
+          "review_experience": "anandfresh has reviewed similar PRs involving Moment.js, specifically focusing on date and time handling and localization. They have a strong track record in testing and ensuring accuracy in regular expressions.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Regular Expressions(7x), Date and Time Handling(6x). Strong experience in localization and testing.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Regular Expressions(7x)",
+            "Date and Time Handling(6x)",
+            "Frontend",
+            "Testing",
+            "Localization"
+          ],
+          "review_experience": "sschueller has reviewed PRs involving Moment.js and localization, particularly focusing on ensuring that translations are accurate and consistent. They have a solid background in testing and frontend development.",
+          "potential_concerns": "Slightly lower frequency in regular expressions compared to anandfresh"
+        },
+        {
+          "reviewer_name": "rksp25",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Regular Expressions(5x), Date and Time Handling(5x). Strong experience in localization and frontend development.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Regular Expressions(5x)",
+            "Date and Time Handling(5x)",
+            "Frontend",
+            "Localization"
+          ],
+          "review_experience": "rksp25 has reviewed PRs involving Moment.js and localization, particularly focusing on ensuring that translations are accurate and consistent. They have a good track record in frontend development and have contributed to similar changes.",
+          "potential_concerns": "Lower frequency in regular expressions and date and time handling compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Regular Expressions(10x), Date and Time Handling(8x). Strong experience match with Moment.js and localization.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/6101",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Regular Expressions(10x)",
+        "Date and Time Handling(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "anandfresh has reviewed similar PRs involving Moment.js, specifically focusing on date and time handling and localization. They have a strong track record in testing and ensuring accuracy in regular expressions.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Regular Expressions",
+          "Date and Time Handling"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Localization"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Testing/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Regular Expressions(10x), Date and Time Handling(8x). Strong experience match with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Regular Expressions(10x)",
+            "Date and Time Handling(8x)",
+            "Frontend",
+            "Testing",
+            "Localization"
+          ],
+          "review_experience_details": "anandfresh has reviewed similar PRs involving Moment.js, specifically focusing on date and time handling and localization. They have a strong track record in testing and ensuring accuracy in regular expressions.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 6258,
+      "pr_title": "[locale] fix apostrophe typo for ukrainian",
+      "pr_author": "prasanna4567",
+      "pr_state": "open",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Git(10x), Localization(8x). Strong experience match with localization and code quality.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Git(10x)",
+            "Localization(8x)",
+            "Code Quality"
+          ],
+          "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of the impact on other locales and consistency with existing code. They have a high frequency in JavaScript and Git, indicating extensive real-world experience.",
+          "potential_concerns": "None significant, but may need to ensure they are available for timely reviews."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(12x), Git(7x), Localization(5x). Good experience with localization and documentation.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Git(7x)",
+            "Localization(5x)",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed localization PRs in the Moment.js repository, showing a good understanding of the impact on other locales and consistency with existing code. They have a moderate frequency in JavaScript and Git, indicating solid real-world experience.",
+          "potential_concerns": "May have less experience with code quality compared to sschueller."
+        },
+        {
+          "reviewer_name": "icambron",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Git(6x), Localization(4x). Good experience with localization and code quality.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Git(6x)",
+            "Localization(4x)",
+            "Code Quality"
+          ],
+          "review_experience": "icambron has reviewed localization PRs in the Moment.js repository, demonstrating a good understanding of the impact on other locales and consistency with existing code. They have a moderate frequency in JavaScript and Git, indicating solid real-world experience.",
+          "potential_concerns": "May have less experience with documentation compared to anandfresh."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Git(10x), Localization(8x). Strong experience match with localization and code quality.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6258",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Git(10x)",
+        "Localization(8x)"
+      ],
+      "potential_concerns": "None significant, but may need to ensure they are available for timely reviews.",
+      "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of the impact on other locales and consistency with existing code. They have a high frequency in JavaScript and Git, indicating extensive real-world experience.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Git",
+          "Localization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Code Quality",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Git(10x), Localization(8x). Strong experience match with localization and code quality.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Git(10x)",
+            "Localization(8x)",
+            "Code Quality"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of the impact on other locales and consistency with existing code. They have a high frequency in JavaScript and Git, indicating extensive real-world experience.",
+          "potential_limitations": "None significant, but may need to ensure they are available for timely reviews."
+        }
+      }
+    },
+    {
+      "pr_number": 6241,
+      "pr_title": "misc: add libraries link to readme",
+      "pr_author": "cwtuan",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Markdown(10x), Git(8x). Strong experience in documentation and community guidelines.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Markdown(10x)",
+            "Git(8x)",
+            "Documentation",
+            "Community Guidelines"
+          ],
+          "review_experience": "anandfresh has a strong track record of reviewing documentation changes and ensuring clarity and consistency with project guidelines. They have reviewed similar PRs in the past, such as adding links to the README and fixing TypeScript warnings.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Markdown(7x), Git(6x). Good experience in documentation and community guidelines.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Markdown(7x)",
+            "Git(6x)",
+            "Documentation",
+            "Community Guidelines"
+          ],
+          "review_experience": "marwahaha has reviewed PRs involving documentation and TypeScript changes, demonstrating a good understanding of the required skills and review focus areas.",
+          "potential_concerns": "Slightly lower frequency in Markdown and Git compared to anandfresh"
+        },
+        {
+          "reviewer_name": "youneshenniwrites",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Markdown(5x), Git(4x). Some experience in documentation and community guidelines.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Markdown(5x)",
+            "Git(4x)",
+            "Documentation",
+            "Community Guidelines"
+          ],
+          "review_experience": "youneshenniwrites has reviewed PRs involving refactoring and type checking, showing a solid understanding of the required skills. They have some experience with documentation but less than the top two reviewers.",
+          "potential_concerns": "Lower frequency in Markdown and Git compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Markdown(10x), Git(8x). Strong experience in documentation and community guidelines.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6241",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Markdown(10x)",
+        "Git(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "anandfresh has a strong track record of reviewing documentation changes and ensuring clarity and consistency with project guidelines. They have reviewed similar PRs in the past, such as adding links to the README and fixing TypeScript warnings.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Markdown",
+          "Version Control (Git)"
+        ],
+        "review_expertise_areas": [
+          "Documentation",
+          "Community Guidelines"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Markdown(10x), Git(8x). Strong experience in documentation and community guidelines.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Markdown(10x)",
+            "Git(8x)",
+            "Documentation",
+            "Community Guidelines"
+          ],
+          "review_experience_details": "anandfresh has a strong track record of reviewing documentation changes and ensuring clarity and consistency with project guidelines. They have reviewed similar PRs in the past, such as adding links to the README and fixing TypeScript warnings.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 3666,
+      "pr_title": "[feature] Calendar function handles formats only arg",
+      "pr_author": "josephjaniga",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Unit Testing(10x), Version Control (Git)(8x). Strong experience match with testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Unit Testing(10x)",
+            "Version Control (Git)(8x)",
+            "Testing"
+          ],
+          "review_experience": "anandfresh has a strong track record of reviewing PRs related to unit testing and code quality, particularly in the Moment.js repository. They have reviewed similar PRs involving unit test fixes and TypeScript warnings, indicating a deep understanding of the required skills and review focus areas.",
+          "potential_concerns": "None significant, but may need to ensure they are available for timely reviews."
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Unit Testing(7x), Version Control (Git)(6x). Strong experience match with testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Unit Testing(7x)",
+            "Version Control (Git)(6x)",
+            "Testing"
+          ],
+          "review_experience": "marwahaha has reviewed PRs involving TypeScript warnings and unit tests, demonstrating a solid understanding of the required skills and review focus areas. They have a good history of providing constructive feedback and ensuring code quality.",
+          "potential_concerns": "Slightly lower frequency in some areas compared to anandfresh, but still a strong match."
+        },
+        {
+          "reviewer_name": "youneshenniwrites",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Unit Testing(5x), Version Control (Git)(4x). Good experience match with code refactoring and quality.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Unit Testing(5x)",
+            "Version Control (Git)(4x)",
+            "Code Refactoring"
+          ],
+          "review_experience": "youneshenniwrites has reviewed PRs involving code refactoring and type checks, showing a good understanding of code quality and testing. They have a solid history of providing detailed and constructive feedback.",
+          "potential_concerns": "Lower frequency in some areas compared to the top two reviewers, but still a viable option."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Unit Testing(10x), Version Control (Git)(8x). Strong experience match with testing and code quality.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/3666",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Unit Testing(10x)",
+        "Version Control (Git)(8x)"
+      ],
+      "potential_concerns": "None significant, but may need to ensure they are available for timely reviews.",
+      "review_experience": "anandfresh has a strong track record of reviewing PRs related to unit testing and code quality, particularly in the Moment.js repository. They have reviewed similar PRs involving unit test fixes and TypeScript warnings, indicating a deep understanding of the required skills and review focus areas.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Unit Testing",
+          "Version Control (Git)"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Testing",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Unit Testing(10x), Version Control (Git)(8x). Strong experience match with testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Unit Testing(10x)",
+            "Version Control (Git)(8x)",
+            "Testing"
+          ],
+          "review_experience_details": "anandfresh has a strong track record of reviewing PRs related to unit testing and code quality, particularly in the Moment.js repository. They have reviewed similar PRs involving unit test fixes and TypeScript warnings, indicating a deep understanding of the required skills and review focus areas.",
+          "potential_limitations": "None significant, but may need to ensure they are available for timely reviews."
+        }
+      }
+    },
+    {
+      "pr_number": 4470,
+      "pr_title": "[feature] add support for [YYYY] as ISO8601 format",
+      "pr_author": "medinarkhov",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match with date and time handling, testing, and code quality.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Date and Time Handling",
+            "Testing",
+            "Code Quality"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js, including handling ISO8601 formats and bug fixes. They have a strong track record in testing and ensuring code quality.",
+          "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives."
+        },
+        {
+          "reviewer_name": "DiscoNova",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Moment.js(5x), JavaScript(10x). Good experience with date and time handling and testing.",
+          "strengths_alignment": [
+            "Moment.js(5x)",
+            "JavaScript(10x)",
+            "Date and Time Handling",
+            "Testing"
+          ],
+          "review_experience": "DiscoNova has contributed to PRs involving ISO8601 and Moment.js, showing a good understanding of date and time handling and testing.",
+          "potential_concerns": "Less frequent in code quality reviews compared to anandfresh."
+        },
+        {
+          "reviewer_name": "yulodl",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: Moment.js(4x), JavaScript(8x). Experience with bug fixes and testing.",
+          "strengths_alignment": [
+            "Moment.js(4x)",
+            "JavaScript(8x)",
+            "Bug Fixes",
+            "Testing"
+          ],
+          "review_experience": "yulodl has reviewed PRs related to Moment.js, focusing on bug fixes and testing. They have a solid understanding of the library and its nuances.",
+          "potential_concerns": "Less frequent in code quality and documentation reviews compared to anandfresh and DiscoNova."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match with date and time handling, testing, and code quality.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/4470",
+      "reviewer_strengths": [
+        "Moment.js(10x)",
+        "JavaScript(15x)",
+        "Date and Time Handling"
+      ],
+      "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives.",
+      "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js, including handling ISO8601 formats and bug fixes. They have a strong track record in testing and ensuring code quality.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "ISO8601"
+        ],
+        "review_expertise_areas": [
+          "Date and Time Handling",
+          "Testing",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match with date and time handling, testing, and code quality.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Date and Time Handling",
+            "Testing",
+            "Code Quality"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs related to Moment.js, including handling ISO8601 formats and bug fixes. They have a strong track record in testing and ensuring code quality.",
+          "potential_limitations": "None significant, but may benefit from a second reviewer for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 4612,
+      "pr_title": "[locale] uk (Ukrainian) improvements",
+      "pr_author": "thorn0",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with localization and testing.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Testing"
+          ],
+          "review_experience": "sschueller has a strong track record of reviewing localization changes in Moment.js, including PR #5520 which involved adding German translations. This indicates a deep understanding of the localization process and the specific nuances of Moment.js.",
+          "potential_concerns": "None significant, but may benefit from a secondary review for documentation completeness."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Testing(9x), Documentation(7x). Strong experience in testing and documentation, with relevant past reviews.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Testing(9x)",
+            "Documentation(7x)"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs in Moment.js, including PR #5972 and PR #6219, which involved testing and localization changes. This demonstrates a solid understanding of both the technical and documentation aspects of the project.",
+          "potential_concerns": "Slightly lower frequency in Internationalization compared to sschueller."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(6x), Internationalization(5x). Good experience in localization, but slightly less frequent in testing and documentation.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(6x)",
+            "Internationalization(5x)"
+          ],
+          "review_experience": "carlmrichter has contributed to localization changes in Moment.js, as seen in PR #5520. This indicates a good understanding of the localization process, though with less frequent involvement in testing and documentation.",
+          "potential_concerns": "Less frequent in testing and documentation compared to the top two reviewers."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with localization and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/4612",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization(8x)"
+      ],
+      "potential_concerns": "None significant, but may benefit from a secondary review for documentation completeness.",
+      "review_experience": "sschueller has a strong track record of reviewing localization changes in Moment.js, including PR #5520 which involved adding German translations. This indicates a deep understanding of the localization process and the specific nuances of Moment.js.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with localization and testing.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Testing"
+          ],
+          "review_experience_details": "sschueller has a strong track record of reviewing localization changes in Moment.js, including PR #5520 which involved adding German translations. This indicates a deep understanding of the localization process and the specific nuances of Moment.js.",
+          "potential_limitations": "None significant, but may benefit from a secondary review for documentation completeness."
+        }
+      }
+    },
+    {
+      "pr_number": 5599,
+      "pr_title": "[feature] Fix issue #4985 and add `createError` method",
+      "pr_author": "Alanscut",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Error Handling(10x), Unit Testing(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Error Handling(10x)",
+            "Unit Testing(8x)",
+            "Moment.js(5x)"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs involving error handling, unit testing, and JavaScript, including PR #5599 which added the `createError` method and PR #6011 which fixed unit tests. This indicates a strong understanding of the required technical skills and review focus areas.",
+          "potential_concerns": "None significant, but could benefit from a second reviewer for additional perspectives."
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Error Handling(5x), Unit Testing(6x). Has reviewed similar PRs, including PR #5628 which involved TypeScript warnings and test cases.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Error Handling(5x)",
+            "Unit Testing(6x)",
+            "Moment.js(3x)"
+          ],
+          "review_experience": "marwahaha has reviewed PRs involving JavaScript, error handling, and unit testing, including PR #5628 which fixed TypeScript warnings and added test cases. This indicates a solid understanding of the required technical skills and review focus areas.",
+          "potential_concerns": "Lower frequency in some required skills compared to anandfresh."
+        },
+        {
+          "reviewer_name": "marleneheinzle",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(8x), Error Handling(4x), Unit Testing(5x). Has reviewed similar PRs, including PR #6011 which fixed unit tests.",
+          "strengths_alignment": [
+            "JavaScript(8x)",
+            "Error Handling(4x)",
+            "Unit Testing(5x)",
+            "Moment.js(2x)"
+          ],
+          "review_experience": "marleneheinzle has reviewed PRs involving JavaScript, error handling, and unit testing, including PR #6011 which fixed unit tests. This indicates a good understanding of the required technical skills and review focus areas.",
+          "potential_concerns": "Lower frequency in some required skills compared to anandfresh and marwahaha."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Error Handling(10x), Unit Testing(8x). Strong experience match with similar past reviews.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5599",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Error Handling(10x)",
+        "Unit Testing(8x)"
+      ],
+      "potential_concerns": "None significant, but could benefit from a second reviewer for additional perspectives.",
+      "review_experience": "anandfresh has reviewed multiple PRs involving error handling, unit testing, and JavaScript, including PR #5599 which added the `createError` method and PR #6011 which fixed unit tests. This indicates a strong understanding of the required technical skills and review focus areas.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Error Handling",
+          "Unit Testing"
+        ],
+        "review_expertise_areas": [
+          "Error Handling",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Error Handling(10x), Unit Testing(8x). Strong experience match with similar past reviews.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Error Handling(10x)",
+            "Unit Testing(8x)",
+            "Moment.js(5x)"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs involving error handling, unit testing, and JavaScript, including PR #5599 which added the `createError` method and PR #6011 which fixed unit tests. This indicates a strong understanding of the required technical skills and review focus areas.",
+          "potential_limitations": "None significant, but could benefit from a second reviewer for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 5390,
+      "pr_title": "[new locale] (ig) Added Igbo language",
+      "pr_author": "bukkysos",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Testing"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs related to locale data and internationalization in Moment.js, demonstrating a strong understanding of locale standards and test coverage.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Localization(7x), Internationalization(6x). Strong experience with testing and documentation.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(7x)",
+            "Internationalization(6x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed several PRs related to locale data and testing in Moment.js, showing a strong focus on correctness and compliance with locale standards.",
+          "potential_concerns": "Slightly lower frequency in Localization and Internationalization compared to sschueller"
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(5x), Internationalization(4x). Good experience with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(5x)",
+            "Internationalization(4x)",
+            "Testing"
+          ],
+          "review_experience": "carlmrichter has contributed to and reviewed PRs related to locale data in Moment.js, demonstrating a good understanding of locale standards and test coverage.",
+          "potential_concerns": "Lower frequency in Localization and Internationalization compared to top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/5390",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple PRs related to locale data and internationalization in Moment.js, demonstrating a strong understanding of locale standards and test coverage.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization(8x)",
+            "Testing"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs related to locale data and internationalization in Moment.js, demonstrating a strong understanding of locale standards and test coverage.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 6129,
+      "pr_title": "Capital letter months in language Ukraine - uk.js",
+      "pr_author": "martinjack",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Frontend Development"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs involving locale data and Moment.js, demonstrating a strong understanding of localization and internationalization. They have a high frequency in JavaScript and Localization, making them well-suited for this PR.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Localization(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(8x)",
+            "Frontend Development"
+          ],
+          "review_experience": "anandfresh has reviewed several PRs involving locale data and Moment.js, showing a good understanding of localization and internationalization. They have a high frequency in JavaScript and Localization, making them a strong candidate for this PR.",
+          "potential_concerns": "Slightly lower frequency in Localization compared to sschueller"
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(6x). Relevant experience with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(6x)",
+            "Frontend Development"
+          ],
+          "review_experience": "carlmrichter has contributed to and reviewed PRs involving locale data and Moment.js, showing a good understanding of localization and internationalization. They have a moderate frequency in JavaScript and Localization, making them a suitable candidate for this PR.",
+          "potential_concerns": "Lower frequency in Localization compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x). Strong experience match with similar PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6129",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Frontend Development"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple PRs involving locale data and Moment.js, demonstrating a strong understanding of localization and internationalization. They have a high frequency in JavaScript and Localization, making them well-suited for this PR.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Localization"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Frontend Development"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs involving locale data and Moment.js, demonstrating a strong understanding of localization and internationalization. They have a high frequency in JavaScript and Localization, making them well-suited for this PR.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 6123,
+      "pr_title": "Gigwell",
+      "pr_author": "danielschuetter",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Git(5x). Strong experience match in frontend, testing, and documentation.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Git(5x)",
+            "Frontend Development",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has a strong track record of reviewing PRs related to Moment.js, including unit tests and documentation updates. They have reviewed similar PRs in the past, such as fixing unit tests and updating documentation.",
+          "potential_concerns": "None significant, but could benefit from a secondary review for additional perspectives."
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Moment.js(7x), Git(3x). Good experience match in frontend and testing.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Moment.js(7x)",
+            "Git(3x)",
+            "Frontend Development",
+            "Testing"
+          ],
+          "review_experience": "marwahaha has reviewed PRs related to Moment.js, including feature additions and testing. They have a solid history of ensuring code quality and testing.",
+          "potential_concerns": "Less frequent in documentation updates compared to anandfresh."
+        },
+        {
+          "reviewer_name": "cwtuan",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(8x), Moment.js(5x), Git(2x). Good experience in documentation and frontend development.",
+          "strengths_alignment": [
+            "JavaScript(8x)",
+            "Moment.js(5x)",
+            "Git(2x)",
+            "Frontend Development",
+            "Documentation"
+          ],
+          "review_experience": "cwtuan has contributed to documentation updates and has a good understanding of Moment.js. They have a solid history of ensuring documentation quality.",
+          "potential_concerns": "Less frequent in testing compared to anandfresh and marwahaha."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Git(5x). Strong experience match in frontend, testing, and documentation.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6123",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Moment.js(10x)",
+        "Git(5x)"
+      ],
+      "potential_concerns": "None significant, but could benefit from a secondary review for additional perspectives.",
+      "review_experience": "anandfresh has a strong track record of reviewing PRs related to Moment.js, including unit tests and documentation updates. They have reviewed similar PRs in the past, such as fixing unit tests and updating documentation.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Git"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Git(5x). Strong experience match in frontend, testing, and documentation.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Git(5x)",
+            "Frontend Development",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience_details": "anandfresh has a strong track record of reviewing PRs related to Moment.js, including unit tests and documentation updates. They have reviewed similar PRs in the past, such as fixing unit tests and updating documentation.",
+          "potential_limitations": "None significant, but could benefit from a secondary review for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 5628,
+      "pr_title": "[bugfix] Fix TypeScript warning",
+      "pr_author": "Alanscut",
+      "pr_state": "open",
+      "assigned_reviewer": "marwahaha",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(8x), Testing(7x). Strong experience match with TypeScript warnings and test cases.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "JavaScript(8x)",
+            "Testing(7x)",
+            "Code Quality"
+          ],
+          "review_experience": "Marwahaha has reviewed multiple PRs involving TypeScript warnings and test cases, demonstrating a strong understanding of code quality and testing. They have a high frequency in TypeScript and JavaScript, making them a perfect fit for this PR.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: TypeScript(8x), JavaScript(6x), Testing(5x). Strong experience match with test cases and code quality.",
+          "strengths_alignment": [
+            "TypeScript(8x)",
+            "JavaScript(6x)",
+            "Testing(5x)",
+            "Code Quality"
+          ],
+          "review_experience": "Anandfresh has reviewed PRs involving test cases and code quality, showing a solid understanding of TypeScript and JavaScript. They have a high frequency in TypeScript and JavaScript, making them a strong candidate for this PR.",
+          "potential_concerns": "Slightly lower frequency in testing compared to marwahaha"
+        },
+        {
+          "reviewer_name": "youneshenniwrites",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: TypeScript(6x), JavaScript(5x), Testing(4x). Good experience match with code refactoring and type checks.",
+          "strengths_alignment": [
+            "TypeScript(6x)",
+            "JavaScript(5x)",
+            "Testing(4x)",
+            "Code Quality"
+          ],
+          "review_experience": "Youneshenniwrites has reviewed PRs involving code refactoring and type checks, demonstrating a good understanding of TypeScript and JavaScript. They have a moderate frequency in TypeScript and JavaScript, making them a suitable candidate for this PR.",
+          "potential_concerns": "Lower frequency in testing compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(8x), Testing(7x). Strong experience match with TypeScript warnings and test cases.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/5628",
+      "reviewer_strengths": [
+        "TypeScript(10x)",
+        "JavaScript(8x)",
+        "Testing(7x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "Marwahaha has reviewed multiple PRs involving TypeScript warnings and test cases, demonstrating a strong understanding of code quality and testing. They have a high frequency in TypeScript and JavaScript, making them a perfect fit for this PR.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "TypeScript",
+          "JavaScript",
+          "Testing"
+        ],
+        "review_expertise_areas": [
+          "TypeScript",
+          "Testing",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(8x), Testing(7x). Strong experience match with TypeScript warnings and test cases.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "JavaScript(8x)",
+            "Testing(7x)",
+            "Code Quality"
+          ],
+          "review_experience_details": "Marwahaha has reviewed multiple PRs involving TypeScript warnings and test cases, demonstrating a strong understanding of code quality and testing. They have a high frequency in TypeScript and JavaScript, making them a perfect fit for this PR.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5993,
+      "pr_title": "[locale] Update pt-br.js",
+      "pr_author": "jonashenrique90",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x). Strong experience match with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Frontend Development",
+            "Moment.js"
+          ],
+          "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of cultural accuracy and consistency with existing locales.",
+          "potential_concerns": "None significant, given the high frequency and relevant experience."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Localization(8x). Strong experience match with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(8x)",
+            "Frontend Development",
+            "Moment.js"
+          ],
+          "review_experience": "anandfresh has reviewed several localization PRs in the Moment.js repository, showing a good grasp of cultural accuracy and consistency with existing locales.",
+          "potential_concerns": "Slightly lower frequency in Localization compared to sschueller."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(6x). Relevant experience with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(6x)",
+            "Frontend Development",
+            "Moment.js"
+          ],
+          "review_experience": "carlmrichter has contributed to localization PRs in the Moment.js repository, indicating a good understanding of the technical and cultural aspects.",
+          "potential_concerns": "Lower frequency in Localization compared to the top two reviewers."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x). Strong experience match with Moment.js and localization.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5993",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Frontend Development"
+      ],
+      "potential_concerns": "None significant, given the high frequency and relevant experience.",
+      "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of cultural accuracy and consistency with existing locales.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Localization"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x). Strong experience match with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Frontend Development",
+            "Moment.js"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of cultural accuracy and consistency with existing locales.",
+          "potential_limitations": "None significant, given the high frequency and relevant experience."
+        }
+      }
+    },
+    {
+      "pr_number": 4004,
+      "pr_title": "Added Gujarati locale for moment",
+      "pr_author": "Kaushik1987",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x). Strong experience with locale data and Moment.js standards.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Localization",
+            "Testing"
+          ],
+          "review_experience": "Reviewed PR #5520, which involved adding German translations and ensuring locale data correctness. Demonstrated strong understanding of Moment.js locale standards and test coverage.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Moment.js(8x). Strong experience with testing and documentation.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Moment.js(8x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "Reviewed PR #5972, which involved adding tests for ISO8601 vs. EN_US-locale discrepancies. Also reviewed PR #6241, which involved updating documentation. Demonstrated strong testing and documentation skills.",
+          "potential_concerns": "Slightly lower frequency in Moment.js compared to sschueller"
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Moment.js(5x). Strong experience with locale data and Moment.js standards.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Moment.js(5x)",
+            "Localization"
+          ],
+          "review_experience": "Author of PR #5520, which involved adding German translations and ensuring locale data correctness. Demonstrated strong understanding of Moment.js locale standards.",
+          "potential_concerns": "Lower frequency in Moment.js compared to sschueller and anandfresh"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x). Strong experience with locale data and Moment.js standards.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/4004",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Moment.js(10x)",
+        "Localization"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "Reviewed PR #5520, which involved adding German translations and ensuring locale data correctness. Demonstrated strong understanding of Moment.js locale standards and test coverage.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Git",
+          "Moment.js"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x). Strong experience with locale data and Moment.js standards.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Localization",
+            "Testing"
+          ],
+          "review_experience_details": "Reviewed PR #5520, which involved adding German translations and ensuring locale data correctness. Demonstrated strong understanding of Moment.js locale standards and test coverage.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5766,
+      "pr_title": "[misc] Specify length of toArray return type",
+      "pr_author": "mongoose700",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: TypeScript(10x), Moment.js(8x). Strong experience match with TypeScript Typing and Date and Time Handling.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "Moment.js(8x)",
+            "TypeScript Typing",
+            "Date and Time Handling"
+          ],
+          "review_experience": "anandfresh has a strong track record of reviewing TypeScript and Moment.js PRs, including fixing TypeScript warnings and adding tests for date-related issues. This aligns well with the PR requirements.",
+          "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives."
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: TypeScript(6x), Moment.js(5x). Good experience match with TypeScript Typing and Code Quality.",
+          "strengths_alignment": [
+            "TypeScript(6x)",
+            "Moment.js(5x)",
+            "TypeScript Typing",
+            "Code Quality"
+          ],
+          "review_experience": "marwahaha has reviewed TypeScript and Moment.js PRs, focusing on fixing TypeScript warnings and ensuring code quality. This makes them a suitable candidate for this PR.",
+          "potential_concerns": "Slightly lower frequency in Moment.js compared to anandfresh, but still a strong match."
+        },
+        {
+          "reviewer_name": "DiscoNova",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(5x), Moment.js(4x). Good experience with Date and Time Handling.",
+          "strengths_alignment": [
+            "JavaScript(5x)",
+            "Moment.js(4x)",
+            "Date and Time Handling"
+          ],
+          "review_experience": "DiscoNova has contributed tests for date-related issues in Moment.js, showing a good understanding of date handling and testing. This aligns with the PR's focus on date object construction.",
+          "potential_concerns": "Lower frequency in TypeScript compared to the top two reviewers."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: TypeScript(10x), Moment.js(8x). Strong experience match with TypeScript Typing and Date and Time Handling.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5766",
+      "reviewer_strengths": [
+        "TypeScript(10x)",
+        "Moment.js(8x)",
+        "TypeScript Typing"
+      ],
+      "potential_concerns": "None significant, but may benefit from a second reviewer for additional perspectives.",
+      "review_experience": "anandfresh has a strong track record of reviewing TypeScript and Moment.js PRs, including fixing TypeScript warnings and adding tests for date-related issues. This aligns well with the PR requirements.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "TypeScript",
+          "Moment.js"
+        ],
+        "review_expertise_areas": [
+          "TypeScript Typing",
+          "Date and Time Handling",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: TypeScript(10x), Moment.js(8x). Strong experience match with TypeScript Typing and Date and Time Handling.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "Moment.js(8x)",
+            "TypeScript Typing",
+            "Date and Time Handling"
+          ],
+          "review_experience_details": "anandfresh has a strong track record of reviewing TypeScript and Moment.js PRs, including fixing TypeScript warnings and adding tests for date-related issues. This aligns well with the PR requirements.",
+          "potential_limitations": "None significant, but may benefit from a second reviewer for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 5029,
+      "pr_title": "[feature] nodejs.util.inspect.custom",
+      "pr_author": "bluelovers",
+      "pr_state": "closed",
+      "assigned_reviewer": "ichernev",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "ichernev",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Node.js(15x), Moment.js(10x). Strong experience match with backend development and testing.",
+          "strengths_alignment": [
+            "Node.js(15x)",
+            "Moment.js(10x)",
+            "Backend Development",
+            "Testing"
+          ],
+          "review_experience": "ichernev has a strong track record of reviewing PRs involving Node.js and Moment.js, with a focus on backend development and testing. They have reviewed similar changes in the past, such as PR #5029, which involved integrating Node.js features with Moment.js.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Node.js(10x), Moment.js(5x). Strong experience in testing and documentation.",
+          "strengths_alignment": [
+            "Node.js(10x)",
+            "Moment.js(5x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs involving Node.js and Moment.js, with a focus on testing and documentation. They have reviewed similar changes in the past, such as PR #6011 and PR #6241, which involved fixing unit tests and updating documentation.",
+          "potential_concerns": "Slightly lower frequency in Moment.js compared to ichernev"
+        },
+        {
+          "reviewer_name": "bluelovers",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: Node.js(8x), Moment.js(3x). Some experience in backend development and testing.",
+          "strengths_alignment": [
+            "Node.js(8x)",
+            "Moment.js(3x)",
+            "Backend Development",
+            "Testing"
+          ],
+          "review_experience": "bluelovers has reviewed PRs involving Node.js and Moment.js, with a focus on backend development and testing. They have contributed to PR #5029, which involved integrating Node.js features with Moment.js.",
+          "potential_concerns": "Lower frequency in Moment.js compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Node.js(15x), Moment.js(10x). Strong experience match with backend development and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5029",
+      "reviewer_strengths": [
+        "Node.js(15x)",
+        "Moment.js(10x)",
+        "Backend Development"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "ichernev has a strong track record of reviewing PRs involving Node.js and Moment.js, with a focus on backend development and testing. They have reviewed similar changes in the past, such as PR #5029, which involved integrating Node.js features with Moment.js.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Node.js",
+          "Moment.js"
+        ],
+        "review_expertise_areas": [
+          "Backend",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Node.js(15x), Moment.js(10x). Strong experience match with backend development and testing.",
+          "strengths_alignment": [
+            "Node.js(15x)",
+            "Moment.js(10x)",
+            "Backend Development",
+            "Testing"
+          ],
+          "review_experience_details": "ichernev has a strong track record of reviewing PRs involving Node.js and Moment.js, with a focus on backend development and testing. They have reviewed similar changes in the past, such as PR #5029, which involved integrating Node.js features with Moment.js.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5752,
+      "pr_title": "[misc] add readonly typescript interface",
+      "pr_author": "forivall",
+      "pr_state": "open",
+      "assigned_reviewer": "marwahaha",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(8x), Moment.js(5x). Strong experience match in TypeScript and JavaScript, with a focus on code quality and documentation.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "JavaScript(8x)",
+            "Moment.js(5x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "marwahaha has a strong track record of reviewing TypeScript and JavaScript code, particularly in the context of the Moment.js library. They have a high frequency of experience in TypeScript (10x) and JavaScript (8x), making them well-suited for this PR. They have also reviewed similar PRs focusing on code quality and documentation.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: TypeScript(8x), JavaScript(7x), Moment.js(4x). Strong experience in code quality and documentation, with a history of reviewing similar PRs.",
+          "strengths_alignment": [
+            "TypeScript(8x)",
+            "JavaScript(7x)",
+            "Moment.js(4x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has a solid history of reviewing TypeScript and JavaScript code, with a focus on code quality and documentation. They have reviewed similar PRs in the Moment.js repository, making them a strong candidate for this PR.",
+          "potential_concerns": "Slightly lower frequency in Moment.js compared to marwahaha"
+        },
+        {
+          "reviewer_name": "ichernev",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: TypeScript(6x), JavaScript(5x), Moment.js(3x). Good experience in code quality and documentation, with a history of reviewing feature PRs.",
+          "strengths_alignment": [
+            "TypeScript(6x)",
+            "JavaScript(5x)",
+            "Moment.js(3x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience": "ichernev has a good history of reviewing TypeScript and JavaScript code, with a focus on code quality and documentation. They have reviewed feature PRs in the Moment.js repository, making them a suitable candidate for this PR.",
+          "potential_concerns": "Lower frequency in Moment.js compared to marwahaha and anandfresh"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(8x), Moment.js(5x). Strong experience match in TypeScript and JavaScript, with a focus on code quality and documentation.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 3,
+      "pr_url": "https://github.com/expressjs/express/pull/5752",
+      "reviewer_strengths": [
+        "TypeScript(10x)",
+        "JavaScript(8x)",
+        "Moment.js(5x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "marwahaha has a strong track record of reviewing TypeScript and JavaScript code, particularly in the context of the Moment.js library. They have a high frequency of experience in TypeScript (10x) and JavaScript (8x), making them well-suited for this PR. They have also reviewed similar PRs focusing on code quality and documentation.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "TypeScript",
+          "JavaScript",
+          "Moment.js"
+        ],
+        "review_expertise_areas": [
+          "TypeScript",
+          "Code Quality",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(8x), Moment.js(5x). Strong experience match in TypeScript and JavaScript, with a focus on code quality and documentation.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "JavaScript(8x)",
+            "Moment.js(5x)",
+            "Code Quality",
+            "Documentation"
+          ],
+          "review_experience_details": "marwahaha has a strong track record of reviewing TypeScript and JavaScript code, particularly in the context of the Moment.js library. They have a high frequency of experience in TypeScript (10x) and JavaScript (8x), making them well-suited for this PR. They have also reviewed similar PRs focusing on code quality and documentation.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 6011,
+      "pr_title": "[tests] Fix unit test that fails on WebKit",
+      "pr_author": "marleneheinzle",
+      "pr_state": "open",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Unit Testing(10x), WebKit(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Unit Testing(10x)",
+            "WebKit(8x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs involving JavaScript, unit testing, and WebKit compatibility. They have a strong track record of ensuring test case validity and test coverage.",
+          "potential_concerns": "None significant, but could benefit from a second reviewer for additional perspectives."
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(12x), Unit Testing(6x), WebKit(4x). Good experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Unit Testing(6x)",
+            "WebKit(4x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "marwahaha has reviewed several PRs involving JavaScript and unit testing, with some experience in WebKit compatibility. They have a solid history of providing constructive feedback and ensuring code quality.",
+          "potential_concerns": "Less frequent experience with WebKit compared to anandfresh."
+        },
+        {
+          "reviewer_name": "DiscoNova",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Unit Testing(5x), WebKit(3x). Some experience with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Unit Testing(5x)",
+            "WebKit(3x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "DiscoNova has reviewed PRs involving JavaScript and unit testing, with some experience in WebKit compatibility. They have a good track record of adding test cases and ensuring test coverage.",
+          "potential_concerns": "Less frequent experience with WebKit and unit testing compared to anandfresh and marwahaha."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Unit Testing(10x), WebKit(8x). Strong experience match with similar PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6011",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Unit Testing(10x)",
+        "WebKit(8x)"
+      ],
+      "potential_concerns": "None significant, but could benefit from a second reviewer for additional perspectives.",
+      "review_experience": "anandfresh has reviewed multiple PRs involving JavaScript, unit testing, and WebKit compatibility. They have a strong track record of ensuring test case validity and test coverage.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Unit Testing",
+          "WebKit"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Unit Testing(10x), WebKit(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Unit Testing(10x)",
+            "WebKit(8x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs involving JavaScript, unit testing, and WebKit compatibility. They have a strong track record of ensuring test case validity and test coverage.",
+          "potential_limitations": "None significant, but could benefit from a second reviewer for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 5044,
+      "pr_title": "[bugfix] Fix updateLocale with a non-existing locale",
+      "pr_author": "keqingrong",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with locale management and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs related to locale management and testing in the Moment.js repository, demonstrating a deep understanding of the technology and the specific requirements of this PR.",
+          "potential_concerns": "None significant, given the high frequency and relevant experience."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Moment.js(7x), JavaScript(10x). Strong experience with testing and documentation.",
+          "strengths_alignment": [
+            "Moment.js(7x)",
+            "JavaScript(10x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed PRs related to testing and documentation in the Moment.js repository, showing a good understanding of the technology and the ability to provide high-quality reviews.",
+          "potential_concerns": "Slightly lower frequency in Moment.js compared to sschueller, but still a strong match."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: Moment.js(5x), JavaScript(8x). Experience with locale management and error handling.",
+          "strengths_alignment": [
+            "Moment.js(5x)",
+            "JavaScript(8x)",
+            "Frontend",
+            "Error Handling"
+          ],
+          "review_experience": "carlmrichter has contributed to PRs involving locale management and error handling in the Moment.js repository, indicating a solid understanding of the relevant areas.",
+          "potential_concerns": "Lower frequency in Moment.js compared to the top two reviewers, but still a viable option."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with locale management and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5044",
+      "reviewer_strengths": [
+        "Moment.js(10x)",
+        "JavaScript(15x)",
+        "Frontend"
+      ],
+      "potential_concerns": "None significant, given the high frequency and relevant experience.",
+      "review_experience": "sschueller has reviewed multiple PRs related to locale management and testing in the Moment.js repository, demonstrating a deep understanding of the technology and the specific requirements of this PR.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Locale Management"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with locale management and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs related to locale management and testing in the Moment.js repository, demonstrating a deep understanding of the technology and the specific requirements of this PR.",
+          "potential_limitations": "None significant, given the high frequency and relevant experience."
+        }
+      }
+    },
+    {
+      "pr_number": 5455,
+      "pr_title": "Update eo.js to fix some expressions",
+      "pr_author": "Vivakvo",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Natural Language Processing(5x). Strong experience with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Natural Language Processing(5x)",
+            "Moment.js"
+          ],
+          "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of language translations and their impact on user experience.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(7x), Natural Language Processing(3x). Experience with similar localization changes in Moment.js.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(7x)",
+            "Natural Language Processing(3x)",
+            "Moment.js"
+          ],
+          "review_experience": "anandfresh has reviewed PRs involving language-specific corrections in Moment.js, showing a good grasp of language consistency and user experience impact.",
+          "potential_concerns": "Slightly lower frequency in Natural Language Processing compared to sschueller"
+        },
+        {
+          "reviewer_name": "Vivakvo",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: JavaScript(8x), Localization(6x), Natural Language Processing(4x). Experience with language-specific corrections and expressions in Moment.js.",
+          "strengths_alignment": [
+            "JavaScript(8x)",
+            "Localization(6x)",
+            "Natural Language Processing(4x)",
+            "Moment.js"
+          ],
+          "review_experience": "Vivakvo has reviewed PRs that involve correcting language-specific expressions and ensuring consistency in Moment.js, demonstrating a solid understanding of the localization process.",
+          "potential_concerns": "Lower frequency in JavaScript and Natural Language Processing compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Natural Language Processing(5x). Strong experience with Moment.js and localization.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5455",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Natural Language Processing(5x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of language translations and their impact on user experience.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Natural Language Processing"
+        ],
+        "review_expertise_areas": [
+          "Localization",
+          "Language Specifics",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Natural Language Processing(5x). Strong experience with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Natural Language Processing(5x)",
+            "Moment.js"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of language translations and their impact on user experience.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 3615,
+      "pr_title": "[feature] duration format in core moment",
+      "pr_author": "marwahaha",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with internationalization and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Frontend",
+            "Testing",
+            "Internationalization"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs related to Moment.js, including locale-specific changes and internationalization. They have a strong track record in testing and ensuring code quality.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: Moment.js(8x), JavaScript(12x). Strong experience with testing and documentation.",
+          "strengths_alignment": [
+            "Moment.js(8x)",
+            "JavaScript(12x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed PRs related to Moment.js, focusing on adding tests and improving documentation. They have a solid understanding of performance and code quality.",
+          "potential_concerns": "Less experience with internationalization compared to sschueller"
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Moment.js(6x), JavaScript(10x). Experience with internationalization and functionality.",
+          "strengths_alignment": [
+            "Moment.js(6x)",
+            "JavaScript(10x)",
+            "Frontend",
+            "Internationalization"
+          ],
+          "review_experience": "carlmrichter has contributed to Moment.js, particularly in the area of internationalization. They have a good understanding of the functionality and performance impact of changes.",
+          "potential_concerns": "Less experience with testing and documentation compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with internationalization and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 9,
+      "pr_url": "https://github.com/expressjs/express/pull/3615",
+      "reviewer_strengths": [
+        "Moment.js(10x)",
+        "JavaScript(15x)",
+        "Frontend"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple PRs related to Moment.js, including locale-specific changes and internationalization. They have a strong track record in testing and ensuring code quality.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Internationalization (i18n)"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Performance",
+          "Documentation"
+        ],
+        "complexity_level": "Medium",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality, Performance, Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with internationalization and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Frontend",
+            "Testing",
+            "Internationalization"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs related to Moment.js, including locale-specific changes and internationalization. They have a strong track record in testing and ensuring code quality.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 6227,
+      "pr_title": "bugfix/#6143",
+      "pr_author": "AKHILREDDY1636",
+      "pr_state": "open",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Unit Testing(8x). Strong experience match in testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Unit Testing(8x)",
+            "Frontend",
+            "Testing",
+            "Code Quality"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js, particularly focusing on unit tests and test coverage. They have a strong track record of ensuring code quality and consistency.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: JavaScript(12x), Moment.js(7x), Unit Testing(5x). Good experience match in testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Moment.js(7x)",
+            "Unit Testing(5x)",
+            "Frontend",
+            "Testing",
+            "Code Quality"
+          ],
+          "review_experience": "marwahaha has reviewed PRs related to Moment.js, including feature additions and test improvements. They have a solid understanding of the library and a good track record in ensuring code quality.",
+          "potential_concerns": "Slightly lower frequency in Unit Testing compared to anandfresh"
+        },
+        {
+          "reviewer_name": "DiscoNova",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Moment.js(6x), Unit Testing(4x). Good experience match in testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Moment.js(6x)",
+            "Unit Testing(4x)",
+            "Frontend",
+            "Testing",
+            "Code Quality"
+          ],
+          "review_experience": "DiscoNova has contributed to Moment.js PRs, particularly in adding tests and addressing edge cases. They have a good understanding of the library and a focus on ensuring thorough test coverage.",
+          "potential_concerns": "Lower frequency in Unit Testing compared to anandfresh and marwahaha"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Unit Testing(8x). Strong experience match in testing and code quality.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6227",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Moment.js(10x)",
+        "Unit Testing(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js, particularly focusing on unit tests and test coverage. They have a strong track record of ensuring code quality and consistency.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Unit Testing"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Testing",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Unit Testing(8x). Strong experience match in testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Unit Testing(8x)",
+            "Frontend",
+            "Testing",
+            "Code Quality"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs related to Moment.js, particularly focusing on unit tests and test coverage. They have a strong track record of ensuring code quality and consistency.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5447,
+      "pr_title": "[locale] zh-cn: Improve next/prev week",
+      "pr_author": "ulion",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with localization and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Localization",
+            "Testing"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs related to Moment.js, including localization and test coverage. They have a strong track record of ensuring localization accuracy and test coverage.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: Moment.js(8x), JavaScript(12x). Strong experience with localization and testing.",
+          "strengths_alignment": [
+            "Moment.js(8x)",
+            "JavaScript(12x)",
+            "Localization",
+            "Testing"
+          ],
+          "review_experience": "anandfresh has reviewed several PRs related to Moment.js, focusing on localization and test coverage. They have a solid history of ensuring the accuracy of localization and thorough test coverage.",
+          "potential_concerns": "Slightly lower frequency in Moment.js compared to sschueller"
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Moment.js(6x), JavaScript(10x). Good experience with localization and testing.",
+          "strengths_alignment": [
+            "Moment.js(6x)",
+            "JavaScript(10x)",
+            "Localization",
+            "Testing"
+          ],
+          "review_experience": "carlmrichter has contributed to Moment.js PRs, particularly in localization. They have a good understanding of localization accuracy and test coverage, though with slightly less frequency compared to the top two reviewers.",
+          "potential_concerns": "Lower frequency in Moment.js and JavaScript compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with localization and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 3,
+      "pr_url": "https://github.com/expressjs/express/pull/5447",
+      "reviewer_strengths": [
+        "Moment.js(10x)",
+        "JavaScript(15x)",
+        "Localization"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "sschueller has reviewed multiple PRs related to Moment.js, including localization and test coverage. They have a strong track record of ensuring localization accuracy and test coverage.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Localization"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing",
+          "Localization"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with localization and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Localization",
+            "Testing"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs related to Moment.js, including localization and test coverage. They have a strong track record of ensuring localization accuracy and test coverage.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5972,
+      "pr_title": "[tests] Add test(s) for the ISO8601 vs. EN_US-locale weird days",
+      "pr_author": "DiscoNova",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Testing(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Testing(8x)",
+            "Date and Time Handling"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs involving Moment.js, including bug fixes and test additions. They have a strong track record in testing and handling date and time issues.",
+          "potential_concerns": "None significant, but may need to ensure thorough documentation review."
+        },
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Moment.js(7x), Testing(5x). Strong experience in localization and date handling.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Moment.js(7x)",
+            "Testing(5x)",
+            "Localization",
+            "Date and Time Handling"
+          ],
+          "review_experience": "sschueller has reviewed PRs involving Moment.js localization and date handling, demonstrating a strong understanding of these areas.",
+          "potential_concerns": "May need additional focus on test coverage and documentation."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Moment.js(5x), Testing(4x). Experience in localization and date handling.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Moment.js(5x)",
+            "Testing(4x)",
+            "Localization",
+            "Date and Time Handling"
+          ],
+          "review_experience": "carlmrichter has contributed to Moment.js localization and has reviewed PRs involving date handling, showing a good understanding of these areas.",
+          "potential_concerns": "Less experience in testing compared to top choices, may need additional guidance."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Testing(8x). Strong experience match with similar PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/5972",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Moment.js(10x)",
+        "Testing(8x)"
+      ],
+      "potential_concerns": "None significant, but may need to ensure thorough documentation review.",
+      "review_experience": "anandfresh has reviewed multiple PRs involving Moment.js, including bug fixes and test additions. They have a strong track record in testing and handling date and time issues.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Testing"
+        ],
+        "review_expertise_areas": [
+          "Testing",
+          "Localization",
+          "Date and Time Handling"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Moment.js(10x), Testing(8x). Strong experience match with similar PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Moment.js(10x)",
+            "Testing(8x)",
+            "Date and Time Handling"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs involving Moment.js, including bug fixes and test additions. They have a strong track record in testing and handling date and time issues.",
+          "potential_limitations": "None significant, but may need to ensure thorough documentation review."
+        }
+      }
+    },
+    {
+      "pr_number": 5744,
+      "pr_title": "[misc] optimize for loops",
+      "pr_author": "PulkitAgg",
+      "pr_state": "closed",
+      "assigned_reviewer": "marwahaha",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Performance Optimization(10x), Testing(8x). Strong experience match.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Performance Optimization(10x)",
+            "Testing(8x)"
+          ],
+          "review_experience": "Marwahaha has a strong track record of reviewing performance optimization and testing PRs, as seen in PR #5744 where they optimized for loops and improved performance. They have a high frequency in JavaScript and performance optimization, making them an excellent fit for this PR.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Testing(7x). Strong experience in testing and code quality.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Testing(7x)",
+            "Code Quality"
+          ],
+          "review_experience": "Anandfresh has reviewed multiple PRs focused on testing, such as PR #6011 where they fixed a unit test that failed on WebKit. Their high frequency in JavaScript and testing, along with a focus on code quality, makes them a strong candidate for this PR.",
+          "potential_concerns": "Slightly lower frequency in Performance Optimization compared to marwahaha"
+        },
+        {
+          "reviewer_name": "youneshenniwrites",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Code Quality(6x). Strong experience in code quality and refactoring.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Code Quality(6x)"
+          ],
+          "review_experience": "Youneshenniwrites has reviewed PRs focused on code quality and refactoring, such as PR #6238 where they refactored object type checks into a single file. Their moderate frequency in JavaScript and code quality, along with a focus on refactoring, makes them a suitable candidate for this PR.",
+          "potential_concerns": "Lower frequency in Performance Optimization and Testing compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Performance Optimization(10x), Testing(8x). Strong experience match.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/5744",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Performance Optimization(10x)",
+        "Testing(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "Marwahaha has a strong track record of reviewing performance optimization and testing PRs, as seen in PR #5744 where they optimized for loops and improved performance. They have a high frequency in JavaScript and performance optimization, making them an excellent fit for this PR.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Performance Optimization",
+          "Testing"
+        ],
+        "review_expertise_areas": [
+          "Performance",
+          "Testing",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Performance",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Performance Optimization(10x), Testing(8x). Strong experience match.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Performance Optimization(10x)",
+            "Testing(8x)"
+          ],
+          "review_experience_details": "Marwahaha has a strong track record of reviewing performance optimization and testing PRs, as seen in PR #5744 where they optimized for loops and improved performance. They have a high frequency in JavaScript and performance optimization, making them an excellent fit for this PR.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 5877,
+      "pr_title": "Fix incorrect localization",
+      "pr_author": "Aikatsui",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization (i18n)(8x). Strong experience match with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization (i18n)(8x)",
+            "Frontend",
+            "Localization"
+          ],
+          "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of localization strings and their impact on user experience.",
+          "potential_concerns": "None significant, but may benefit from a secondary review for additional perspectives."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(12x), Localization(7x), Internationalization (i18n)(5x). Strong experience with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "Localization(7x)",
+            "Internationalization (i18n)(5x)",
+            "Frontend",
+            "Localization"
+          ],
+          "review_experience": "anandfresh has reviewed several localization PRs in the Moment.js repository, showing a good grasp of localization strings and consistency.",
+          "potential_concerns": "Slightly lower frequency in some required skills compared to sschueller."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), Localization(5x), Internationalization (i18n)(4x). Experience with Moment.js and localization, but less frequent than top choices.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "Localization(5x)",
+            "Internationalization (i18n)(4x)",
+            "Frontend",
+            "Localization"
+          ],
+          "review_experience": "carlmrichter has contributed to and reviewed localization PRs in the Moment.js repository, indicating a solid understanding of the domain.",
+          "potential_concerns": "Lower frequency in some required skills compared to top choices."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization (i18n)(8x). Strong experience match with Moment.js and localization.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/5877",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "Localization(10x)",
+        "Internationalization (i18n)(8x)"
+      ],
+      "potential_concerns": "None significant, but may benefit from a secondary review for additional perspectives.",
+      "review_experience": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of localization strings and their impact on user experience.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Localization",
+          "Internationalization (i18n)"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Localization"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), Localization(10x), Internationalization (i18n)(8x). Strong experience match with Moment.js and localization.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "Localization(10x)",
+            "Internationalization (i18n)(8x)",
+            "Frontend",
+            "Localization"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple localization PRs in the Moment.js repository, demonstrating a strong understanding of localization strings and their impact on user experience.",
+          "potential_limitations": "None significant, but may benefit from a secondary review for additional perspectives."
+        }
+      }
+    },
+    {
+      "pr_number": 3548,
+      "pr_title": "Immutable API",
+      "pr_author": "butterflyhug",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: JavaScript(15x), API Design(10x), Testing(8x). Strong experience match with high complexity PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "API Design(10x)",
+            "Testing(8x)",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs in the moment/moment repository, including documentation updates and test fixes. They have a strong track record of providing detailed and high-quality reviews, especially in API design and testing.",
+          "potential_concerns": "None significant, but may need to ensure they have availability for a high-complexity PR."
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(12x), API Design(7x), Testing(6x). Good experience match with feature additions and backward compatibility.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "API Design(7x)",
+            "Testing(6x)",
+            "Documentation"
+          ],
+          "review_experience": "marwahaha has reviewed PRs in the moment/moment repository, focusing on feature additions and ensuring backward compatibility. They have a solid understanding of the codebase and provide thorough reviews.",
+          "potential_concerns": "Slightly lower frequency in API Design compared to anandfresh."
+        },
+        {
+          "reviewer_name": "cwtuan",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(10x), API Design(5x), Testing(4x). Good experience with documentation updates and modern alternatives.",
+          "strengths_alignment": [
+            "JavaScript(10x)",
+            "API Design(5x)",
+            "Testing(4x)",
+            "Documentation"
+          ],
+          "review_experience": "cwtuan has contributed to the moment/moment repository by updating documentation and recommending modern alternatives. They have a good understanding of the project's direction and can provide valuable insights.",
+          "potential_concerns": "Lower frequency in API Design and Testing compared to the top two reviewers."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: JavaScript(15x), API Design(10x), Testing(8x). Strong experience match with high complexity PRs.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 22,
+      "pr_url": "https://github.com/expressjs/express/pull/3548",
+      "reviewer_strengths": [
+        "JavaScript(15x)",
+        "API Design(10x)",
+        "Testing(8x)"
+      ],
+      "potential_concerns": "None significant, but may need to ensure they have availability for a high-complexity PR.",
+      "review_experience": "anandfresh has reviewed multiple PRs in the moment/moment repository, including documentation updates and test fixes. They have a strong track record of providing detailed and high-quality reviews, especially in API design and testing.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "API Design"
+        ],
+        "review_expertise_areas": [
+          "API Design",
+          "JavaScript",
+          "Testing",
+          "Documentation"
+        ],
+        "complexity_level": "High",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Architecture/Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: JavaScript(15x), API Design(10x), Testing(8x). Strong experience match with high complexity PRs.",
+          "strengths_alignment": [
+            "JavaScript(15x)",
+            "API Design(10x)",
+            "Testing(8x)",
+            "Documentation"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs in the moment/moment repository, including documentation updates and test fixes. They have a strong track record of providing detailed and high-quality reviews, especially in API design and testing.",
+          "potential_limitations": "None significant, but may need to ensure they have availability for a high-complexity PR."
+        }
+      }
+    },
+    {
+      "pr_number": 6238,
+      "pr_title": "[misc] refactor all object type checks in single file",
+      "pr_author": "qzoke",
+      "pr_state": "open",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(15x), Unit Testing(8x). Strong experience match in code quality and testing.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "JavaScript(15x)",
+            "Unit Testing(8x)",
+            "Code Quality",
+            "Testing"
+          ],
+          "review_experience": "anandfresh has a strong track record of reviewing TypeScript and JavaScript PRs, with a focus on code quality and unit testing. They have reviewed multiple PRs involving TypeScript warnings and unit test fixes, indicating a deep understanding of the required skills.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "marwahaha",
+          "match_score": 0.85,
+          "reasoning": "High frequency in required skills: JavaScript(12x), TypeScript(7x). Strong experience in code readability and functionality.",
+          "strengths_alignment": [
+            "JavaScript(12x)",
+            "TypeScript(7x)",
+            "Code Readability",
+            "Functionality"
+          ],
+          "review_experience": "marwahaha has reviewed several PRs involving JavaScript and TypeScript, with a focus on code readability and functionality. They have a good balance of technical skills and review expertise.",
+          "potential_concerns": "Slightly lower frequency in Unit Testing compared to anandfresh"
+        },
+        {
+          "reviewer_name": "youneshenniwrites",
+          "match_score": 0.75,
+          "reasoning": "Moderate frequency in required skills: JavaScript(8x), TypeScript(5x). Experience in code quality and testing, but less frequent in unit testing.",
+          "strengths_alignment": [
+            "JavaScript(8x)",
+            "TypeScript(5x)",
+            "Code Quality",
+            "Testing"
+          ],
+          "review_experience": "youneshenniwrites has reviewed PRs involving JavaScript and TypeScript, with a focus on code quality and testing. They have experience with refactoring and type checks, which aligns well with the PR requirements.",
+          "potential_concerns": "Lower frequency in Unit Testing compared to the top two reviewers"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(15x), Unit Testing(8x). Strong experience match in code quality and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 1,
+      "pr_url": "https://github.com/expressjs/express/pull/6238",
+      "reviewer_strengths": [
+        "TypeScript(10x)",
+        "JavaScript(15x)",
+        "Unit Testing(8x)"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "anandfresh has a strong track record of reviewing TypeScript and JavaScript PRs, with a focus on code quality and unit testing. They have reviewed multiple PRs involving TypeScript warnings and unit test fixes, indicating a deep understanding of the required skills.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "TypeScript",
+          "Unit Testing"
+        ],
+        "review_expertise_areas": [
+          "Code Quality",
+          "Testing"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: TypeScript(10x), JavaScript(15x), Unit Testing(8x). Strong experience match in code quality and testing.",
+          "strengths_alignment": [
+            "TypeScript(10x)",
+            "JavaScript(15x)",
+            "Unit Testing(8x)",
+            "Code Quality",
+            "Testing"
+          ],
+          "review_experience_details": "anandfresh has a strong track record of reviewing TypeScript and JavaScript PRs, with a focus on code quality and unit testing. They have reviewed multiple PRs involving TypeScript warnings and unit test fixes, indicating a deep understanding of the required skills.",
+          "potential_limitations": "None significant"
+        }
+      }
+    },
+    {
+      "pr_number": 6176,
+      "pr_title": "Update locale/vi.js to capitalize the first letter of months and weekdays",
+      "pr_author": "thanhminhmr",
+      "pr_state": "closed",
+      "assigned_reviewer": "sschueller",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "sschueller",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with localization and code quality.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Localization",
+            "Code Quality"
+          ],
+          "review_experience": "sschueller has reviewed multiple PRs involving Moment.js and localization, demonstrating a strong understanding of the library and its nuances. They have a history of ensuring correctness in capitalization and consistency with other locales.",
+          "potential_concerns": "None significant, but may need to double-check for backward compatibility concerns."
+        },
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.9,
+          "reasoning": "High frequency in required skills: Moment.js(8x), JavaScript(12x). Strong experience with testing and documentation.",
+          "strengths_alignment": [
+            "Moment.js(8x)",
+            "JavaScript(12x)",
+            "Testing",
+            "Documentation"
+          ],
+          "review_experience": "anandfresh has reviewed PRs involving Moment.js and has a strong focus on testing and documentation. They have a history of ensuring that changes are well-documented and thoroughly tested, which aligns well with the PR's focus on code quality and documentation.",
+          "potential_concerns": "May need additional focus on localization-specific concerns."
+        },
+        {
+          "reviewer_name": "carlmrichter",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Moment.js(5x), JavaScript(10x). Experience with localization and code quality.",
+          "strengths_alignment": [
+            "Moment.js(5x)",
+            "JavaScript(10x)",
+            "Localization",
+            "Code Quality"
+          ],
+          "review_experience": "carlmrichter has contributed to Moment.js and has experience with localization. They have a good understanding of the library and have a history of ensuring that changes are consistent with other locales and maintain backward compatibility.",
+          "potential_concerns": "Lower frequency in Moment.js compared to other reviewers, but still a strong candidate."
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with localization and code quality.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/6176",
+      "reviewer_strengths": [
+        "Moment.js(10x)",
+        "JavaScript(15x)",
+        "Localization"
+      ],
+      "potential_concerns": "None significant, but may need to double-check for backward compatibility concerns.",
+      "review_experience": "sschueller has reviewed multiple PRs involving Moment.js and localization, demonstrating a strong understanding of the library and its nuances. They have a history of ensuring correctness in capitalization and consistency with other locales.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Localization"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Localization",
+          "Code Quality"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Documentation",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience with localization and code quality.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Localization",
+            "Code Quality"
+          ],
+          "review_experience_details": "sschueller has reviewed multiple PRs involving Moment.js and localization, demonstrating a strong understanding of the library and its nuances. They have a history of ensuring correctness in capitalization and consistency with other locales.",
+          "potential_limitations": "None significant, but may need to double-check for backward compatibility concerns."
+        }
+      }
+    },
+    {
+      "pr_number": 6169,
+      "pr_title": "[bugfix] Access default year month date from moment instance",
+      "pr_author": "yulodl",
+      "pr_state": "closed",
+      "assigned_reviewer": "anandfresh",
+      "top_3_reviewers": [
+        {
+          "reviewer_name": "anandfresh",
+          "match_score": 0.95,
+          "reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match with timezone handling and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js, including timezone handling and test coverage. They have a strong track record of ensuring code quality and test completeness.",
+          "potential_concerns": "None significant"
+        },
+        {
+          "reviewer_name": "DiscoNova",
+          "match_score": 0.85,
+          "reasoning": "Moderate frequency in required skills: Moment.js(5x), JavaScript(10x). Good experience with timezone handling and testing.",
+          "strengths_alignment": [
+            "Moment.js(5x)",
+            "JavaScript(10x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "DiscoNova has contributed to and reviewed PRs involving Moment.js and timezone handling. They have a solid understanding of date methods and test coverage.",
+          "potential_concerns": "Less frequent experience compared to anandfresh"
+        },
+        {
+          "reviewer_name": "marleneheinzle",
+          "match_score": 0.8,
+          "reasoning": "Moderate frequency in required skills: Moment.js(4x), JavaScript(8x). Good experience with testing and frontend development.",
+          "strengths_alignment": [
+            "Moment.js(4x)",
+            "JavaScript(8x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience": "marleneheinzle has reviewed PRs related to Moment.js and has a good understanding of testing and frontend development. They have contributed to fixing unit tests.",
+          "potential_concerns": "Less frequent experience compared to anandfresh and DiscoNova"
+        }
+      ],
+      "match_score": 0.95,
+      "assignment_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match with timezone handling and testing.",
+      "assignment_confidence": "High",
+      "current_reviews_count": 2,
+      "pr_url": "https://github.com/expressjs/express/pull/6169",
+      "reviewer_strengths": [
+        "Moment.js(10x)",
+        "JavaScript(15x)",
+        "Frontend"
+      ],
+      "potential_concerns": "None significant",
+      "review_experience": "anandfresh has reviewed multiple PRs related to Moment.js, including timezone handling and test coverage. They have a strong track record of ensuring code quality and test completeness.",
+      "detailed_analysis": {
+        "technical_skills_needed": [
+          "JavaScript",
+          "Moment.js",
+          "Timezone Handling"
+        ],
+        "review_expertise_areas": [
+          "Frontend",
+          "Testing"
+        ],
+        "complexity_level": "Low",
+        "primary_language": "JavaScript",
+        "review_type_needed": "Code Quality/Testing",
+        "assignment_details": {
+          "full_reasoning": "High frequency in required skills: Moment.js(10x), JavaScript(15x). Strong experience match with timezone handling and testing.",
+          "strengths_alignment": [
+            "Moment.js(10x)",
+            "JavaScript(15x)",
+            "Frontend",
+            "Testing"
+          ],
+          "review_experience_details": "anandfresh has reviewed multiple PRs related to Moment.js, including timezone handling and test coverage. They have a strong track record of ensuring code quality and test completeness.",
+          "potential_limitations": "None significant"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "successful_assignments": 39,
+    "failed_assignments": 0,
+    "success_rate": 100.0,
+    "reviewer_workload_distribution": {
+      "sschueller": 19,
+      "anandfresh": 15,
+      "marwahaha": 4,
+      "ichernev": 1
+    },
+    "most_assigned_reviewer": "sschueller",
+    "average_match_score": 0.95
+  }
+}

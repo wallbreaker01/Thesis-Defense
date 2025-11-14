@@ -1,0 +1,78 @@
+{
+  "reviewer_name": "bjohansebas",
+  "generated_at": "20251110_072805",
+  "stats": {
+    "total_reviews": 90,
+    "total_comments": 32,
+    "total_prs": 64,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "bjohansebas",
+    "experience_level": "Senior",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Dependency Management",
+      "CI/CD",
+      "Linting",
+      "Testing",
+      "RESTful APIs",
+      "Error Handling",
+      "Performance Optimization"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the provided GitHub review data, bjohansebas demonstrates strong expertise in backend JavaScript, particularly in the Node.js and Express.js ecosystems. They are proficient in dependency management, CI/CD, linting, and testing frameworks. Their understanding of modern JavaScript practices, including ES6+ features and asynchronous programming, is evident. While there is no clear evidence of frontend JavaScript frameworks or TypeScript usage, their focus on code quality and best practices suggests they would be capable of adapting to these technologies if needed.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 14": [
+        "Node.js, frequency: 6",
+        "Express.js, frequency: 5",
+        "Jest, frequency: 3"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 5": [
+        "RESTful APIs, frequency: 5"
+      ],
+      "Error Handling, frequency: 2": [
+        "Try-Catch, frequency: 1",
+        "Custom Error Classes, frequency: 1"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 10": [
+        "Middleware, frequency: 4",
+        "API Endpoints, frequency: 3",
+        "Authentication/Authorization, frequency: 3"
+      ],
+      "DevOps & Deployment, frequency: 6": [
+        "CI/CD Pipelines, frequency: 3",
+        "Containerization, frequency: 3"
+      ],
+      "Advanced JavaScript Concepts, frequency: 3": [
+        "Prototypes & Inheritance, frequency: 1",
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Immutability, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 1": [
+        "Code Splitting, frequency: 1"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 5": [
+        "npm/yarn, frequency: 5"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

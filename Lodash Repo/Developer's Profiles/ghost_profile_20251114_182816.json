@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "developer_name": "ghost",
+    "generation_timestamp": "2025-11-14T18:12:27.289565",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 5,
+    "repositories": [
+      "lodash"
+    ],
+    "pr_data_sample_size": 5
+  },
+  "profile": {
+    "developer_name": "ghost",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Lodash",
+      "Functional Programming",
+      "Code Quality",
+      "Build Systems"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Developer 'ghost' has a strong focus on backend JavaScript development, particularly with the utility library `lodash`. They demonstrate proficiency in functional programming, code quality, and build systems. Their contributions indicate a good understanding of modern JavaScript practices and tools, such as ESLint and JavaScript-based build systems. While there is no clear evidence of frontend development, API design, or TypeScript usage, their backend-oriented contributions and focus on performance and code quality suggest a mid-level developer with a solid foundation in JavaScript.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "Lodash, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 1": [
+        "Middleware, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 1": [
+        "Build Systems, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Immutability, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 1": [
+        "Code Splitting, frequency: 1"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 5,
+    "repos_contributed": 1,
+    "repo_list": [
+      "lodash"
+    ]
+  }
+}

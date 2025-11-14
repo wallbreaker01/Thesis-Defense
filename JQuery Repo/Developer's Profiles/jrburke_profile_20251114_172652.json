@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "developer_name": "jrburke",
+    "generation_timestamp": "2025-11-14T17:11:57.829864",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 6,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 6
+  },
+  "profile": {
+    "developer_name": "jrburke",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "AMD (Asynchronous Module Definition)",
+      "CommonJS",
+      "Unit Testing",
+      "Module Loaders"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "jrburke is a mid-level JavaScript developer with a strong focus on frontend development, particularly in the jQuery library. They have significant experience with modern module patterns such as AMD and CommonJS, and are proficient in unit testing and module loaders. Their contributions to jQuery indicate a high level of code quality and adherence to best practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 6": [
+        "jQuery, frequency: 6"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "AMD, frequency: 2"
+      ],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 6,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

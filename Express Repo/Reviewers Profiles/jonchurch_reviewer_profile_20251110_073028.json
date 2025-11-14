@@ -1,0 +1,70 @@
+{
+  "reviewer_name": "jonchurch",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 8,
+    "total_comments": 6,
+    "total_prs": 5,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "jonchurch",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Mocha",
+      "Chai",
+      "Supertest",
+      "RESTful APIs",
+      "HTTP Status Codes",
+      "Unit Testing",
+      "npm",
+      "Async/Await",
+      "Promises"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Jon Church demonstrates strong expertise in backend JavaScript, particularly with Node.js and Express.js. They have a good understanding of testing frameworks, modern JavaScript features, and API development. Their focus on code quality and best practices indicates a commitment to writing maintainable and scalable code. While there is no explicit evidence of frontend JavaScript frameworks or TypeScript usage, their overall expertise in the JavaScript ecosystem is evident.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 8": [
+        "Node.js, frequency: 3",
+        "Express.js, frequency: 5"
+      ],
+      "Asynchronous Programming, frequency: 3": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 5": [
+        "RESTful APIs, frequency: 5"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 8": [
+        "Middleware, frequency: 3",
+        "API Endpoints, frequency: 5"
+      ],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Prototypes & Inheritance, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 3": [
+        "npm/yarn, frequency: 3"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

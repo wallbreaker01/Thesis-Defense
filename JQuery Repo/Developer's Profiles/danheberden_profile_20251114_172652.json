@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "developer_name": "danheberden",
+    "generation_timestamp": "2025-11-14T17:03:14.578339",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 11,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 11
+  },
+  "profile": {
+    "developer_name": "danheberden",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Asynchronous Programming",
+      "Unit Testing",
+      "API Design & Consumption",
+      "Error Handling",
+      "Functional Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "danheberden demonstrates strong expertise in frontend JavaScript development, particularly with the jQuery library. They have a solid understanding of functional and object-oriented programming patterns, unit testing, and asynchronous programming. Their contributions show a focus on code quality, performance optimization, and maintainability. While there is no explicit evidence of backend JavaScript, TypeScript, or ES6+ features, their work in jQuery suggests a strong foundation in modern JavaScript practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 11": [
+        "jQuery, frequency: 11"
+      ],
+      "Asynchronous Programming, frequency: 3": [
+        "Promises, frequency: 2",
+        "Callbacks, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 3": [
+        "RESTful APIs, frequency: 3"
+      ],
+      "Error Handling, frequency: 2": [
+        "Custom Error Classes, frequency: 2"
+      ],
+      "Frontend Development Skills, frequency: 4": [
+        "DOM Manipulation, frequency: 4"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Higher-Order Functions, frequency: 2"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 11,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

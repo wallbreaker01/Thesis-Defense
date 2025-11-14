@@ -1,0 +1,61 @@
+{
+  "reviewer_name": "rileyjshaw",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 2,
+    "total_prs": 1,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "rileyjshaw",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Deprecation and Backward Compatibility",
+      "Unit Testing",
+      "API Development",
+      "Asynchronous Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "rileyjshaw demonstrates a strong foundation in backend JavaScript development, particularly with Node.js and Express.js. They have a good understanding of deprecation and backward compatibility, unit testing, API development, and asynchronous programming. Their involvement in maintaining code quality and modern JavaScript practices suggests a commitment to best practices in software development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "Node.js, frequency: 1",
+        "Express.js, frequency: 2"
+      ],
+      "Asynchronous Programming, frequency: 1": [
+        "Promises, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 1": [
+        "RESTful APIs, frequency: 1"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 2": [
+        "Middleware, frequency: 1",
+        "API Endpoints, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 1": [
+        "CI/CD Pipelines, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

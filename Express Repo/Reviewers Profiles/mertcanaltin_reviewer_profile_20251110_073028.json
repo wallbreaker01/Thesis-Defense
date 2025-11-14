@@ -1,0 +1,40 @@
+{
+  "reviewer_name": "mertcanaltin",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 0,
+    "total_prs": 2,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "mertcanaltin",
+    "experience_level": "Junior",
+    "primary_skills": [],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The provided review data for mertcanaltin is limited to documentation updates and team nominations. There is no direct evidence of JavaScript technical skills and expertise in the areas of frameworks, programming patterns, frontend vs backend knowledge, testing, build tools, ES6+ features, TypeScript, API development, asynchronous programming, or code quality practices. To gain a more accurate understanding of mertcanaltin's JavaScript technical skills, it would be necessary to review more detailed and technical contributions and review comments.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

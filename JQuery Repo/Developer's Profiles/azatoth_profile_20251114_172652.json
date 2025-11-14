@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "developer_name": "azatoth",
+    "generation_timestamp": "2025-11-14T17:05:20.159353",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 9,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 9
+  },
+  "profile": {
+    "developer_name": "azatoth",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Event Handling",
+      "Unit Testing",
+      "Build Tools (Makefile)",
+      "Code Optimization"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "azatoth is a mid-level JavaScript developer with strong frontend development skills, particularly in jQuery. They have a good understanding of DOM manipulation and event handling, and have experience with unit testing and build tools like Makefiles. Their contributions show a focus on code optimization and maintenance practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 9": [
+        "jQuery, frequency: 9"
+      ],
+      "Asynchronous Programming, frequency: 1": [
+        "Callbacks, frequency: 1"
+      ],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 9": [
+        "DOM Manipulation, frequency: 9"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 3": [
+        "Build Tools, frequency: 3"
+      ],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Closures, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 1": [
+        "Minification & Compression, frequency: 1"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 9,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

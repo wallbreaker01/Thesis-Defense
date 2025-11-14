@@ -1,0 +1,61 @@
+{
+  "reviewer_name": "ichernev",
+  "generated_at": "20251114_205509",
+  "stats": {
+    "total_reviews": 7,
+    "total_comments": 13,
+    "total_prs": 6,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "ichernev",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Backend Development Skills",
+      "API Design & Consumption",
+      "Functional Programming",
+      "Code Quality and Best Practices"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "ichernev is a mid-level JavaScript reviewer with a strong focus on backend development, particularly in the areas of locale and date/time handling. They demonstrate a good understanding of functional and object-oriented programming, unit and integration testing, and a strong emphasis on code quality and maintainability. While there is no explicit mention of specific frameworks or libraries, their reviews indicate a solid foundation in core JavaScript concepts and best practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 3": [
+        "RESTful APIs, frequency: 3"
+      ],
+      "Error Handling, frequency: 2": [
+        "Try-Catch, frequency: 2"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 5": [
+        "Middleware, frequency: 2",
+        "API Endpoints, frequency: 3"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 3": [
+        "Closures, frequency: 1",
+        "Higher-Order Functions, frequency: 1",
+        "Prototypes & Inheritance, frequency: 1"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

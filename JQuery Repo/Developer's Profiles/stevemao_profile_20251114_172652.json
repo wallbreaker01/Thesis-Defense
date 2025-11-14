@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "developer_name": "stevemao",
+    "generation_timestamp": "2025-11-14T17:17:10.087752",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 4,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 4
+  },
+  "profile": {
+    "developer_name": "stevemao",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "QUnit",
+      "Functional Programming",
+      "Code Optimization",
+      "Test-Driven Development (TDD)"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "stevemao is a mid-level JavaScript developer with a strong focus on frontend development, particularly with jQuery. They demonstrate expertise in functional programming, code optimization, and test-driven development (TDD) using QUnit. Their contributions show a commitment to writing high-quality, well-tested code and maintaining a clean and efficient codebase.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 4": [
+        "jQuery, frequency: 4"
+      ],
+      "Asynchronous Programming, frequency: 1": [
+        "Event Loop, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 1": [
+        "API Error Handling, frequency: 1"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Closures, frequency: 1"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 4,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "reviewer_name": "aminya",
+  "generated_at": "20251114_174802",
+  "stats": {
+    "total_reviews": 5,
+    "total_comments": 2,
+    "total_prs": 3,
+    "repos": [
+      "lodash"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "aminya",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Control Flow Optimization",
+      "Type Checking",
+      "Code Quality",
+      "Backend JavaScript"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "aminya demonstrates strong technical skills in core JavaScript, with a focus on optimization, type checking, and code quality. Their expertise is primarily in backend JavaScript, and they show a good understanding of modern JavaScript practices. While they do not explicitly mention specific frameworks, testing tools, or asynchronous programming, their reviews suggest a commitment to writing clean, efficient, and maintainable code.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "Lodash, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 3": [
+        "Server-Side Logic, frequency: 1",
+        "API Endpoints, frequency: 1",
+        "Middleware, frequency: 1"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Closures, frequency: 1",
+        "Prototypes & Inheritance, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": []
+    }
+  }
+}

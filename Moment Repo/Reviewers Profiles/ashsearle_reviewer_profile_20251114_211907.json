@@ -1,0 +1,44 @@
+{
+  "reviewer_name": "ashsearle",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 6,
+    "total_comments": 6,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "ashsearle",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "moment.js"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the limited review data, ashsearle appears to have a basic level of expertise in JavaScript, primarily focused on the moment.js library. There is no evidence of extensive experience with other JavaScript frameworks, libraries, or advanced concepts. The reviewer's contributions are primarily centered around date and time manipulation using moment.js, indicating a junior-level understanding of JavaScript.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 6": [
+        "moment.js, frequency: 6"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

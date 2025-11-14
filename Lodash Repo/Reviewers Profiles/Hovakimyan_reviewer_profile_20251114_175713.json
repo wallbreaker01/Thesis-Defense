@@ -1,0 +1,53 @@
+{
+  "reviewer_name": "Hovakimyan",
+  "generated_at": "20251114_175713",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 2,
+    "total_prs": 2,
+    "repos": [
+      "lodash"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "Hovakimyan",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Core JavaScript",
+      "Functional Programming",
+      "ES6+ Features",
+      "Unit Testing"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Hovakimyan demonstrates a strong foundation in core JavaScript, with a focus on functional programming and modern ES6+ features. They have a good understanding of unit testing and code quality, ensuring that code meets specified requirements. Their expertise is primarily in utility functions that can be used in both frontend and backend contexts, with no specific framework or library expertise evident from the provided reviews.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 0": [],
+      "Asynchronous Programming, frequency: 0": [],
+      "API Design & Consumption, frequency: 0": [],
+      "Error Handling, frequency: 0": [],
+      "Frontend Development Skills, frequency: 0": [],
+      "Backend Development Skills, frequency: 0": [],
+      "DevOps & Deployment, frequency: 0": [],
+      "Advanced JavaScript Concepts, frequency: 3": [
+        "Closures, frequency: 1",
+        "Higher-Order Functions, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming, frequency: 3": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1",
+        "Declarative Programming, frequency: 1"
+      ],
+      "Data Structures & Algorithms, frequency: 0": [],
+      "TypeScript, frequency: 0": [],
+      "Progressive Web Apps (PWA), frequency: 0": [],
+      "Mobile Development with JavaScript, frequency: 0": [],
+      "Web Performance Optimization, frequency: 0": [],
+      "Event-Driven Architecture, frequency: 0": [],
+      "Dependency Management, frequency: 0": [],
+      "Graphical Data Visualization, frequency: 0": []
+    }
+  }
+}

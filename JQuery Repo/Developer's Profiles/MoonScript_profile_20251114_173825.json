@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "developer_name": "MoonScript",
+    "generation_timestamp": "2025-11-14T17:32:45.555086",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "MoonScript",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Event Delegation"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "MoonScript demonstrates strong skills in jQuery and frontend JavaScript development, particularly in event handling and DOM manipulation. However, the provided PR data does not provide evidence of expertise in modern JavaScript practices, testing, or backend development. The contributions are primarily focused on frontend development and maintaining the integrity of the jQuery library.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "jQuery, frequency: 3"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 3": [
+        "Event Delegation, frequency: 3"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

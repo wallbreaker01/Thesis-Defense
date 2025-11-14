@@ -1,0 +1,45 @@
+{
+  "reviewer_name": "dusansimic",
+  "generated_at": "20251114_205509",
+  "stats": {
+    "total_reviews": 7,
+    "total_comments": 8,
+    "total_prs": 2,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "dusansimic",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Locale Improvements",
+      "Date Format Fixes"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the provided review data, dusansimic primarily focuses on locale and date format improvements in the moment.js repository. There is no evidence of expertise in JavaScript frameworks, libraries, advanced programming patterns, or other complex JavaScript topics. The reviewer's contributions are limited to frontend concerns, and there is no indication of backend JavaScript knowledge or experience with testing, build tools, or modern JavaScript features. To gain a more comprehensive understanding of their JavaScript expertise, it would be necessary to review additional PRs and comments that involve more complex JavaScript code and related technologies.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 7": [
+        "moment.js, frequency: 7"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

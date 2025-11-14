@@ -1,0 +1,61 @@
+{
+  "reviewer_name": "krzysdz",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 3,
+    "total_comments": 7,
+    "total_prs": 2,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "krzysdz",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Error Handling",
+      "Type Safety",
+      "API Development"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "summary": "Krzysdz is a mid-level JavaScript reviewer with strong expertise in backend development, particularly in Node.js and Express.js. They demonstrate a deep understanding of error handling, type safety, and API development, focusing on response status codes and clear error messages. Their reviews suggest a commitment to code quality and modern JavaScript practices, with a strong emphasis on type checking and robust error handling.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "Node.js, frequency: 2",
+        "Express.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 2": [
+        "RESTful APIs, frequency: 2"
+      ],
+      "Error Handling, frequency: 3": [
+        "Try-Catch, frequency: 2",
+        "Custom Error Classes, frequency: 1"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 3": [
+        "Middleware, frequency: 1",
+        "API Endpoints, frequency: 1",
+        "Authentication/Authorization, frequency: 1"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript, frequency: 2": [
+        "Type Definitions, frequency: 1",
+        "Type Inference, frequency: 1"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

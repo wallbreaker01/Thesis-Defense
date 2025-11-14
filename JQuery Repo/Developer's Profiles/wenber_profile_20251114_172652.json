@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "developer_name": "wenber",
+    "generation_timestamp": "2025-11-14T17:13:15.046418",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 5,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 5
+  },
+  "profile": {
+    "developer_name": "wenber",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Functional Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "wenber demonstrates strong skills in frontend JavaScript, particularly with jQuery, and an interest in performance optimization and adding new functionalities. However, there is no evidence of experience with modern JavaScript features, testing, build tools, or backend development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "jQuery, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Functional Programming, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Functional Programming, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 1": [
+        "Web Performance Optimization, frequency: 1"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 5,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

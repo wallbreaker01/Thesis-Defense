@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "developer_name": "abnud1",
+    "generation_timestamp": "2025-11-14T17:08:50.203224",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 8,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 8
+  },
+  "profile": {
+    "developer_name": "abnud1",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "QUnit",
+      "Sinon",
+      "Grunt",
+      "Karma",
+      "Babel",
+      "jsdom",
+      "Pako"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "abnud1 demonstrates strong expertise in the JavaScript ecosystem, particularly in the areas of testing, build tools, and dependency management. They are proficient with testing frameworks like QUnit and Sinon, build tools like Grunt and Karma, and transpiling tools like Babel. Their contributions show a focus on code quality, modern JavaScript practices, and maintaining up-to-date dependencies. While there is no explicit mention of TypeScript or API development, their overall skill set suggests a solid foundation in modern JavaScript development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "QUnit, frequency: 1",
+        "Sinon, frequency: 1",
+        "Babel, frequency: 1",
+        "jsdom, frequency: 1",
+        "Pako, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 2": [
+        "DOM Manipulation, frequency: 2"
+      ],
+      "Backend Development Skills, frequency: 1": [
+        "jsdom, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 1",
+        "Containerization, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 5": [
+        "npm/yarn, frequency: 5"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 8,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

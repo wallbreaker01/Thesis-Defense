@@ -1,0 +1,52 @@
+{
+  "reviewer_name": "leonaves",
+  "generated_at": "20251114_212915",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 2,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "leonaves",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "TypeScript",
+      "Code Quality",
+      "Type Definitions"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Leonaves demonstrates strong proficiency in TypeScript, particularly in type definitions and ensuring type safety. They have a strong focus on code quality and modern JavaScript practices, suggesting improvements to ensure accurate function behavior and type definitions. However, the review data does not provide enough context to determine expertise in specific JavaScript frameworks, libraries, testing frameworks, build tools, or API development and consumption patterns. The comments are primarily focused on type definitions and function behavior.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling, frequency: 1": [
+        "Custom Error Classes, frequency: 1"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Type Definitions, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript, frequency: 2": [
+        "Type Definitions, frequency: 2"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

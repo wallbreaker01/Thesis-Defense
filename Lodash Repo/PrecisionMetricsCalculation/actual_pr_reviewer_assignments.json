@@ -1,0 +1,1525 @@
+{
+  "summary": {
+    "extraction_metadata": {
+      "extraction_date": "2025-11-14 21:48:01",
+      "source_file": "../PR data for Reviewers/lodash_lodash_reviewer_data_test.json",
+      "total_prs_analyzed": 36
+    },
+    "overall_statistics": {
+      "total_prs": 36,
+      "prs_with_reviews": 36,
+      "prs_without_reviews": 0,
+      "total_reviews": 81,
+      "average_reviews_per_pr": 2.25,
+      "unique_reviewers_count": 54
+    },
+    "reviewer_activity": {
+      "by_prs_reviewed": {
+        "jdalton": 6,
+        "Cassieminkus1": 2,
+        "imadx": 2,
+        "aarifkhamdi": 1,
+        "lonewarrior556": 1,
+        "rap1ds": 1,
+        "cexmmaqsood": 1,
+        "joeattardi": 1,
+        "an040702": 1,
+        "rkuykendall": 1,
+        "luoxiu": 1,
+        "HyunSangHan": 1,
+        "bhaveshshah": 1,
+        "hexiaokang": 1,
+        "blikblum": 1,
+        "Chantouch": 1,
+        "Mifrill": 1,
+        "Princetagusor": 1,
+        "Playgirlkaybraz11": 1,
+        "ibiBgOR": 1,
+        "shubhamzanwar": 1,
+        "erpankajsingla": 1,
+        "aminya": 1,
+        "123456789-bb": 1,
+        "Ziqhoulets": 1,
+        "Ephigenia": 1,
+        "juzhiyuan": 1,
+        "alesmit": 1,
+        "lukaw3d": 1,
+        "Alan-Liang": 1,
+        "ZimGil": 1,
+        "arty-name": 1,
+        "learn2grid": 1,
+        "psvnlsaikumar": 1,
+        "rianonehub": 1,
+        "aviadhahami": 1,
+        "Hovakimyan": 1,
+        "cikay": 1,
+        "ballonura": 1,
+        "behnammodi": 1,
+        "alexbrasetvik": 1,
+        "UlisesGascon": 1,
+        "jonchurch": 1,
+        "falsyvalues": 1,
+        "huntie": 1,
+        "josephwccheng": 1,
+        "nickserv": 1,
+        "JLHwung": 1,
+        "rifler": 1,
+        "damianobarbati": 1,
+        "sokarax": 1,
+        "gaojude": 1,
+        "giulliano-bueno": 1,
+        "elizatlawy": 1
+      },
+      "by_total_reviews": {
+        "jdalton": 9,
+        "behnammodi": 7,
+        "imadx": 4,
+        "ballonura": 3,
+        "nickserv": 3,
+        "Cassieminkus1": 2,
+        "blikblum": 2,
+        "aminya": 2,
+        "UlisesGascon": 2,
+        "JLHwung": 2,
+        "rifler": 2,
+        "aarifkhamdi": 1,
+        "lonewarrior556": 1,
+        "rap1ds": 1,
+        "cexmmaqsood": 1,
+        "joeattardi": 1,
+        "bhaveshshah": 1,
+        "HyunSangHan": 1,
+        "rkuykendall": 1,
+        "luoxiu": 1,
+        "an040702": 1,
+        "hexiaokang": 1,
+        "Chantouch": 1,
+        "Mifrill": 1,
+        "Playgirlkaybraz11": 1,
+        "Princetagusor": 1,
+        "ibiBgOR": 1,
+        "shubhamzanwar": 1,
+        "erpankajsingla": 1,
+        "123456789-bb": 1,
+        "Ziqhoulets": 1,
+        "juzhiyuan": 1,
+        "Ephigenia": 1,
+        "alesmit": 1,
+        "lukaw3d": 1,
+        "Alan-Liang": 1,
+        "ZimGil": 1,
+        "arty-name": 1,
+        "rianonehub": 1,
+        "learn2grid": 1,
+        "psvnlsaikumar": 1,
+        "aviadhahami": 1,
+        "Hovakimyan": 1,
+        "cikay": 1,
+        "alexbrasetvik": 1,
+        "jonchurch": 1,
+        "falsyvalues": 1,
+        "huntie": 1,
+        "josephwccheng": 1,
+        "damianobarbati": 1,
+        "sokarax": 1,
+        "giulliano-bueno": 1,
+        "gaojude": 1,
+        "elizatlawy": 1
+      }
+    },
+    "top_reviewers": {
+      "most_prs_reviewed": [
+        "jdalton",
+        6
+      ],
+      "most_total_reviews": [
+        "jdalton",
+        9
+      ]
+    }
+  },
+  "pr_reviewer_assignments": [
+    {
+      "pr_number": 5387,
+      "pr_title": "Add dropEndsWhile",
+      "pr_author": "stefansundin",
+      "pr_state": "closed",
+      "created_at": "2022-02-11T20:45:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5387",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "aarifkhamdi",
+          "reviewer_id": 25562783,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-02-16T18:33:50Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "aarifkhamdi"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "aarifkhamdi"
+      ]
+    },
+    {
+      "pr_number": 4871,
+      "pr_title": "Added duplicates method",
+      "pr_author": "VigneshMurugan",
+      "pr_state": "closed",
+      "created_at": "2020-07-22T07:59:43Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4871",
+      "total_reviews": 1,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "lonewarrior556",
+          "reviewer_id": 4774405,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-07-22T12:52:41Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "lonewarrior556"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "lonewarrior556"
+      ]
+    },
+    {
+      "pr_number": 5874,
+      "pr_title": "fix: reduce when we use object with 'length' attribute",
+      "pr_author": "baguse",
+      "pr_state": "open",
+      "created_at": "2024-05-30T15:52:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5874",
+      "total_reviews": 2,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "rap1ds",
+          "reviewer_id": 429876,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2024-06-12T11:57:10Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "Cassieminkus1",
+          "reviewer_id": 164292316,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-08-04T11:50:28Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "rap1ds",
+        "Cassieminkus1"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "rap1ds",
+        "Cassieminkus1"
+      ]
+    },
+    {
+      "pr_number": 4960,
+      "pr_title": "Update filter.js",
+      "pr_author": "jingchaocheng",
+      "pr_state": "closed",
+      "created_at": "2020-10-21T11:57:02Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4960",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "cexmmaqsood",
+          "reviewer_id": 10196786,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-11-20T19:24:13Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "cexmmaqsood"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "cexmmaqsood"
+      ]
+    },
+    {
+      "pr_number": 6008,
+      "pr_title": "[Autofic] Security Patch 2025-07-19",
+      "pr_author": "soonnae",
+      "pr_state": "open",
+      "created_at": "2025-07-19T07:52:29Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6008",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Cassieminkus1",
+          "reviewer_id": 164292316,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-08-04T11:45:43Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Cassieminkus1"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Cassieminkus1"
+      ]
+    },
+    {
+      "pr_number": 4627,
+      "pr_title": "Fix prototype pollution vulnerabilities, fix failing tests",
+      "pr_author": "joeattardi",
+      "pr_state": "closed",
+      "created_at": "2020-01-10T19:15:53Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4627",
+      "total_reviews": 3,
+      "total_review_comments": 3,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-01-10T21:23:34Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "joeattardi",
+          "reviewer_id": 219285,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-01-10T21:25:04Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-01-10T21:29:48Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "jdalton",
+        "joeattardi"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "jdalton",
+        "joeattardi"
+      ]
+    },
+    {
+      "pr_number": 5534,
+      "pr_title": "Remove meaningless allocation",
+      "pr_author": "KyoungWan",
+      "pr_state": "closed",
+      "created_at": "2022-10-11T02:58:15Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5534",
+      "total_reviews": 5,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bhaveshshah",
+          "reviewer_id": 13898324,
+          "review_state": "APPROVED",
+          "review_body": "LGTM!",
+          "submitted_at": "2022-10-11T12:12:49Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "HyunSangHan",
+          "reviewer_id": 44132406,
+          "review_state": "APPROVED",
+          "review_body": "LGTM!",
+          "submitted_at": "2022-10-11T23:55:38Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "rkuykendall",
+          "reviewer_id": 796717,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-10-28T22:56:16Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "luoxiu",
+          "reviewer_id": 18638838,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-11-02T10:16:07Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "an040702",
+          "reviewer_id": 41360497,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2023-01-13T06:26:06Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "an040702",
+        "rkuykendall",
+        "luoxiu",
+        "HyunSangHan",
+        "bhaveshshah"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "an040702",
+        "rkuykendall",
+        "luoxiu",
+        "HyunSangHan",
+        "bhaveshshah"
+      ]
+    },
+    {
+      "pr_number": 5540,
+      "pr_title": "Update NPM lockfile to version 2",
+      "pr_author": "rkuykendall",
+      "pr_state": "closed",
+      "created_at": "2022-10-25T03:18:58Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5540",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "hexiaokang",
+          "reviewer_id": 16911432,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-12-31T08:45:16Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "hexiaokang"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "hexiaokang"
+      ]
+    },
+    {
+      "pr_number": 4418,
+      "pr_title": "Enable create tests and adapt it for the new primitive prototype behavior",
+      "pr_author": "blikblum",
+      "pr_state": "closed",
+      "created_at": "2019-08-17T19:25:57Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4418",
+      "total_reviews": 5,
+      "total_review_comments": 5,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-08-21T17:45:52Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-08-22T14:53:41Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-08-22T14:54:00Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "blikblum",
+          "reviewer_id": 3047126,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-08-22T23:04:09Z",
+          "author_association": "CONTRIBUTOR"
+        },
+        {
+          "reviewer_username": "blikblum",
+          "reviewer_id": 3047126,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-08-22T23:04:15Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "jdalton",
+        "blikblum"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "jdalton",
+        "blikblum"
+      ]
+    },
+    {
+      "pr_number": 4864,
+      "pr_title": "Import of keysIn is missing",
+      "pr_author": "lfamorim",
+      "pr_state": "closed",
+      "created_at": "2020-07-17T01:35:14Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4864",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Chantouch",
+          "reviewer_id": 16238227,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-07-21T16:23:08Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Chantouch"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Chantouch"
+      ]
+    },
+    {
+      "pr_number": 6033,
+      "pr_title": "Make the CI green again",
+      "pr_author": "UlisesGascon",
+      "pr_state": "closed",
+      "created_at": "2025-10-27T20:13:40Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6033",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-10-28T15:12:16Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "jdalton"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "jdalton"
+      ]
+    },
+    {
+      "pr_number": 5243,
+      "pr_title": "Fill array",
+      "pr_author": "AlexHalbesleben",
+      "pr_state": "closed",
+      "created_at": "2021-08-26T21:09:40Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5243",
+      "total_reviews": 2,
+      "total_review_comments": 5,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "imadx",
+          "reviewer_id": 8768454,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-12T08:34:23Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "imadx",
+          "reviewer_id": 8768454,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-13T13:53:16Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "imadx"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "imadx"
+      ]
+    },
+    {
+      "pr_number": 4554,
+      "pr_title": "Updated the checks of isEmpty and isBoolean methods",
+      "pr_author": "RajuPedda",
+      "pr_state": "closed",
+      "created_at": "2019-11-19T18:59:03Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4554",
+      "total_reviews": 1,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Mifrill",
+          "reviewer_id": 23525618,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-11-20T20:38:41Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Mifrill"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Mifrill"
+      ]
+    },
+    {
+      "pr_number": 5915,
+      "pr_title": "test: fix union test grammar errors",
+      "pr_author": "gweesin",
+      "pr_state": "open",
+      "created_at": "2024-08-10T15:52:27Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5915",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Playgirlkaybraz11",
+          "reviewer_id": 170968903,
+          "review_state": "APPROVED",
+          "review_body": "#252 #5872 #5872 #5605 ",
+          "submitted_at": "2024-08-26T03:17:39Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "Princetagusor",
+          "reviewer_id": 179426934,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2024-08-26T03:35:20Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Princetagusor",
+        "Playgirlkaybraz11"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Princetagusor",
+        "Playgirlkaybraz11"
+      ]
+    },
+    {
+      "pr_number": 5237,
+      "pr_title": "Turkish language add support capitalize",
+      "pr_author": "mehmeTuna",
+      "pr_state": "closed",
+      "created_at": "2021-08-18T19:58:39Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5237",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "ibiBgOR",
+          "reviewer_id": 6171670,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "I have some feedback, that you should improve your request for:\r\n* Missing testcases\r\n* Missing customizability (toLocaleLowerCase accepts an optional locale parameter which should be respected here to)\r\n* Won't work if the first letter is turkish, as the internal function to handle the first letter still uses the wrong function",
+          "submitted_at": "2022-10-21T15:51:59Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "ibiBgOR"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "ibiBgOR"
+      ]
+    },
+    {
+      "pr_number": 4444,
+      "pr_title": "fix: allowing orderBy iteratees to be arrays like _.get",
+      "pr_author": "shubhamzanwar",
+      "pr_state": "closed",
+      "created_at": "2019-08-25T12:44:53Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4444",
+      "total_reviews": 2,
+      "total_review_comments": 2,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-08-25T19:58:40Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "shubhamzanwar",
+          "reviewer_id": 15626155,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-08-26T13:57:54Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "jdalton",
+        "shubhamzanwar"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "jdalton",
+        "shubhamzanwar"
+      ]
+    },
+    {
+      "pr_number": 5776,
+      "pr_title": "Fix: issue #5756 and fixed the Typescript for baseSet function and isIndex",
+      "pr_author": "MdAfzaalkhan",
+      "pr_state": "closed",
+      "created_at": "2023-11-15T08:05:12Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5776",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "erpankajsingla",
+          "reviewer_id": 24516744,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2024-03-28T14:42:38Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "erpankajsingla"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "erpankajsingla"
+      ]
+    },
+    {
+      "pr_number": 4905,
+      "pr_title": "Optimization: avoid checking null proto twice",
+      "pr_author": "matthieusieben",
+      "pr_state": "closed",
+      "created_at": "2020-08-18T08:38:01Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4905",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "aminya",
+          "reviewer_id": 16418197,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Yes with the preceding check this is true:\r\n```js\r\n  if (Object.getPrototypeOf(value) === null) {\r\n    return true\r\n  }\r\n  let proto = value\r\n```",
+          "submitted_at": "2020-08-30T11:10:22Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "aminya",
+          "reviewer_id": 16418197,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-08-30T11:14:28Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "aminya"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "aminya"
+      ]
+    },
+    {
+      "pr_number": 5233,
+      "pr_title": "4.17",
+      "pr_author": "qiudaoermu",
+      "pr_state": "closed",
+      "created_at": "2021-08-16T09:12:38Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5233",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "123456789-bb",
+          "reviewer_id": 63426897,
+          "review_state": "COMMENTED",
+          "review_body": "Ok good",
+          "submitted_at": "2021-10-14T22:21:12Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "Ziqhoulets",
+          "reviewer_id": 85005552,
+          "review_state": "COMMENTED",
+          "review_body": "TBXnS5pXuYBwDNPQMdExPBruHZSmtNiqtX",
+          "submitted_at": "2022-03-20T11:23:17Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "123456789-bb",
+        "Ziqhoulets"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "123456789-bb",
+        "Ziqhoulets"
+      ]
+    },
+    {
+      "pr_number": 4717,
+      "pr_title": "Jsdoc fixes",
+      "pr_author": "RillingDev",
+      "pr_state": "closed",
+      "created_at": "2020-04-05T09:42:59Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4717",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "juzhiyuan",
+          "reviewer_id": 2106987,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-04-05T10:02:22Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "Ephigenia",
+          "reviewer_id": 73654,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-06-10T05:46:25Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Ephigenia",
+        "juzhiyuan"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Ephigenia",
+        "juzhiyuan"
+      ]
+    },
+    {
+      "pr_number": 5102,
+      "pr_title": "New feature: capitalizeWord",
+      "pr_author": "huyennbl",
+      "pr_state": "closed",
+      "created_at": "2021-02-26T18:06:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5102",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "alesmit",
+          "reviewer_id": 18616324,
+          "review_state": "APPROVED",
+          "review_body": "LGTM",
+          "submitted_at": "2022-05-03T20:15:22Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "alesmit"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "alesmit"
+      ]
+    },
+    {
+      "pr_number": 5085,
+      "pr_title": "Prevent command injection through the variable option",
+      "pr_author": "stof",
+      "pr_state": "closed",
+      "created_at": "2021-02-17T11:45:15Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5085",
+      "total_reviews": 2,
+      "total_review_comments": 2,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "lukaw3d",
+          "reviewer_id": 3758846,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-05-12T01:44:50Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "Alan-Liang",
+          "reviewer_id": 16379418,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-05-12T01:59:56Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "lukaw3d",
+        "Alan-Liang"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "lukaw3d",
+        "Alan-Liang"
+      ]
+    },
+    {
+      "pr_number": 4622,
+      "pr_title": "Re-add isEqual function",
+      "pr_author": "blikblum",
+      "pr_state": "closed",
+      "created_at": "2020-01-08T20:50:09Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4622",
+      "total_reviews": 1,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "ZimGil",
+          "reviewer_id": 39461857,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-01-09T13:13:46Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "ZimGil"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "ZimGil"
+      ]
+    },
+    {
+      "pr_number": 4514,
+      "pr_title": "Document matches* shorthands for over* methods (#4510)",
+      "pr_author": "arty-name",
+      "pr_state": "closed",
+      "created_at": "2019-10-11T14:35:29Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4514",
+      "total_reviews": 2,
+      "total_review_comments": 2,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-10-11T18:35:46Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "arty-name",
+          "reviewer_id": 133055,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-10-13T08:58:19Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "jdalton",
+        "arty-name"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "jdalton",
+        "arty-name"
+      ]
+    },
+    {
+      "pr_number": 5397,
+      "pr_title": "Fix isEqual for Maps and Sets",
+      "pr_author": "MichaelMitchell-at",
+      "pr_state": "closed",
+      "created_at": "2022-03-02T23:33:55Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5397",
+      "total_reviews": 4,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "rianonehub",
+          "reviewer_id": 33197541,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-03-11T03:43:57Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "learn2grid",
+          "reviewer_id": 89952018,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-03-12T01:41:33Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "psvnlsaikumar",
+          "reviewer_id": 17764274,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-03-15T06:36:46Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "aviadhahami",
+          "reviewer_id": 7353632,
+          "review_state": "COMMENTED",
+          "review_body": "Hey!\r\nFlew by this and added a small comment to the PR (<3) -- hope that's ok :) ",
+          "submitted_at": "2022-06-13T08:47:12Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "learn2grid",
+        "psvnlsaikumar",
+        "rianonehub",
+        "aviadhahami"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "learn2grid",
+        "psvnlsaikumar",
+        "rianonehub",
+        "aviadhahami"
+      ]
+    },
+    {
+      "pr_number": 4741,
+      "pr_title": "Update links in CONTRIBUTING.md",
+      "pr_author": "dwesty17",
+      "pr_state": "closed",
+      "created_at": "2020-04-29T03:07:39Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4741",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Hovakimyan",
+          "reviewer_id": 12773251,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-05-05T11:28:25Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Hovakimyan"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Hovakimyan"
+      ]
+    },
+    {
+      "pr_number": 5308,
+      "pr_title": "add isLowerCase(string)",
+      "pr_author": "Yatin-kathuria",
+      "pr_state": "closed",
+      "created_at": "2021-11-14T11:43:12Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5308",
+      "total_reviews": 1,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "cikay",
+          "reviewer_id": 24587499,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2022-01-11T15:25:05Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "cikay"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "cikay"
+      ]
+    },
+    {
+      "pr_number": 5241,
+      "pr_title": "add separate method",
+      "pr_author": "behnammodi",
+      "pr_state": "closed",
+      "created_at": "2021-08-24T21:04:20Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5241",
+      "total_reviews": 12,
+      "total_review_comments": 16,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "imadx",
+          "reviewer_id": 8768454,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-12T08:49:25Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "behnammodi",
+          "reviewer_id": 1549069,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-12T09:57:04Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "behnammodi",
+          "reviewer_id": 1549069,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-12T09:57:28Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "behnammodi",
+          "reviewer_id": 1549069,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-12T10:03:51Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "behnammodi",
+          "reviewer_id": 1549069,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-12T10:04:53Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "imadx",
+          "reviewer_id": 8768454,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-09-12T11:45:55Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "ballonura",
+          "reviewer_id": 22234568,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-10-07T14:31:52Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "behnammodi",
+          "reviewer_id": 1549069,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-10-07T14:37:24Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "ballonura",
+          "reviewer_id": 22234568,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-10-07T14:52:09Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "behnammodi",
+          "reviewer_id": 1549069,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-10-07T15:46:36Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "behnammodi",
+          "reviewer_id": 1549069,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-10-07T15:49:49Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "ballonura",
+          "reviewer_id": 22234568,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2021-10-07T16:15:38Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "imadx",
+        "ballonura",
+        "behnammodi"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "imadx",
+        "ballonura",
+        "behnammodi"
+      ]
+    },
+    {
+      "pr_number": 4355,
+      "pr_title": "Prevent prototype pollution chaining to code execution via _.template",
+      "pr_author": "alexbrasetvik",
+      "pr_state": "closed",
+      "created_at": "2019-07-08T14:23:44Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4355",
+      "total_reviews": 2,
+      "total_review_comments": 2,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "jdalton",
+          "reviewer_id": 4303,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-07-08T23:20:01Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "alexbrasetvik",
+          "reviewer_id": 43624,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-07-09T00:13:59Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "jdalton",
+        "alexbrasetvik"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "jdalton",
+        "alexbrasetvik"
+      ]
+    },
+    {
+      "pr_number": 6035,
+      "pr_title": "Add contributors section to README",
+      "pr_author": "bensternthal",
+      "pr_state": "open",
+      "created_at": "2025-10-28T16:20:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6035",
+      "total_reviews": 4,
+      "total_review_comments": 5,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "jonchurch",
+          "reviewer_id": 12915163,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-10-28T16:24:38Z",
+          "author_association": "CONTRIBUTOR"
+        },
+        {
+          "reviewer_username": "falsyvalues",
+          "reviewer_id": 1199350,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-10-28T17:08:28Z",
+          "author_association": "CONTRIBUTOR"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-10-28T17:14:21Z",
+          "author_association": "CONTRIBUTOR"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-10-29T10:57:57Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon",
+        "jonchurch",
+        "falsyvalues"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon",
+        "jonchurch",
+        "falsyvalues"
+      ]
+    },
+    {
+      "pr_number": 4267,
+      "pr_title": "Add optional resolveEmpty parameter to defaultTo",
+      "pr_author": "huntie",
+      "pr_state": "closed",
+      "created_at": "2019-04-15T15:05:38Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4267",
+      "total_reviews": 1,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "huntie",
+          "reviewer_id": 2547783,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2019-04-15T15:20:20Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "huntie"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "huntie"
+      ]
+    },
+    {
+      "pr_number": 4759,
+      "pr_title": "zipObjectDeep: fix prototype pollution",
+      "pr_author": "JackuB",
+      "pr_state": "closed",
+      "created_at": "2020-05-07T16:46:50Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4759",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "josephwccheng",
+          "reviewer_id": 30488360,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-06-11T07:31:24Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "josephwccheng"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "josephwccheng"
+      ]
+    },
+    {
+      "pr_number": 4826,
+      "pr_title": "feat: add type module for esm",
+      "pr_author": "xiaoxiangmoe",
+      "pr_state": "closed",
+      "created_at": "2020-06-20T07:02:24Z",
+      "pr_url": "https://github.com/expressjs/express/pull/4826",
+      "total_reviews": 8,
+      "total_review_comments": 7,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "JLHwung",
+          "reviewer_id": 3607926,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-06-25T20:41:44Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "nickserv",
+          "reviewer_id": 927220,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-07-22T16:08:30Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "nickserv",
+          "reviewer_id": 927220,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2020-07-22T16:08:58Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "JLHwung",
+          "reviewer_id": 3607926,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-07-22T17:17:52Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "nickserv",
+          "reviewer_id": 927220,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-07-26T15:15:05Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "rifler",
+          "reviewer_id": 871583,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-08-17T11:31:32Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "rifler",
+          "reviewer_id": 871583,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-08-17T11:33:33Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "damianobarbati",
+          "reviewer_id": 2225869,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2020-08-17T11:38:55Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "nickserv",
+        "JLHwung",
+        "rifler",
+        "damianobarbati"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "nickserv",
+        "JLHwung",
+        "rifler",
+        "damianobarbati"
+      ]
+    },
+    {
+      "pr_number": 5292,
+      "pr_title": "Enable groupBy tests",
+      "pr_author": "leifjones",
+      "pr_state": "closed",
+      "created_at": "2021-10-31T17:53:14Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5292",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "sokarax",
+          "reviewer_id": 82393670,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2021-11-01T01:42:00Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "sokarax"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "sokarax"
+      ]
+    },
+    {
+      "pr_number": 5336,
+      "pr_title": "Feature: add Array/splitAt function",
+      "pr_author": "Lukazovic",
+      "pr_state": "closed",
+      "created_at": "2021-12-10T13:36:29Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5336",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "giulliano-bueno",
+          "reviewer_id": 53574590,
+          "review_state": "APPROVED",
+          "review_body": "The code looks fine to me.",
+          "submitted_at": "2021-12-17T08:25:56Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "gaojude",
+          "reviewer_id": 32973745,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2023-03-24T14:01:35Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "gaojude",
+        "giulliano-bueno"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "gaojude",
+        "giulliano-bueno"
+      ]
+    },
+    {
+      "pr_number": 5353,
+      "pr_title": "Fix TypeError: expected at least one argument",
+      "pr_author": "MrAndrewMal",
+      "pr_state": "closed",
+      "created_at": "2022-01-10T18:11:17Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5353",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "elizatlawy",
+          "reviewer_id": 17687074,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2022-01-19T11:49:58Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "elizatlawy"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "elizatlawy"
+      ]
+    }
+  ]
+}

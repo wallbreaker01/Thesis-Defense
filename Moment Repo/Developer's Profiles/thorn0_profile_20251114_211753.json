@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "developer_name": "thorn0",
+    "generation_timestamp": "2025-11-14T21:07:04.294917",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "thorn0",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Moment.js",
+      "TypeScript",
+      "Functional Programming",
+      "Unit Testing",
+      "Continuous Integration (CI)"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "summary": "thorn0 is a mid-level JavaScript developer with a strong focus on frontend development, particularly in the context of date and time manipulation using Moment.js. They have demonstrated proficiency in functional programming, type definitions with TypeScript, and unit testing. Their contributions to the Moment.js library indicate a commitment to code quality and modern JavaScript practices. While their primary experience is in frontend development, they show a good understanding of continuous integration and version control systems.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "Moment.js, frequency: 3"
+      ],
+      "Asynchronous Programming, frequency: 1": [
+        "Promises, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "API Consumption, frequency: 2"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 1": [
+        "CI/CD Pipelines, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Closures, frequency: 1",
+        "Higher-Order Functions, frequency: 1"
+      ],
+      "Functional Programming, frequency: 3": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1",
+        "Declarative Programming, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript, frequency: 3": [
+        "Type Definitions, frequency: 3"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

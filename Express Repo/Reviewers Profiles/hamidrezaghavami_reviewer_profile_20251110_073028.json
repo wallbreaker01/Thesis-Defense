@@ -1,0 +1,63 @@
+{
+  "reviewer_name": "hamidrezaghavami",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 4,
+    "total_comments": 3,
+    "total_prs": 1,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "hamidrezaghavami",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Unit Testing",
+      "API Development",
+      "Asynchronous Programming",
+      "Code Quality"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Hamidreza Ghavami is a mid-level JavaScript developer with a strong focus on backend development, particularly using Node.js and Express.js. They have a solid understanding of API development, unit testing, and asynchronous programming. Their reviews demonstrate a commitment to code quality and best practices, making them a valuable contributor to backend JavaScript projects.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "Node.js, frequency: 2",
+        "Express.js, frequency: 3"
+      ],
+      "Asynchronous Programming, frequency: 3": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 5": [
+        "RESTful APIs, frequency: 5"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 5": [
+        "Middleware, frequency: 2",
+        "API Endpoints, frequency: 3"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Prototypes & Inheritance, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

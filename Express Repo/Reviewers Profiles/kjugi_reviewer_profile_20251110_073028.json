@@ -1,0 +1,40 @@
+{
+  "reviewer_name": "kjugi",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 1,
+    "total_prs": 1,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "kjugi",
+    "experience_level": "Junior",
+    "primary_skills": [],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the limited review data, kjugi primarily focuses on documentation changes and team management. There is insufficient evidence to determine specific JavaScript technical skills and expertise. Additional review data with technical comments and feedback would be necessary to provide a more accurate assessment.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

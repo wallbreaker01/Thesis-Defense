@@ -1,0 +1,76 @@
+{
+  "reviewer_name": "dmethvin",
+  "generated_at": "20251114_163138",
+  "stats": {
+    "total_reviews": 24,
+    "total_comments": 7,
+    "total_prs": 20,
+    "repos": [
+      "jquery"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "dmethvin",
+    "experience_level": "Senior",
+    "primary_skills": [
+      "jQuery",
+      "Promises and Deferreds",
+      "Event Handling",
+      "Memory Management",
+      "Error Handling",
+      "AJAX",
+      "Node.js",
+      "Unit Testing",
+      "ESLint",
+      "CI/CD"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "dmethvin demonstrates extensive expertise in the JavaScript ecosystem, particularly in jQuery, Node.js, and frontend development. They have a strong understanding of programming patterns, testing methodologies, build tools, and modern JavaScript practices. Their reviews show a deep knowledge of asynchronous programming, API development, and code quality. While there is no explicit mention of TypeScript, their expertise in vanilla JavaScript and jQuery is well-established.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 14": [
+        "jQuery, frequency: 14"
+      ],
+      "Asynchronous Programming, frequency: 7": [
+        "Promises, frequency: 5",
+        "async/await, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 6": [
+        "AJAX, frequency: 6"
+      ],
+      "Error Handling, frequency: 4": [
+        "Custom Error Classes, frequency: 2",
+        "Error Boundaries, frequency: 2"
+      ],
+      "Frontend Development Skills, frequency: 10": [
+        "DOM Manipulation, frequency: 10"
+      ],
+      "Backend Development Skills, frequency: 2": [
+        "API Endpoints, frequency: 2"
+      ],
+      "DevOps & Deployment, frequency: 4": [
+        "CI/CD Pipelines, frequency: 4"
+      ],
+      "Advanced JavaScript Concepts, frequency: 8": [
+        "Closures, frequency: 2",
+        "Prototypes & Inheritance, frequency: 2",
+        "Module Systems, frequency: 2",
+        "Memory Management, frequency: 2"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture, frequency: 5": [
+        "Event Emitters, frequency: 5"
+      ],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

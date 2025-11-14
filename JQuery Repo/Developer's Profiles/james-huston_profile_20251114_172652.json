@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "developer_name": "james-huston",
+    "generation_timestamp": "2025-11-14T17:14:52.632723",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 5,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 5
+  },
+  "profile": {
+    "developer_name": "james-huston",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "Test-Driven Development (TDD)",
+      "Modular Programming",
+      "QUnit"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "James Huston is a mid-level JavaScript developer with a strong focus on frontend development, particularly using jQuery. He has a solid understanding of modular programming and test-driven development (TDD), as evidenced by his contributions to enforcing expectations in test files. His experience with QUnit indicates a commitment to code quality and maintainability. While there is no direct evidence of backend development, asynchronous programming, or TypeScript usage, his involvement in jQuery suggests familiarity with modern JavaScript practices and DOM manipulation.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "jQuery, frequency: 5"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 5": [
+        "DOM Manipulation, frequency: 5"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 5": [
+        "Modular Programming, frequency: 5"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 5,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

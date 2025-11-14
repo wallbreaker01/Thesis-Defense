@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "developer_name": "ovangle",
+    "generation_timestamp": "2025-11-14T21:01:25.774219",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 5,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 5
+  },
+  "profile": {
+    "developer_name": "ovangle",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Moment.js",
+      "TypeScript",
+      "Unit Testing",
+      "Modularization",
+      "Webpack"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "summary": "ovangle demonstrates strong expertise in backend JavaScript, particularly in the context of Node.js and the `moment` library. They are proficient in TypeScript, modularization, and testing, and have a good understanding of modern JavaScript practices and tools. Their contributions show a commitment to code quality, type safety, and maintainability.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "Node.js, frequency: 5"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "API Endpoints, frequency: 2"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 5": [
+        "Middleware, frequency: 2",
+        "API Endpoints, frequency: 3"
+      ],
+      "DevOps & Deployment, frequency: 3": [
+        "CI/CD Pipelines, frequency: 1",
+        "Containerization, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Module Systems, frequency: 4"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript, frequency: 5": [
+        "Type Definitions, frequency: 5"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 3": [
+        "npm/yarn, frequency: 3"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 5,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

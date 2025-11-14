@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "developer_name": "timrwood",
+    "generation_timestamp": "2025-11-14T21:16:17.776991",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "timrwood",
+    "raw_response": "",
+    "parsing_error": "Invalid json output: \nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

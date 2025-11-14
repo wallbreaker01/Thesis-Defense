@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "developer_name": "gmethvin",
+    "generation_timestamp": "2025-11-10T00:52:14.273911",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 7,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 7
+  },
+  "profile": {
+    "developer_name": "gmethvin",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "RESTful APIs",
+      "Middleware",
+      "Unit Testing",
+      "Immutability",
+      "Functional Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "gmethvin demonstrates strong expertise in backend JavaScript development, particularly with the Express.js framework. They are proficient in functional programming patterns, immutability, and unit testing. Their contributions focus on enhancing and fixing various aspects of HTTP requests and responses, indicating a deep understanding of RESTful API development and middleware. While there is no evidence of TypeScript usage, the PRs suggest a familiarity with modern JavaScript practices and a strong focus on code quality and security.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 7": [
+        "Express.js, frequency: 7"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 7": [
+        "RESTful APIs, frequency: 7"
+      ],
+      "Error Handling, frequency: 1": [
+        "Custom Error Classes, frequency: 1"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 7": [
+        "Middleware, frequency: 3",
+        "API Endpoints, frequency: 2",
+        "Authentication/Authorization, frequency: 1",
+        "Caching, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 1": [
+        "CI/CD Pipelines, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Prototypes & Inheritance, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 7,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

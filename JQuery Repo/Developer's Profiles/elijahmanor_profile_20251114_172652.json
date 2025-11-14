@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "developer_name": "elijahmanor",
+    "generation_timestamp": "2025-11-14T17:20:37.494991",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 4,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 4
+  },
+  "profile": {
+    "developer_name": "elijahmanor",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Cross-Browser Compatibility",
+      "Unit Testing"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Elijahmanor is a mid-level JavaScript developer with significant experience in frontend development, particularly with jQuery. They have a strong focus on DOM manipulation, cross-browser compatibility, and unit testing. Their contributions to the jQuery repository demonstrate a commitment to code quality and reliability.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 4": [
+        "jQuery, frequency: 4"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling, frequency: 2": [
+        "Custom Error Classes, frequency: 2"
+      ],
+      "Frontend Development Skills, frequency: 4": [
+        "DOM Manipulation, frequency: 4"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 4,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

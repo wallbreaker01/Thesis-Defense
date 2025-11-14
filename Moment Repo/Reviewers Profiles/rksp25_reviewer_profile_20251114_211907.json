@@ -1,0 +1,53 @@
+{
+  "reviewer_name": "rksp25",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 4,
+    "total_comments": 0,
+    "total_prs": 4,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "rksp25",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Moment.js",
+      "Localization and Internationalization (i18n)",
+      "Unit Testing",
+      "CI/CD Pipelines"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "rksp25 is a mid-level JavaScript reviewer with a strong focus on frontend development, particularly in the area of date and time handling using Moment.js. They have a solid understanding of localization and internationalization, and they emphasize the importance of unit testing and CI/CD pipelines. While their expertise is primarily in frontend JavaScript, there is no explicit evidence of backend development, TypeScript usage, or advanced asynchronous programming skills.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 4": [
+        "moment.js, frequency: 4"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 4": [
+        "DOM Manipulation, frequency: 4"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Switch Case, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

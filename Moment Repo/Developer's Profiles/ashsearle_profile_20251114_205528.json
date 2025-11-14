@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "developer_name": "ashsearle",
+    "generation_timestamp": "2025-11-14T20:54:50.225563",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 16,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "ashsearle",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Date and Time Manipulation",
+      "TypeScript",
+      "Unit Testing",
+      "Code Quality and Maintainability",
+      "Backward Compatibility"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "summary": "ashsearle demonstrates strong expertise in JavaScript, particularly in date and time manipulation using Moment.js. They are proficient in TypeScript, ensuring type safety and correctness. The developer has a strong focus on unit testing and preventing regressions, and is committed to code quality, readability, and backward compatibility. While their contributions are primarily in the frontend domain, their skills are transferable to backend JavaScript environments. They are also proficient in continuous integration and release management, indicating a well-rounded skill set in the JavaScript ecosystem.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 16": [
+        "Moment.js, frequency: 16"
+      ],
+      "Asynchronous Programming, frequency: 0": [],
+      "API Design & Consumption, frequency: 10": [
+        "Date and Time APIs, frequency: 10"
+      ],
+      "Error Handling, frequency: 5": [
+        "Custom Error Classes, frequency: 5"
+      ],
+      "Frontend Development Skills, frequency: 16": [
+        "DOM Manipulation, frequency: 16"
+      ],
+      "Backend Development Skills, frequency: 0": [],
+      "DevOps & Deployment, frequency: 1": [
+        "CI/CD Pipelines, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 6": [
+        "Immutability, frequency: 3",
+        "Functional Programming, frequency: 3"
+      ],
+      "Functional Programming, frequency: 3": [
+        "Immutability, frequency: 3"
+      ],
+      "Data Structures & Algorithms, frequency: 0": [],
+      "TypeScript, frequency: 5": [
+        "Type Definitions, frequency: 5"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 16,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

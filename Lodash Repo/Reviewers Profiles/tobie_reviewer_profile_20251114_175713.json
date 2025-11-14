@@ -1,0 +1,40 @@
+{
+  "reviewer_name": "tobie",
+  "generated_at": "20251114_175713",
+  "stats": {
+    "total_reviews": 3,
+    "total_comments": 3,
+    "total_prs": 1,
+    "repos": [
+      "lodash"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "tobie",
+    "experience_level": "Junior",
+    "primary_skills": [],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The provided review data for tobie does not contain any information that directly relates to JavaScript technical skills or expertise. The reviews are focused on governance and documentation changes, which do not provide insights into the reviewer's JavaScript capabilities. To accurately assess tobie's JavaScript skills and expertise, more review data involving JavaScript code and related technical discussions would be necessary.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

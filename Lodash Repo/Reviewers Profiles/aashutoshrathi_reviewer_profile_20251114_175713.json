@@ -1,0 +1,48 @@
+{
+  "reviewer_name": "aashutoshrathi",
+  "generated_at": "20251114_175713",
+  "stats": {
+    "total_reviews": 3,
+    "total_comments": 2,
+    "total_prs": 1,
+    "repos": [
+      "lodash"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "aashutoshrathi",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Functional Programming",
+      "Type Checking",
+      "Modern JavaScript Features (BigInt)"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "aashutoshrathi demonstrates a solid understanding of modern JavaScript practices, particularly in functional programming and type checking. They have reviewed PRs that involve utility functions, indicating a focus on code quality and reusability. While there is no evidence of expertise in specific frameworks, testing, or backend development, their knowledge of ES6+ features and functional programming patterns suggests a strong foundation in JavaScript that can be applied in various contexts.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "BigInt, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Utility Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

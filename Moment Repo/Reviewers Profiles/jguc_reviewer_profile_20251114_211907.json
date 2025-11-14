@@ -1,0 +1,47 @@
+{
+  "reviewer_name": "jguc",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 5,
+    "total_comments": 5,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "jguc",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Localization",
+      "Relative Time Translations"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the limited data available, jguc shows some frontend JavaScript knowledge, particularly in the area of localization and relative time translations. There is no evidence to suggest expertise in JavaScript frameworks, programming patterns, testing, build tools, ES6+ features, TypeScript, API development, asynchronous programming, or code quality practices. Additional review data with more detailed comments and feedback would be necessary to gain a more comprehensive understanding of jguc's JavaScript technical skills and expertise.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

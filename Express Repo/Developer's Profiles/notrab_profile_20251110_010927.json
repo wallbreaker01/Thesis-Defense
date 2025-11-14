@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "developer_name": "notrab",
+    "generation_timestamp": "2025-11-10T00:54:35.334871",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 7,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 7
+  },
+  "profile": {
+    "developer_name": "notrab",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Pug",
+      "EJS",
+      "MVC",
+      "Templating",
+      "Code Quality",
+      "Modernization"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The developer notrab demonstrates a strong proficiency in backend JavaScript development, particularly with the Express framework. They show a commitment to maintaining and modernizing codebases, and are familiar with templating engines and some frontend knowledge, indicating a well-rounded skill set within the JavaScript ecosystem.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 7": [
+        "Express.js, frequency: 7",
+        "Pug, frequency: 1",
+        "EJS, frequency: 1"
+      ],
+      "Asynchronous Programming, frequency: 0": [],
+      "API Design & Consumption, frequency: 0": [],
+      "Error Handling, frequency: 0": [],
+      "Frontend Development Skills, frequency: 2": [
+        "DOM Manipulation, frequency: 2"
+      ],
+      "Backend Development Skills, frequency: 5": [
+        "Middleware, frequency: 1",
+        "API Endpoints, frequency: 1",
+        "Authentication/Authorization, frequency: 1",
+        "Server-Side Logic, frequency: 2"
+      ],
+      "DevOps & Deployment, frequency: 0": [],
+      "Advanced JavaScript Concepts, frequency: 0": [],
+      "Functional Programming, frequency: 0": [],
+      "Data Structures & Algorithms, frequency: 0": [],
+      "TypeScript, frequency: 0": [],
+      "Progressive Web Apps (PWA), frequency: 0": [],
+      "Mobile Development with JavaScript, frequency: 0": [],
+      "Web Performance Optimization, frequency: 0": [],
+      "Event-Driven Architecture, frequency: 0": [],
+      "Dependency Management, frequency: 0": [],
+      "Graphical Data Visualization, frequency: 0": []
+    }
+  },
+  "statistics": {
+    "total_prs": 7,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

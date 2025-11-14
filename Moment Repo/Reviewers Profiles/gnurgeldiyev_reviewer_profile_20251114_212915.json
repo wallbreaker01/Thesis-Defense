@@ -1,0 +1,40 @@
+{
+  "reviewer_name": "gnurgeldiyev",
+  "generated_at": "20251114_212915",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 3,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "gnurgeldiyev",
+    "experience_level": "Junior",
+    "primary_skills": [],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The provided review data for gnurgeldiyev does not contain any technical feedback or comments that would allow for a detailed analysis of their JavaScript technical skills and expertise. The reviews are focused on non-technical aspects, specifically typos in a locale file. To gain a more comprehensive understanding of their JavaScript skills, additional review data that includes technical feedback on JavaScript code would be necessary.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

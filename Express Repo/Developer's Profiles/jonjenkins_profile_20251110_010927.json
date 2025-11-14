@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "developer_name": "jonjenkins",
+    "generation_timestamp": "2025-11-10T01:01:13.968409",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "jonjenkins",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Callback Functions",
+      "Array Methods",
+      "API Development",
+      "Asynchronous Programming",
+      "Testing"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Jonjenkins demonstrates strong expertise in backend JavaScript development, particularly with the Express framework. They have experience with asynchronous programming patterns, array manipulation, and API development. While there is no explicit mention of frontend frameworks, TypeScript, or specific testing frameworks, the developer shows a commitment to code quality and modern JavaScript practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "Express.js, frequency: 3"
+      ],
+      "Asynchronous Programming, frequency: 3": [
+        "Callbacks, frequency: 3"
+      ],
+      "API Design & Consumption, frequency: 3": [
+        "RESTful APIs, frequency: 3"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 3": [
+        "Middleware, frequency: 3"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Array Methods, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

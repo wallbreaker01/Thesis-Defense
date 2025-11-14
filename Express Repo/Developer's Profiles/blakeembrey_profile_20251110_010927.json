@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "developer_name": "blakeembrey",
+    "generation_timestamp": "2025-11-10T00:52:49.708968",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 7,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 7
+  },
+  "profile": {
+    "developer_name": "blakeembrey",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Modular Routing",
+      "Dependency Management",
+      "Backend Development"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Blakeembrey demonstrates strong expertise in backend JavaScript development, particularly with the Express framework. They have a strong focus on server-side programming, modular routing, and dependency management. Their contributions indicate a commitment to maintaining and improving code quality, and they are likely familiar with modern JavaScript practices and asynchronous programming patterns in Node.js.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 7": [
+        "Express.js, frequency: 7"
+      ],
+      "Asynchronous Programming, frequency: 0": [],
+      "API Design & Consumption, frequency: 3": [
+        "RESTful APIs, frequency: 3"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 7": [
+        "Middleware, frequency: 2",
+        "API Endpoints, frequency: 3",
+        "Authentication/Authorization, frequency: 2"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 7": [
+        "npm/yarn, frequency: 7"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 7,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

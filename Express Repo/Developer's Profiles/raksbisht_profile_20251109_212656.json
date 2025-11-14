@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "developer_name": "raksbisht",
+    "generation_timestamp": "2025-11-09T21:26:56.875549",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 9,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 9
+  },
+  "profile": {
+    "developer_name": "raksbisht",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Functional Programming",
+      "API Development",
+      "Code Refactoring",
+      "Code Documentation",
+      "Code Linting"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "raksbisht is a mid-level JavaScript developer with a strong focus on backend development using Node.js and the Express framework. They demonstrate proficiency in functional programming, API development, and maintaining high code quality through refactoring, documentation, and linting. Their contributions to the Express framework indicate a solid understanding of server-side JavaScript and modern JavaScript features.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "Node.js, frequency: 3",
+        "Express.js, frequency: 2"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 3": [
+        "RESTful APIs, frequency: 3"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 8": [
+        "Middleware, frequency: 2",
+        "API Endpoints, frequency: 3",
+        "Authentication/Authorization, frequency: 3"
+      ],
+      "DevOps & Deployment, frequency: 1": [
+        "CI/CD Pipelines, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Closures, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Immutability, frequency: 1",
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 9,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "developer_name": "carpasse",
+    "generation_timestamp": "2025-11-10T06:55:50.572011",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "carpasse",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Dependency Management",
+      "API Development"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The developer `carpasse` demonstrates strong backend JavaScript skills, particularly in the context of Express.js and dependency management. They show a commitment to maintaining and improving the codebase, which is essential for the long-term health and security of the application. Their contributions primarily focus on backend development and dependency updates, indicating a good understanding of Express.js and its ecosystem.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "Express.js, frequency: 3"
+      ],
+      "Asynchronous Programming, frequency: 3": [
+        "async/await, frequency: 3"
+      ],
+      "API Design & Consumption, frequency: 3": [
+        "API Endpoints, frequency: 3"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 3": [
+        "Middleware, frequency: 3"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 3": [
+        "npm/yarn, frequency: 3"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

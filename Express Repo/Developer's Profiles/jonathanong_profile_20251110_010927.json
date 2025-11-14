@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "developer_name": "jonathanong",
+    "generation_timestamp": "2025-11-10T00:59:26.880152",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 4,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 4
+  },
+  "profile": {
+    "developer_name": "jonathanong",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Connect",
+      "Middleware",
+      "API Development",
+      "Modular Design",
+      "Version Control"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Jonathanong demonstrates strong backend JavaScript skills, particularly in the Express and Connect ecosystems. He shows a good understanding of modular design, middleware, and API development, with an awareness of code quality and maintainability. While there is no explicit mention of ES6+ features or TypeScript, the modern nature of the projects suggests proficiency in these areas.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 4": [
+        "Express.js, frequency: 3",
+        "Connect, frequency: 1"
+      ],
+      "Asynchronous Programming, frequency: 4": [
+        "Callbacks, frequency: 2",
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 3": [
+        "RESTful APIs, frequency: 2",
+        "Authentication & Authorization, frequency: 1"
+      ],
+      "Backend Development Skills, frequency: 8": [
+        "Middleware, frequency: 4",
+        "API Endpoints, frequency: 2",
+        "Database Integration, frequency: 1",
+        "Caching, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 4": [
+        "CI/CD Pipelines, frequency: 2",
+        "Containerization, frequency: 1",
+        "Web Servers, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Module Systems, frequency: 2"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 4": [
+        "npm/yarn, frequency: 4"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 4,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

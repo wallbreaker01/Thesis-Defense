@@ -1,0 +1,49 @@
+{
+  "reviewer_name": "tomerle",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 3,
+    "total_comments": 3,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "tomerle",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Core JavaScript",
+      "Performance Optimization",
+      "Code Simplification"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The reviewer tomerle demonstrates a strong understanding of core JavaScript, particularly in performance optimization and code simplification. They show proficiency in using and suggesting improvements to control flow structures like `switch-case`. While there is no clear evidence of expertise in advanced JavaScript topics such as frameworks, testing, build tools, or asynchronous programming, the reviewer emphasizes code quality and maintainability. To gain a more comprehensive understanding of tomerle's JavaScript expertise, additional review data or more diverse PRs would be beneficial.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Closures, frequency: 1",
+        "Higher-Order Functions, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 1": [
+        "Lazy Loading, frequency: 1"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

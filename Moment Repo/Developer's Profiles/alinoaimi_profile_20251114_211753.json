@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "developer_name": "alinoaimi",
+    "generation_timestamp": "2025-11-14T21:07:24.222950",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "alinoaimi",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "JavaScript",
+      "Moment.js",
+      "Localization and Internationalization (i18n)"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "alinoaimi is a junior JavaScript developer with a focus on frontend development, particularly in the area of date and time manipulation using the Moment.js library. They have contributed to adding a new locale (Arabic (Bahrain)) to Moment.js, demonstrating proficiency in localization and internationalization patterns. The limited PR data does not provide evidence of expertise in other JavaScript frameworks, testing, build tools, or advanced JavaScript concepts.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "Moment.js, frequency: 3"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

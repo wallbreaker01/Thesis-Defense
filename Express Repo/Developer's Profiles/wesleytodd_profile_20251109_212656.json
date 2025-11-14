@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "developer_name": "wesleytodd",
+    "generation_timestamp": "2025-11-09T21:21:07.252550",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 32,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "wesleytodd",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Backend Development",
+      "Dependency Management",
+      "API Development",
+      "Asynchronous Programming",
+      "Unit Testing"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "wesleytodd is a mid-level JavaScript developer with a strong focus on backend development using the Express framework. They demonstrate expertise in modular design, dependency management, and API development. Their contributions show a commitment to code quality, version control, and maintaining high standards in their projects. They are also experienced in asynchronous programming and unit testing, which are essential skills for robust backend development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 12": [
+        "Node.js, frequency: 4",
+        "Express.js, frequency: 8"
+      ],
+      "Asynchronous Programming, frequency: 6": [
+        "Promises, frequency: 3",
+        "async/await, frequency: 3"
+      ],
+      "API Design & Consumption, frequency: 10": [
+        "RESTful APIs, frequency: 10"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 20": [
+        "Middleware, frequency: 8",
+        "API Endpoints, frequency: 7",
+        "Authentication/Authorization, frequency: 5"
+      ],
+      "DevOps & Deployment, frequency: 5": [
+        "CI/CD Pipelines, frequency: 5"
+      ],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Prototypes & Inheritance, frequency: 2",
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 12": [
+        "npm/yarn, frequency: 12"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 32,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

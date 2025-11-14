@@ -1,0 +1,47 @@
+{
+  "reviewer_name": "inigomarquinez",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 4,
+    "total_comments": 5,
+    "total_prs": 3,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "inigomarquinez",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Dependency Management",
+      "CI/CD Pipelines"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the provided GitHub review data, inigomarquinez shows a basic understanding of build tools and development workflows, particularly in the context of dependency management and CI/CD pipelines. However, there is limited evidence of specific JavaScript-related technical skills such as frameworks, programming patterns, testing, ES6+ features, TypeScript, API development, asynchronous programming, and advanced code quality practices. To gain a more comprehensive understanding of their JavaScript expertise, additional review data or more detailed technical feedback would be necessary.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 4": [
+        "CI/CD Pipelines, frequency: 4"
+      ],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 4": [
+        "npm/yarn, frequency: 4"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

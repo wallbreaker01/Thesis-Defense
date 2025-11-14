@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "developer_name": "nassimnasibullah",
+    "generation_timestamp": "2025-11-14T21:14:13.071646",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "nassimnasibullah",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Moment.js",
+      "Localization and Internationalization"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "nassimnasibullah is a junior JavaScript developer with experience in frontend development, specifically with the Moment.js library. They have contributed to adding Pashto language support, indicating proficiency in localization and internationalization patterns. The limited PR data does not provide evidence of expertise in other areas such as testing, build tools, modern JavaScript features, TypeScript, API development, or backend development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "Moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

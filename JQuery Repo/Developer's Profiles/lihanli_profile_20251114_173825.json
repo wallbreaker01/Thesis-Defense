@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "developer_name": "lihanli",
+    "generation_timestamp": "2025-11-14T17:36:53.914680",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "lihanli",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Event Handling"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "lihanli is a junior JavaScript developer with a strong focus on frontend development, particularly in the use of jQuery for DOM manipulation and event handling. They have contributed to the jQuery repository, fixing issues related to showing and hiding elements, changing styles, and handling mouse and key events. Their contributions indicate a solid understanding of DOM manipulation patterns and event-driven programming, but there is no explicit evidence of experience with testing frameworks, build tools, or advanced JavaScript concepts.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "jQuery, frequency: 3"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture, frequency: 1": [
+        "Event Handling, frequency: 1"
+      ],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

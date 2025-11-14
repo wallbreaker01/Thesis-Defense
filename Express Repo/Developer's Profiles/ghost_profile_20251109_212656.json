@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "developer_name": "ghost",
+    "generation_timestamp": "2025-11-09T21:23:03.969868",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 17,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "ghost",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Middleware",
+      "CI/CD",
+      "Environment Variables",
+      "RESTful APIs"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The developer `ghost` is a mid-level JavaScript developer with a strong focus on backend development, particularly using Express.js. They have a solid understanding of middleware patterns, functional programming, and asynchronous programming. Their contributions to the Express.js repository demonstrate their ability to handle complex issues, improve code quality, and integrate CI/CD tools. While they have not explicitly shown expertise in frontend development, testing frameworks, or TypeScript, their backend skills and attention to code quality make them a valuable asset for backend-focused projects.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "Express.js, frequency: 5"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Middleware, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 5": [
+        "RESTful APIs, frequency: 5"
+      ],
+      "Error Handling, frequency: 1": [
+        "Try-Catch, frequency: 1"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 8": [
+        "Middleware, frequency: 5",
+        "API Endpoints, frequency: 3"
+      ],
+      "DevOps & Deployment, frequency: 5": [
+        "CI/CD Pipelines, frequency: 5"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Closures, frequency: 1",
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 17,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

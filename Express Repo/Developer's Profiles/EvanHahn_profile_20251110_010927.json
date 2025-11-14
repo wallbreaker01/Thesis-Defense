@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "developer_name": "EvanHahn",
+    "generation_timestamp": "2025-11-10T01:00:00.804519",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 4,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 4
+  },
+  "profile": {
+    "developer_name": "EvanHahn",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Prototype Inheritance",
+      "API Development",
+      "Code Quality"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "EvanHahn is a proficient backend JavaScript developer with a strong focus on Node.js and the Express framework. He demonstrates a deep understanding of advanced JavaScript concepts, particularly prototype-based inheritance and best practices for object creation. His contributions to the Express framework indicate a commitment to code quality and modern JavaScript practices. While there is no explicit mention of frontend development, testing frameworks, or TypeScript, his backend expertise and code quality focus suggest that he could adapt to these areas if needed.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 4": [
+        "Node.js, frequency: 4",
+        "Express.js, frequency: 4"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 4": [
+        "API Endpoints, frequency: 4"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 4": [
+        "Middleware, frequency: 4"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Prototypes & Inheritance, frequency: 4"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 4,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

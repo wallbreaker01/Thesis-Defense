@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "developer_name": "adsingh14",
+    "generation_timestamp": "2025-11-14T21:14:53.895981",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "adsingh14",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "JavaScript",
+      "moment",
+      "Internationalization (i18n)",
+      "Localization (l10n)"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "adsingh14 is a junior JavaScript developer with a focus on date manipulation and localization. They have contributed to the `moment` library, specifically by making corrections and improvements to the Punjabi locale. This indicates a good understanding of internationalization and localization patterns in JavaScript. While their contributions are primarily frontend-focused, there is no evidence of advanced JavaScript skills or expertise in specific frameworks, testing, or build tools.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "moment, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

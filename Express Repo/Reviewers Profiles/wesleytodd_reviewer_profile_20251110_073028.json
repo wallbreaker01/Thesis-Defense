@@ -1,0 +1,66 @@
+{
+  "reviewer_name": "wesleytodd",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 65,
+    "total_comments": 27,
+    "total_prs": 49,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "wesleytodd",
+    "experience_level": "Senior",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "Unit Testing",
+      "Dependency Management",
+      "Code Quality and Best Practices"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "wesleytodd demonstrates strong expertise in backend JavaScript development, particularly in the Node.js and Express.js ecosystems. They have a solid understanding of functional programming patterns, dependency management, testing, and code quality best practices. While there is no explicit evidence of frontend JavaScript or TypeScript expertise, their focus on backend development and API handling suggests a comprehensive understanding of modern JavaScript practices and asynchronous programming.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 11": [
+        "Node.js, frequency: 6",
+        "Express.js, frequency: 5"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 4": [
+        "RESTful APIs, frequency: 4"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 10": [
+        "Middleware, frequency: 3",
+        "API Endpoints, frequency: 4",
+        "Authentication/Authorization, frequency: 3"
+      ],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 3": [
+        "Prototypes & Inheritance, frequency: 1",
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Immutability, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 10": [
+        "npm/yarn, frequency: 10"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

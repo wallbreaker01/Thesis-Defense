@@ -1,0 +1,51 @@
+{
+  "reviewer_name": "fadsel",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 1,
+    "total_prs": 2,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "fadsel",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "moment.js",
+      "API Design & Consumption",
+      "Asynchronous Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "fadsel is a mid-level JavaScript reviewer with a strong focus on frontend development, particularly in the use of moment.js for date and time manipulation. They demonstrate a good understanding of API design and consumption, as well as asynchronous programming techniques. Their reviews are thorough and show a solid grasp of modern JavaScript practices, but they have limited experience with backend development, DevOps, and advanced JavaScript concepts.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 2": [
+        "moment.js, frequency: 2"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "RESTful APIs, frequency: 2"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

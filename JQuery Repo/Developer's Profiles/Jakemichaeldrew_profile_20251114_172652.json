@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "developer_name": "Jakemichaeldrew",
+    "generation_timestamp": "2025-11-14T17:09:35.763025",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 7,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 7
+  },
+  "profile": {
+    "developer_name": "Jakemichaeldrew",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Functional Programming",
+      "URL Parameter Parsing"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Jakemichaeldrew is a mid-level JavaScript developer with a strong focus on frontend development, particularly using jQuery. They demonstrate proficiency in DOM manipulation, functional programming, and URL parameter parsing. Their contributions show a commitment to writing modular and reusable code, and they provide clear documentation for their changes. While there is no explicit evidence of backend development, testing frameworks, or advanced JavaScript concepts, their work suggests a solid foundation in frontend JavaScript and a potential for growth in other areas.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 7": [
+        "jQuery, frequency: 7"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 1": [
+        "URL Parameter Parsing, frequency: 1"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 7": [
+        "DOM Manipulation, frequency: 7"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming, frequency: 7": [
+        "Functional Programming, frequency: 7"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 7,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

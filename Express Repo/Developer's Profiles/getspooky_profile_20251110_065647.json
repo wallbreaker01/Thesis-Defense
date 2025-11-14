@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "developer_name": "getspooky",
+    "generation_timestamp": "2025-11-10T06:54:50.895098",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "getspooky",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "API Development",
+      "Backend Development",
+      "Route Handling",
+      "Asynchronous Programming",
+      "Development Workflow"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "getspooky is a mid-level JavaScript developer with a strong focus on backend development using Node.js and Express.js. They have demonstrated proficiency in API development, route handling, and asynchronous programming. Their contributions show a commitment to code quality and best practices, including the use of PR templates and an awareness of the importance of testing.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "Node.js, frequency: 3",
+        "Express.js, frequency: 2"
+      ],
+      "Asynchronous Programming, frequency: 1": [
+        "Callbacks, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "RESTful APIs, frequency: 2"
+      ],
+      "Backend Development Skills, frequency: 3": [
+        "Middleware, frequency: 1",
+        "API Endpoints, frequency: 2"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": [],
+      "Error Handling": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

@@ -1,0 +1,2079 @@
+{
+  "summary": {
+    "extraction_metadata": {
+      "extraction_date": "2025-11-02 00:22:09",
+      "source_file": "../PR data for Reviewers/expressjs_express_reviewer_data_test.json",
+      "total_prs_analyzed": 52
+    },
+    "overall_statistics": {
+      "total_prs": 52,
+      "prs_with_reviews": 52,
+      "prs_without_reviews": 0,
+      "total_reviews": 115,
+      "average_reviews_per_pr": 2.21,
+      "unique_reviewers_count": 21
+    },
+    "reviewer_activity": {
+      "by_prs_reviewed": {
+        "bjohansebas": 25,
+        "UlisesGascon": 21,
+        "wesleytodd": 15,
+        "Phillip9587": 8,
+        "ctcpip": 4,
+        "shivarm": 3,
+        "blakeembrey": 3,
+        "krzysdz": 3,
+        "Hardanish-Singh": 3,
+        "copilot-pull-request-reviewer[bot]": 2,
+        "IamLizu": 2,
+        "dpopp07": 1,
+        "mertcanaltin": 1,
+        "ShubhamOulkar": 1,
+        "Dhairya3391": 1,
+        "anuragdaksh7": 1,
+        "shubhamdixit863": 1,
+        "sheplu": 1,
+        "jonchurch": 1,
+        "Jayx239": 1,
+        "mlaopane": 1
+      },
+      "by_total_reviews": {
+        "bjohansebas": 32,
+        "UlisesGascon": 23,
+        "wesleytodd": 19,
+        "Phillip9587": 8,
+        "ctcpip": 5,
+        "shivarm": 3,
+        "blakeembrey": 3,
+        "krzysdz": 3,
+        "ShubhamOulkar": 3,
+        "Hardanish-Singh": 3,
+        "copilot-pull-request-reviewer[bot]": 2,
+        "IamLizu": 2,
+        "dpopp07": 1,
+        "mertcanaltin": 1,
+        "shubhamdixit863": 1,
+        "anuragdaksh7": 1,
+        "Dhairya3391": 1,
+        "sheplu": 1,
+        "jonchurch": 1,
+        "Jayx239": 1,
+        "mlaopane": 1
+      }
+    },
+    "top_reviewers": {
+      "most_prs_reviewed": [
+        "bjohansebas",
+        25
+      ],
+      "most_total_reviews": [
+        "bjohansebas",
+        32
+      ]
+    }
+  },
+  "pr_reviewer_assignments": [
+    {
+      "pr_number": 6534,
+      "pr_title": "Added unit tests for utils.compileETag to cover valid and invalid inputs",
+      "pr_author": "sukdev24",
+      "pr_state": "open",
+      "created_at": "2025-05-26T11:41:47Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6534",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "COMMENTED",
+          "review_body": "@sukdev24 thanks for helping the project! Can you run `npm run lint -- --fix` to solve the linting issues and commit the changes?",
+          "submitted_at": "2025-05-27T08:35:58Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6535,
+      "pr_title": "chore: fix typos in test",
+      "pr_author": "noritaka1166",
+      "pr_state": "closed",
+      "created_at": "2025-05-26T16:04:47Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6535",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "Thanks @noritaka1166!",
+          "submitted_at": "2025-05-27T08:28:12Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6408,
+      "pr_title": "doc: remove @mertcanaltin from Triagers",
+      "pr_author": "mertcanaltin",
+      "pr_state": "closed",
+      "created_at": "2025-03-21T09:56:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6408",
+      "total_reviews": 5,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "COMMENTED",
+          "review_body": "> Even though I am leaving the Triager role, I am still here and I will try to help as much as I can. I thank you all for your efforts and support.\r\n\r\nYour contributions have meant a lot to this project ❤️\r\n\r\nBy the way, feel free to add yourself to the emeriti list instead of just removing your name.",
+          "submitted_at": "2025-03-21T11:08:01Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-03-21T20:25:37Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-03-21T20:28:03Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "dpopp07",
+          "reviewer_id": 9168931,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-03-21T21:26:59Z",
+          "author_association": "CONTRIBUTOR"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "Thanks for your work, you are always more than welcome to join again",
+          "submitted_at": "2025-03-21T22:36:50Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "dpopp07",
+        "bjohansebas",
+        "Phillip9587",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "dpopp07",
+        "bjohansebas",
+        "Phillip9587",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6705,
+      "pr_title": "lib: use req.socket over deprecated req.connection",
+      "pr_author": "bjohansebas",
+      "pr_state": "closed",
+      "created_at": "2025-08-13T01:57:52Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6705",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-08-13T05:05:05Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-08-13T13:26:19Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "Phillip9587",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Phillip9587",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6357,
+      "pr_title": "docs: update Contributing.md to clarify repo captain permissions",
+      "pr_author": "bjohansebas",
+      "pr_state": "closed",
+      "created_at": "2025-02-22T15:50:37Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6357",
+      "total_reviews": 3,
+      "total_review_comments": 3,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-02-22T16:07:40Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-03-04T14:12:00Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-04-22T17:43:38Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6804,
+      "pr_title": "Add automated pull request labeling workflow",
+      "pr_author": "Ronitsabhaya75",
+      "pr_state": "closed",
+      "created_at": "2025-10-04T05:21:14Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6804",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Thanks for your contribution, I don’t think we should have this.\r\n\r\ncc: @expressjs/triagers @expressjs/express-tc ",
+          "submitted_at": "2025-10-04T16:05:57Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6456,
+      "pr_title": "chore: remove duplicate word",
+      "pr_author": "dufucun",
+      "pr_state": "closed",
+      "created_at": "2025-04-16T02:27:09Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6456",
+      "total_reviews": 3,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-04-16T02:34:28Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-04-16T15:59:20Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-04-16T16:18:02Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "UlisesGascon",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "UlisesGascon",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6754,
+      "pr_title": "feat: add express.asyncHandler helper for async route support",
+      "pr_author": "macjik",
+      "pr_state": "closed",
+      "created_at": "2025-09-10T07:28:58Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6754",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "shivarm",
+          "reviewer_id": 91419219,
+          "review_state": "COMMENTED",
+          "review_body": "@macjik With Express 5, don’t need to handle errors within the route handler explicitly.\r\n\r\nBefore Express 4\r\n\r\n```javascript\r\napp.get('/data', async (req, res, next) => {\r\n  try {\r\n    const result = await fetchData();\r\n    res.send(result);\r\n  } catch (err) {\r\n    next(err);\r\n  }\r\n});\r\n```\r\n\r\nWith Express 5\r\n\r\n```javascript\r\napp.get('/data', async (req, res) => {\r\n  const result = await fetchData();\r\n  res.send(result);\r\n});\r\n\r\n```",
+          "submitted_at": "2025-09-10T15:09:45Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "shivarm"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "shivarm"
+      ]
+    },
+    {
+      "pr_number": 6399,
+      "pr_title": "build(deps-dev): bump cookie-session from 2.0.0 to 2.1.0",
+      "pr_author": "dependabot[bot]",
+      "pr_state": "closed",
+      "created_at": "2025-03-16T22:46:18Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6399",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-03-16T22:50:51Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6843,
+      "pr_title": "ci: add node.js 25 to test matrix",
+      "pr_author": "Phillip9587",
+      "pr_state": "closed",
+      "created_at": "2025-10-16T10:30:24Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6843",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-10-16T11:51:27Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6591,
+      "pr_title": "refactor: replace `once` package with internal implementation",
+      "pr_author": "Phillip9587",
+      "pr_state": "open",
+      "created_at": "2025-06-25T20:31:16Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6591",
+      "total_reviews": 3,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "copilot-pull-request-reviewer[bot]",
+          "reviewer_id": 175728472,
+          "review_state": "COMMENTED",
+          "review_body": "## Pull Request Overview\n\nThis PR removes the external \"once\" package and \"wrappy\" from the dependency tree and replaces it with an internal utility function to simplify the codebase.  \n- Removed external dependency \"once\" from package.json  \n- Introduced an internal \"once\" implementation in lib/utils.js  \n- Updated lib/application.js to reference the new internal implementation\n\n### Reviewed Changes\n\nCopilot reviewed 3 out of 3 changed files in this pull request and generated no comments.\n\n| File              | Description                                              |\n| ----------------- | -------------------------------------------------------- |\n| package.json      | Removed the \"once\" package dependency                    |\n| lib/utils.js      | Added a new internal implementation of \"once\"          |\n| lib/application.js| Updated the import to use the internal \"once\" function     |\n\n\n\n",
+          "submitted_at": "2025-06-25T20:33:14Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "This has already been tried before, see https://github.com/expressjs/express/pull/6555\r\n",
+          "submitted_at": "2025-06-25T20:35:11Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "ctcpip",
+          "reviewer_id": 15326526,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "᠎",
+          "submitted_at": "2025-06-25T21:41:00Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "ctcpip",
+        "copilot-pull-request-reviewer[bot]",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "ctcpip",
+        "copilot-pull-request-reviewer[bot]",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6504,
+      "pr_title": "ci: add node.js 24 to test matrix",
+      "pr_author": "Phillip9587",
+      "pr_state": "closed",
+      "created_at": "2025-05-06T14:56:31Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6504",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "ctcpip",
+          "reviewer_id": 15326526,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-05-06T15:35:45Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-05-06T20:37:37Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "ctcpip",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "ctcpip",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6498,
+      "pr_title": "build(deps): bump github/codeql-action from 3.28.13 to 3.28.16",
+      "pr_author": "dependabot[bot]",
+      "pr_state": "closed",
+      "created_at": "2025-05-01T10:03:40Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6498",
+      "total_reviews": 3,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "LGTM! Confirmed that the git hash is valid https://github.com/github/codeql-action/commit/28deaeda66b76a05916b6923827895f2b14ab387",
+          "submitted_at": "2025-05-01T14:41:36Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-05-01T18:55:47Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-05-05T07:44:42Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "Phillip9587",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "Phillip9587",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6740,
+      "pr_title": "ci: use github action/checkout@v5",
+      "pr_author": "shivarm",
+      "pr_state": "closed",
+      "created_at": "2025-09-02T15:00:09Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6740",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Let's let Dependabot do its job",
+          "submitted_at": "2025-09-14T14:37:38Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 5167,
+      "pr_title": "Polish HTML structure of the response in the res.redirect() function",
+      "pr_author": "Bernice55231",
+      "pr_state": "open",
+      "created_at": "2023-04-16T05:56:24Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5167",
+      "total_reviews": 4,
+      "total_review_comments": 2,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-04-11T14:13:36Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-04-12T02:43:21Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-04-12T02:45:59Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "copilot-pull-request-reviewer[bot]",
+          "reviewer_id": 175728472,
+          "review_state": "COMMENTED",
+          "review_body": "\n\nCopilot reviewed 2 out of 2 changed files in this pull request and generated no comments.\n\n\n<details>\n<summary>Comments suppressed due to low confidence (1)</summary>\n\n**lib/response.js:840**\n* The string concatenation split into multiple lines may risk issues with automatic semicolon insertion in JavaScript; consider moving the '+' operator to the end of the preceding line to ensure the concatenation works as intended.\n```\n+ '<body><p>' + statuses.message[status] + '. Redirecting to ' + u + '</p></body>'\n```\n</details>\n\n",
+          "submitted_at": "2025-04-12T02:47:58Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "copilot-pull-request-reviewer[bot]",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "copilot-pull-request-reviewer[bot]",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6313,
+      "pr_title": "chore(deps): update `debug` to ^4.4.0",
+      "pr_author": "Phillip9587",
+      "pr_state": "closed",
+      "created_at": "2025-02-03T11:10:55Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6313",
+      "total_reviews": 3,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-02-03T13:11:36Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "Thanks for this @Phillip9587! :heart: ",
+          "submitted_at": "2025-02-03T20:54:31Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-02-10T19:41:19Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "UlisesGascon",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "UlisesGascon",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6094,
+      "pr_title": "Release: 4.21.2",
+      "pr_author": "UlisesGascon",
+      "pr_state": "closed",
+      "created_at": "2024-10-29T14:40:44Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6094",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "blakeembrey",
+          "reviewer_id": 1088987,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2024-12-05T22:27:07Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "blakeembrey"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "blakeembrey"
+      ]
+    },
+    {
+      "pr_number": 6506,
+      "pr_title": "Backport: ci: add node.js 24 to test matrix",
+      "pr_author": "Phillip9587",
+      "pr_state": "closed",
+      "created_at": "2025-05-08T13:16:30Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6506",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-05-08T13:29:25Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6331,
+      "pr_title": "feat(deps): router@^2.1.0",
+      "pr_author": "wesleytodd",
+      "pr_state": "closed",
+      "created_at": "2025-02-10T20:04:58Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6331",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-02-10T20:08:38Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-02-12T15:50:57Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "Phillip9587",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Phillip9587",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6276,
+      "pr_title": "docs: add @Phillip9587 to the triage team",
+      "pr_author": "bjohansebas",
+      "pr_state": "closed",
+      "created_at": "2025-01-13T18:36:33Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6276",
+      "total_reviews": 4,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "Agreed, great work @Phillip9587!",
+          "submitted_at": "2025-01-14T18:54:33Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "IamLizu",
+          "reviewer_id": 26184316,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-01-19T07:29:33Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "Yeah!",
+          "submitted_at": "2025-01-19T10:44:45Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "mertcanaltin",
+          "reviewer_id": 37827216,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-01-19T14:15:44Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "IamLizu",
+        "mertcanaltin",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "IamLizu",
+        "mertcanaltin",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6117,
+      "pr_title": "deps: upgrade ejs",
+      "pr_author": "agungjati",
+      "pr_state": "closed",
+      "created_at": "2024-10-31T17:07:49Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6117",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "When we are updating dependencies now we are using the `^` range specifier.",
+          "submitted_at": "2025-01-13T14:30:35Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd"
+      ]
+    },
+    {
+      "pr_number": 6488,
+      "pr_title": "ci: update codeql config",
+      "pr_author": "Phillip9587",
+      "pr_state": "closed",
+      "created_at": "2025-04-28T20:34:42Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6488",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-04-29T10:55:43Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6324,
+      "pr_title": "ci: fix npm install --include typo",
+      "pr_author": "Phillip9587",
+      "pr_state": "closed",
+      "created_at": "2025-02-05T13:04:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6324",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-02-05T13:24:21Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "Oops, and that's not an easy one to spot in the PR either. I think we can fast-track merge this right.",
+          "submitted_at": "2025-02-05T17:25:11Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6699,
+      "pr_title": "fix: throw generic error for missing required arguments",
+      "pr_author": "shivarm",
+      "pr_state": "closed",
+      "created_at": "2025-08-10T01:11:30Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6699",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Thanks for your contribution! In this case, TypeError is actually the right choice it’s more specific to the kind of error we want to show, so there’s no need to switch to Error.\r\n\r\n[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\\_Objects/TypeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError)\r\n\r\nEdit: Please don’t tag people, most of us are following the repository and will review it when we have some time",
+          "submitted_at": "2025-08-13T14:38:57Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "COMMENTED",
+          "review_body": "I also agree with @bjohansebas!",
+          "submitted_at": "2025-08-14T10:37:09Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6851,
+      "pr_title": "perf: implement lazy compilation for compileTrust() with large IP lists",
+      "pr_author": "SrinjoyDev",
+      "pr_state": "open",
+      "created_at": "2025-10-21T20:31:01Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6851",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "krzysdz",
+          "reviewer_id": 12915102,
+          "review_state": "COMMENTED",
+          "review_body": "A couple nitpicks:\r\n\r\n1. **YOUR OWN RESULTS SHOW LINEAR TIME COMPLEXITY**\r\n2. Instead of using long lists of individual IP addresses please use subnets.\r\n3. Is startup time really more important to you than response time on first request? For me it's always been the other way around.\r\n\r\nFor more details see https://github.com/expressjs/express/issues/6849#issuecomment-3437599109",
+          "submitted_at": "2025-10-23T15:30:35Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "krzysdz"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "krzysdz"
+      ]
+    },
+    {
+      "pr_number": 6549,
+      "pr_title": "build(deps): bump github/codeql-action from 3.28.16 to 3.28.18",
+      "pr_author": "dependabot[bot]",
+      "pr_state": "closed",
+      "created_at": "2025-06-01T09:12:48Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6549",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "LGTM! The commit exist https://github.com/github/codeql-action/commit/ff0a06e83cb2de871e5a09832bc6a81e7276941f",
+          "submitted_at": "2025-06-01T20:38:10Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-06-18T21:36:05Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "Phillip9587",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Phillip9587",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 3259,
+      "pr_title": "Moves compileQueryParser to separate module",
+      "pr_author": "wesleytodd",
+      "pr_state": "closed",
+      "created_at": "2017-03-27T00:26:33Z",
+      "pr_url": "https://github.com/expressjs/express/pull/3259",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "IamLizu",
+          "reviewer_id": 26184316,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2024-09-10T19:04:35Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Aside of the conflict... this require a change in the `HISTORY.md`, but I am +1 for this idea.",
+          "submitted_at": "2025-03-23T20:48:26Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "IamLizu",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "IamLizu",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6405,
+      "pr_title": "add deprecation warnings for redirect arguments undefined",
+      "pr_author": "bjohansebas",
+      "pr_state": "closed",
+      "created_at": "2025-03-19T00:48:02Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6405",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-03-19T12:19:49Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6418,
+      "pr_title": "deps: serve-static@^2.2.0",
+      "pr_author": "UlisesGascon",
+      "pr_state": "closed",
+      "created_at": "2025-03-27T00:01:10Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6418",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-03-28T00:45:38Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd"
+      ]
+    },
+    {
+      "pr_number": 6032,
+      "pr_title": "Release: 5.0.1",
+      "pr_author": "UlisesGascon",
+      "pr_state": "closed",
+      "created_at": "2024-10-08T10:19:18Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6032",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "blakeembrey",
+          "reviewer_id": 1088987,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2024-10-08T19:09:36Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "blakeembrey"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "blakeembrey"
+      ]
+    },
+    {
+      "pr_number": 6601,
+      "pr_title": "doc: update contributing guidelines and code of conduct links",
+      "pr_author": "ShubhamOulkar",
+      "pr_state": "closed",
+      "created_at": "2025-06-28T03:09:05Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6601",
+      "total_reviews": 10,
+      "total_review_comments": 8,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-06-29T19:02:56Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-06-29T19:04:07Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "krzysdz",
+          "reviewer_id": 12915102,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-06-29T20:22:25Z",
+          "author_association": "CONTRIBUTOR"
+        },
+        {
+          "reviewer_username": "ShubhamOulkar",
+          "reviewer_id": 91728992,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-06-30T02:44:43Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "ShubhamOulkar",
+          "reviewer_id": 91728992,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-06-30T02:46:28Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-07-04T14:46:49Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-07-04T14:46:58Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "ShubhamOulkar",
+          "reviewer_id": 91728992,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-07-05T02:56:44Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-07-12T19:20:03Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-07-30T06:15:04Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "ShubhamOulkar",
+        "UlisesGascon",
+        "krzysdz",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "ShubhamOulkar",
+        "UlisesGascon",
+        "krzysdz",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6337,
+      "pr_title": "fix (deps): update deps",
+      "pr_author": "wesleytodd",
+      "pr_state": "closed",
+      "created_at": "2025-02-13T16:21:42Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6337",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "LGTM",
+          "submitted_at": "2025-02-13T16:37:24Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6477,
+      "pr_title": "Staging",
+      "pr_author": "Hamzah-2002",
+      "pr_state": "closed",
+      "created_at": "2025-04-22T13:34:14Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6477",
+      "total_reviews": 5,
+      "total_review_comments": 5,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "",
+          "submitted_at": "2025-04-22T14:59:04Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-04-22T17:35:42Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-04-22T17:37:31Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-04-22T17:39:25Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-04-22T17:42:31Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6323,
+      "pr_title": "ci: updated github actions ci workflow",
+      "pr_author": "Phillip9587",
+      "pr_state": "closed",
+      "created_at": "2025-02-05T13:00:47Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6323",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-02-05T14:28:58Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-02-05T17:31:01Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6369,
+      "pr_title": "Update README.md with installation steps, API usage, and formatting i…",
+      "pr_author": "pundirakash",
+      "pr_state": "closed",
+      "created_at": "2025-03-01T08:14:01Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6369",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Please help us understand what the goal is, but either way this PR will not land as it is. Going to close it until we hear back.",
+          "submitted_at": "2025-03-04T13:44:19Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd"
+      ]
+    },
+    {
+      "pr_number": 6610,
+      "pr_title": "Fix: broken CONTRIBUTING.md link in Readme",
+      "pr_author": "JayaNeem",
+      "pr_state": "closed",
+      "created_at": "2025-06-30T14:12:49Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6610",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Hardanish-Singh",
+          "reviewer_id": 61027578,
+          "review_state": "COMMENTED",
+          "review_body": "LGTM!",
+          "submitted_at": "2025-07-06T21:31:45Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Hardanish-Singh"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Hardanish-Singh"
+      ]
+    },
+    {
+      "pr_number": 6596,
+      "pr_title": "fix(req): validate req.range size",
+      "pr_author": "shivarm",
+      "pr_state": "open",
+      "created_at": "2025-06-27T07:13:07Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6596",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "This is a breaking change. I'm not entirely familiar with range, so I'll need to do some research before accepting it. Could you share a reference in the specification showing that it cannot be negative? That would make the review easier.\r\n\r\nAlso, if this change is accepted, a deprecation would be needed for v5. But for that, you could first share the spec reference.",
+          "submitted_at": "2025-06-28T00:53:57Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6803,
+      "pr_title": "Update Readme.md",
+      "pr_author": "kpvgeetha",
+      "pr_state": "closed",
+      "created_at": "2025-10-03T07:23:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6803",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "shivarm",
+          "reviewer_id": 91419219,
+          "review_state": "COMMENTED",
+          "review_body": "@kpvgeetha I know you just learned the Git by some famous guy on youtube 😂 Please can you close this?\r\n\r\nSPAM PR!",
+          "submitted_at": "2025-10-03T07:58:36Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "shivarm"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "shivarm"
+      ]
+    },
+    {
+      "pr_number": 6839,
+      "pr_title": "fix(sendStatus): prevent BigInt status codes",
+      "pr_author": "Dhairya3391",
+      "pr_state": "open",
+      "created_at": "2025-10-12T04:52:01Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6839",
+      "total_reviews": 3,
+      "total_review_comments": 3,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "shubhamdixit863",
+          "reviewer_id": 25385196,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-10-16T16:12:12Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "anuragdaksh7",
+          "reviewer_id": 84393491,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-10-16T18:08:12Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "Dhairya3391",
+          "reviewer_id": 66764647,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-10-16T19:09:23Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Dhairya3391",
+        "anuragdaksh7",
+        "shubhamdixit863"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Dhairya3391",
+        "anuragdaksh7",
+        "shubhamdixit863"
+      ]
+    },
+    {
+      "pr_number": 6846,
+      "pr_title": "Added HTTP exceptions, compression, helmet, and CORS integration",
+      "pr_author": "Nikhil012N",
+      "pr_state": "open",
+      "created_at": "2025-10-18T10:43:58Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6846",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Thanks for your contribution. A few things: we don’t accept changes to the code style.\r\n\r\nIt seems this PR is trying to do two things — adding compression, helmet, and CORS to the Express core. I recommend opening a discussion about this instead of doing it all at once in a PR.\r\n\r\nThe second thing is adding `HttpException`. What’s the intention behind this? I’d suggest opening a discussion for that as well, since I don’t really understand the reason why you’d want to add it.",
+          "submitted_at": "2025-10-18T21:45:13Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 3714,
+      "pr_title": "Move settings methods to app.settings and deprecate old versions",
+      "pr_author": "wesleytodd",
+      "pr_state": "open",
+      "created_at": "2018-08-11T21:41:34Z",
+      "pr_url": "https://github.com/expressjs/express/pull/3714",
+      "total_reviews": 3,
+      "total_review_comments": 2,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "krzysdz",
+          "reviewer_id": 12915102,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-03-27T11:21:02Z",
+          "author_association": "CONTRIBUTOR"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-03-27T13:28:14Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "COMMENTED",
+          "review_body": "So... as discussed with @wesleytodd this PR won't be included in the 5.1.0 release and ideally we can include that in the next 5.x release but we should also create a small blog to explain this deprecation and how we handle deprecation in Express (in general).",
+          "submitted_at": "2025-03-27T19:47:05Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon",
+        "krzysdz",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon",
+        "krzysdz",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6116,
+      "pr_title": "deps: upgrade debug",
+      "pr_author": "agungjati",
+      "pr_state": "closed",
+      "created_at": "2024-10-31T17:07:14Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6116",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "When we are upgrading deps we are using the `^` range specifier.",
+          "submitted_at": "2025-01-13T14:31:50Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd"
+      ]
+    },
+    {
+      "pr_number": 6797,
+      "pr_title": "build(deps): bump actions/checkout from 4.2.2 to 5.0.0",
+      "pr_author": "dependabot[bot]",
+      "pr_state": "closed",
+      "created_at": "2025-10-01T09:25:09Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6797",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "LGTM, i checked the hash",
+          "submitted_at": "2025-10-03T12:34:15Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "Phillip9587"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Phillip9587"
+      ]
+    },
+    {
+      "pr_number": 6266,
+      "pr_title": "fix: remove download size badges",
+      "pr_author": "wesleytodd",
+      "pr_state": "closed",
+      "created_at": "2025-01-08T23:24:08Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6266",
+      "total_reviews": 8,
+      "total_review_comments": 3,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "sheplu",
+          "reviewer_id": 1133916,
+          "review_state": "APPROVED",
+          "review_body": "LGTM\r\n\r\nI agree with you here, but I think this should even be a bit more drastic - we should have another readme used in the package.json\r\nthere is other assets that could be removed but I think we can have a side discussion about that",
+          "submitted_at": "2025-01-09T12:33:02Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "I am neutral to this change :+1:",
+          "submitted_at": "2025-01-09T14:29:29Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "LGTM",
+          "submitted_at": "2025-01-09T15:29:45Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "ctcpip",
+          "reviewer_id": 15326526,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "",
+          "submitted_at": "2025-01-09T15:34:07Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-01-09T15:56:11Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-01-09T16:06:29Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "ctcpip",
+          "reviewer_id": 15326526,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-01-09T16:09:38Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "jonchurch",
+          "reviewer_id": 12915163,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-01-09T16:50:07Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "ctcpip",
+        "sheplu",
+        "wesleytodd",
+        "UlisesGascon",
+        "jonchurch",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "ctcpip",
+        "sheplu",
+        "wesleytodd",
+        "UlisesGascon",
+        "jonchurch",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 5819,
+      "pr_title": "✅ add discarded middleware test",
+      "pr_author": "ctcpip",
+      "pr_state": "closed",
+      "created_at": "2024-08-09T04:50:07Z",
+      "pr_url": "https://github.com/expressjs/express/pull/5819",
+      "total_reviews": 5,
+      "total_review_comments": 4,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2024-09-10T03:03:04Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "ctcpip",
+          "reviewer_id": 15326526,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2024-09-10T03:31:06Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "wesleytodd",
+          "reviewer_id": 1027776,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2024-09-10T13:45:30Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "LGTM! but let's wait until we can merge it :)",
+          "submitted_at": "2024-09-10T18:26:24Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "Jayx239",
+          "reviewer_id": 5461063,
+          "review_state": "COMMENTED",
+          "review_body": "Left some comments to better demonstrate what I want to acheive.",
+          "submitted_at": "2025-09-24T01:02:40Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "wesleytodd",
+        "ctcpip",
+        "Jayx239",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "wesleytodd",
+        "ctcpip",
+        "Jayx239",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6654,
+      "pr_title": "Refactor res.send() into helper functions",
+      "pr_author": "nitin-is-me",
+      "pr_state": "open",
+      "created_at": "2025-07-22T09:53:28Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6654",
+      "total_reviews": 3,
+      "total_review_comments": 3,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Hardanish-Singh",
+          "reviewer_id": 61027578,
+          "review_state": "COMMENTED",
+          "review_body": "✅",
+          "submitted_at": "2025-07-27T20:31:19Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Thank you for your contribution. At the moment, I’m a bit unsure if this would be a good idea. I don’t think it would improve the code’s readability or its maintenance much. I’m going to block it until more people on the team can review it",
+          "submitted_at": "2025-08-04T02:17:23Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "mlaopane",
+          "reviewer_id": 23735276,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-08-25T20:18:57Z",
+          "author_association": "NONE"
+        }
+      ],
+      "unique_reviewers": [
+        "Hardanish-Singh",
+        "mlaopane",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Hardanish-Singh",
+        "mlaopane",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6396,
+      "pr_title": "Move captains and committers to another repo",
+      "pr_author": "UlisesGascon",
+      "pr_state": "closed",
+      "created_at": "2025-03-16T18:44:00Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6396",
+      "total_reviews": 4,
+      "total_review_comments": 2,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-03-17T13:54:34Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-05-11T09:13:02Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-05-11T09:13:24Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-05-11T17:42:48Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "UlisesGascon",
+        "Phillip9587",
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "UlisesGascon",
+        "Phillip9587",
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6618,
+      "pr_title": "build(deps): bump github/codeql-action from 3.28.18 to 3.29.2",
+      "pr_author": "dependabot[bot]",
+      "pr_state": "closed",
+      "created_at": "2025-07-01T10:33:00Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6618",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "Hardanish-Singh",
+          "reviewer_id": 61027578,
+          "review_state": "COMMENTED",
+          "review_body": "LGTM!\r\n",
+          "submitted_at": "2025-07-08T20:53:09Z",
+          "author_association": "NONE"
+        },
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "LGTM! The commit exists: https://github.com/github/codeql-action/commit/181d5eefc20863364f96762470ba6f862bdef56b",
+          "submitted_at": "2025-07-09T08:27:18Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "Hardanish-Singh",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Hardanish-Singh",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6548,
+      "pr_title": "build(deps): bump ossf/scorecard-action from 2.4.1 to 2.4.2",
+      "pr_author": "dependabot[bot]",
+      "pr_state": "closed",
+      "created_at": "2025-06-01T09:12:40Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6548",
+      "total_reviews": 2,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "UlisesGascon",
+          "reviewer_id": 5110813,
+          "review_state": "APPROVED",
+          "review_body": "LGTM! The commit exist https://github.com/ossf/scorecard-action/commit/05b42c624433fc40578a4040d5cf5e36ddca8cde",
+          "submitted_at": "2025-06-01T20:37:37Z",
+          "author_association": "MEMBER"
+        },
+        {
+          "reviewer_username": "Phillip9587",
+          "reviewer_id": 17254592,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2025-06-18T21:36:44Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "Phillip9587",
+        "UlisesGascon"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "Phillip9587",
+        "UlisesGascon"
+      ]
+    },
+    {
+      "pr_number": 6817,
+      "pr_title": "docs: enhance installation section with additional package managers and verification steps",
+      "pr_author": "Sandesh-projects",
+      "pr_state": "closed",
+      "created_at": "2025-10-08T04:44:10Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6817",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "bjohansebas",
+          "reviewer_id": 103585995,
+          "review_state": "CHANGES_REQUESTED",
+          "review_body": "Thanks for your contribution, but I don’t think this should go in the README or on the website. It’s not our responsibility to explain how to install it with different package managers.",
+          "submitted_at": "2025-10-11T17:16:10Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "bjohansebas"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "bjohansebas"
+      ]
+    },
+    {
+      "pr_number": 6774,
+      "pr_title": "feat: add deprecation warnings for invalid sendStatus parameters to prepare for Express v6",
+      "pr_author": "Vedant224",
+      "pr_state": "open",
+      "created_at": "2025-09-18T12:00:14Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6774",
+      "total_reviews": 1,
+      "total_review_comments": 1,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "shivarm",
+          "reviewer_id": 91419219,
+          "review_state": "COMMENTED",
+          "review_body": "",
+          "submitted_at": "2025-09-18T14:37:14Z",
+          "author_association": "CONTRIBUTOR"
+        }
+      ],
+      "unique_reviewers": [
+        "shivarm"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "shivarm"
+      ]
+    },
+    {
+      "pr_number": 6031,
+      "pr_title": "Release: 4.21.1",
+      "pr_author": "UlisesGascon",
+      "pr_state": "closed",
+      "created_at": "2024-10-08T10:19:07Z",
+      "pr_url": "https://github.com/expressjs/express/pull/6031",
+      "total_reviews": 1,
+      "total_review_comments": 0,
+      "actual_reviewers": [
+        {
+          "reviewer_username": "blakeembrey",
+          "reviewer_id": 1088987,
+          "review_state": "APPROVED",
+          "review_body": "",
+          "submitted_at": "2024-10-08T18:23:45Z",
+          "author_association": "MEMBER"
+        }
+      ],
+      "unique_reviewers": [
+        "blakeembrey"
+      ],
+      "review_comment_authors": [],
+      "all_participants": [
+        "blakeembrey"
+      ]
+    }
+  ]
+}

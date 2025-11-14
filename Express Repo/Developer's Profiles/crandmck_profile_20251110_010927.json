@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "developer_name": "crandmck",
+    "generation_timestamp": "2025-11-10T00:58:48.861619",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 5,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 5
+  },
+  "profile": {
+    "developer_name": "crandmck",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "API Development",
+      "Asynchronous Programming",
+      "Documentation"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "crandmck demonstrates strong backend JavaScript skills, particularly in the Node.js and Express ecosystem. They are familiar with functional and object-oriented programming patterns, API development, and asynchronous programming. While the PRs are primarily documentation-focused, the context of contributing to Express suggests a good understanding of modern JavaScript practices and the importance of code quality. However, specific evidence of frontend development, testing frameworks, build tools, ES6+ features, and TypeScript usage is not directly provided in the PR data.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "Node.js, frequency: 5",
+        "Express.js, frequency: 5"
+      ],
+      "Asynchronous Programming, frequency: 5": [
+        "Promises, frequency: 5"
+      ],
+      "API Design & Consumption, frequency: 5": [
+        "RESTful APIs, frequency: 5"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 5": [
+        "Middleware, frequency: 5"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 5,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

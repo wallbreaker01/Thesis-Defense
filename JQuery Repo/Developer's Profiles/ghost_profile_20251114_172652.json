@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "developer_name": "ghost",
+    "generation_timestamp": "2025-11-14T17:01:29.410223",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 14,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 14
+  },
+  "profile": {
+    "developer_name": "ghost",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Asynchronous Programming",
+      "Error Handling",
+      "Code Optimization"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "The developer 'ghost' demonstrates strong skills in frontend JavaScript development, particularly with jQuery. They have a good understanding of JavaScript's prototype chain, functional programming patterns, and asynchronous programming. Their contributions show a commitment to code quality, performance optimization, and addressing memory leaks and bugs. While there is some involvement with backend JavaScript, the primary focus is on frontend development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 14": [
+        "jQuery, frequency: 14"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "JSONP, frequency: 1",
+        "AJAX, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 1": [
+        "JSONP, frequency: 1"
+      ],
+      "Error Handling, frequency: 1": [
+        "Error Handling, frequency: 1"
+      ],
+      "Frontend Development Skills, frequency: 14": [
+        "DOM Manipulation, frequency: 14"
+      ],
+      "Backend Development Skills, frequency: 1": [
+        "Node.js, frequency: 1"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Prototypes & Inheritance, frequency: 1",
+        "Memory Management, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Functional Programming, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 14,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

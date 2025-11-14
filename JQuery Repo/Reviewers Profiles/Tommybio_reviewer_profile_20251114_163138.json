@@ -1,0 +1,45 @@
+{
+  "reviewer_name": "Tommybio",
+  "generated_at": "20251114_163138",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 0,
+    "total_prs": 1,
+    "repos": [
+      "jquery"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "Tommybio",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "QUnit",
+      "Frontend Testing"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Tommybio demonstrates some familiarity with frontend testing using QUnit. However, the limited data does not provide sufficient evidence to infer expertise in other areas of the JavaScript ecosystem such as frameworks, programming patterns, backend development, build tools, ES6+ features, TypeScript, API development, asynchronous programming, or modern code quality practices. Additional review data and comments would be necessary to gain a more comprehensive understanding of Tommybio's JavaScript technical skills and expertise.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "QUnit, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

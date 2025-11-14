@@ -1,0 +1,47 @@
+{
+  "reviewer_name": "mohamadaminkarami",
+  "generated_at": "20251114_175713",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 2,
+    "total_prs": 1,
+    "repos": [
+      "lodash"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "mohamadaminkarami",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Error Handling",
+      "Functional Programming"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the limited review data, the reviewer mohamadaminkarami demonstrates a basic understanding of functional programming and error handling in JavaScript, with a focus on ensuring functions return expected values. However, there is no evidence to suggest expertise in specific JavaScript frameworks, libraries, testing frameworks, build tools, ES6+ features, TypeScript, API development, asynchronous programming, or advanced code quality practices. To gain a more comprehensive understanding of their JavaScript skills, additional review data or more detailed review comments would be necessary.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling, frequency: 1": [
+        "Try-Catch, frequency: 1"
+      ],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming, frequency: 1": [
+        "Pure Functions, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

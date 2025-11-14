@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "developer_name": "mattbrundage",
+    "generation_timestamp": "2025-11-14T17:23:08.212642",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "mattbrundage",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Event Handling",
+      "Bug Fixing",
+      "Code Maintenance"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "mattbrundage demonstrates a solid understanding of frontend JavaScript, particularly with jQuery, and a strong focus on code quality and maintenance. Their contributions are primarily in the frontend domain, with a focus on DOM manipulation, event handling, and bug fixing. While they have a good grasp of modern JavaScript practices, there is no explicit evidence of advanced skills in areas such as asynchronous programming, API development, or TypeScript.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 3": [
+        "jQuery, frequency: 3"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

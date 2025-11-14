@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "developer_name": "Alanscut",
+    "generation_timestamp": "2025-11-14T20:56:44.561710",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 14,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 14
+  },
+  "profile": {
+    "developer_name": "Alanscut",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Moment.js",
+      "TypeScript",
+      "Unit Testing",
+      "Functional Programming",
+      "Immutability",
+      "Linting and Pre-commit Hooks"
+    ],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "summary": "Alanscut is a proficient JavaScript developer with a strong focus on frontend development, particularly in the Moment.js library. They demonstrate expertise in TypeScript, functional programming, immutability, and unit testing. Their contributions show a commitment to code quality through the use of linters, pre-commit hooks, and thorough testing. Alanscut is well-versed in modern JavaScript practices and has a solid understanding of API development and maintenance.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 14": [
+        "Moment.js, frequency: 14"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption, frequency: 2": [
+        "API Endpoints, frequency: 2"
+      ],
+      "Error Handling, frequency: 2": [
+        "Custom Error Classes, frequency: 2"
+      ],
+      "Frontend Development Skills, frequency: 2": [
+        "DOM Manipulation, frequency: 2"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "Linting, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 2": [
+        "Immutability, frequency: 2"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Immutability, frequency: 2"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript, frequency: 6": [
+        "Type Definitions, frequency: 6"
+      ],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 14,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

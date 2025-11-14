@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "developer_name": "dmethvin",
+    "generation_timestamp": "2025-11-14T16:49:43.544935",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 65,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "dmethvin",
+    "experience_level": "Senior",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Asynchronous Programming",
+      "Error Handling",
+      "Code Quality"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "dmethvin demonstrates a high level of expertise in frontend JavaScript, particularly with the jQuery library. They are proficient in DOM manipulation, event handling, and asynchronous programming patterns. Their contributions show a strong focus on code quality, security, and modern JavaScript practices. While there is no explicit evidence of backend JavaScript, TypeScript, or extensive use of ES6+ features, their work suggests a solid foundation in modern JavaScript development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 10": [
+        "jQuery, frequency: 10"
+      ],
+      "Asynchronous Programming, frequency: 5": [
+        "Promises, frequency: 3",
+        "async/await, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "RESTful APIs, frequency: 2"
+      ],
+      "Error Handling, frequency: 4": [
+        "Try-Catch, frequency: 2",
+        "Custom Error Classes, frequency: 2"
+      ],
+      "Frontend Development Skills, frequency: 6": [
+        "DOM Manipulation, frequency: 6"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Closures, frequency: 2",
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 65,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

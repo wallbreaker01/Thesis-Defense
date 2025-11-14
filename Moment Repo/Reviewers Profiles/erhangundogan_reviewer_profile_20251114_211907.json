@@ -1,0 +1,17 @@
+{
+  "reviewer_name": "erhangundogan",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 4,
+    "total_comments": 1,
+    "total_prs": 3,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "erhangundogan",
+    "raw_response": "",
+    "parsing_error": "Invalid json output: \nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+  }
+}

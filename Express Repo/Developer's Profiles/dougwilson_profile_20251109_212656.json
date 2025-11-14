@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "developer_name": "dougwilson",
+    "generation_timestamp": "2025-11-09T21:25:01.651314",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 10,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 10
+  },
+  "profile": {
+    "developer_name": "dougwilson",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Express.js",
+      "Node.js",
+      "Middleware",
+      "API Development"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Doug Wilson is a mid-level JavaScript developer with a strong focus on backend development using Node.js and the Express framework. He is proficient in creating and managing middleware, developing RESTful APIs, and handling HTTP requests and responses. His contributions to the Express framework indicate a commitment to high code quality and best practices. While the provided PR data does not offer explicit evidence of frontend development, TypeScript usage, or specific testing frameworks, his involvement in a modern and widely used framework suggests familiarity with modern JavaScript practices and tools.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "Node.js, frequency: 2",
+        "Express.js, frequency: 3"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 3": [
+        "RESTful APIs, frequency: 3"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 5": [
+        "Middleware, frequency: 3",
+        "API Endpoints, frequency: 2"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 10,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

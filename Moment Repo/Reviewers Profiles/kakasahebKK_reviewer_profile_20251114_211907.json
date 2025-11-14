@@ -1,0 +1,47 @@
+{
+  "reviewer_name": "kakasahebKK",
+  "generated_at": "20251114_211907",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 2,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "kakasahebKK",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Frontend Development Skills",
+      "Date Handling"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the limited review data, kakasahebKK shows some basic frontend JavaScript knowledge, particularly in handling date-related issues and edge cases. However, the data does not provide evidence of expertise in specific JavaScript frameworks, libraries, programming patterns, testing frameworks, build tools, ES6+ features, TypeScript, API development, asynchronous programming, or advanced code quality practices. The reviewer is open to learning and improving their skills, as indicated by their first pull request and request for feedback.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "moment.js, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

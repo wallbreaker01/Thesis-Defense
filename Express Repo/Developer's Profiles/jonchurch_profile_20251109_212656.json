@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "developer_name": "jonchurch",
+    "generation_timestamp": "2025-11-09T21:23:45.733949",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 16,
+    "repositories": [
+      "express"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "jonchurch",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "CI/CD",
+      "Unit Testing",
+      "RESTful APIs",
+      "Code Refactoring",
+      "Documentation"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Jonchurch is a mid-level JavaScript developer with a strong focus on backend development, particularly with Node.js and Express.js. They have a solid understanding of modern JavaScript practices, including ES6+ features, and are proficient in CI/CD workflows and unit testing. Their contributions to the Express.js repository demonstrate expertise in API development, code maintenance, and documentation.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 16": [
+        "Node.js, frequency: 16",
+        "Express.js, frequency: 16"
+      ],
+      "Asynchronous Programming, frequency: 4": [
+        "Promises, frequency: 2",
+        "async/await, frequency: 2"
+      ],
+      "API Design & Consumption, frequency: 10": [
+        "RESTful APIs, frequency: 10"
+      ],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 16": [
+        "Middleware, frequency: 4",
+        "API Endpoints, frequency: 6",
+        "Authentication/Authorization, frequency: 2",
+        "Database Integration, frequency: 2",
+        "Caching, frequency: 2"
+      ],
+      "DevOps & Deployment, frequency: 8": [
+        "CI/CD Pipelines, frequency: 8"
+      ],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Prototypes & Inheritance, frequency: 2",
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming, frequency: 2": [
+        "Declarative Programming, frequency: 2"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 16": [
+        "npm/yarn, frequency: 16"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 16,
+    "repos_contributed": 1,
+    "repo_list": [
+      "express"
+    ]
+  }
+}

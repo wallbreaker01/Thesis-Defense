@@ -1,0 +1,40 @@
+{
+  "reviewer_name": "NotMoni",
+  "generated_at": "20251114_212915",
+  "stats": {
+    "total_reviews": 2,
+    "total_comments": 0,
+    "total_prs": 1,
+    "repos": [
+      "moment"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "NotMoni",
+    "experience_level": "Junior",
+    "primary_skills": [],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Based on the provided review data, NotMoni has a very limited presence in JavaScript reviews. The reviews are primarily focused on locale updates and do not delve into technical aspects of JavaScript or related technologies. There is no substantial evidence to infer specific JavaScript technical skills and expertise. To gain a more comprehensive understanding of the reviewer's JavaScript skills, additional review data or more detailed technical feedback would be necessary.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

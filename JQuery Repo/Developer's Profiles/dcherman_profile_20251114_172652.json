@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "developer_name": "dcherman",
+    "generation_timestamp": "2025-11-14T17:21:28.542437",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 4,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 4
+  },
+  "profile": {
+    "developer_name": "dcherman",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "Deferred Objects and Promises",
+      "Event Handling",
+      "Unit Testing",
+      "Code Refactoring",
+      "Documentation and Best Practices"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "dcherman demonstrates strong expertise in frontend JavaScript, particularly with jQuery, and a focus on code quality, testing, and modern JavaScript practices. They have contributed to the jQuery repository, showing proficiency in deferred objects, promises, event handling, and unit testing. Their contributions also indicate a commitment to maintaining code quality through refactoring and ensuring best practices in package management and documentation.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "jQuery, frequency: 1"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 2"
+      ],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Event Handling, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "npm/yarn, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 4,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

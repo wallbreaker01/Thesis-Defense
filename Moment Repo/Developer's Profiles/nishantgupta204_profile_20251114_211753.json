@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "developer_name": "nishantgupta204",
+    "generation_timestamp": "2025-11-14T21:05:00.684468",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 4,
+    "repositories": [
+      "moment"
+    ],
+    "pr_data_sample_size": 4
+  },
+  "profile": {
+    "developer_name": "nishantgupta204",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Moment.js",
+      "Functional Programming",
+      "Date and Time Manipulation"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Nishant Gupta is a junior JavaScript developer with a focus on frontend development, particularly in date and time manipulation using Moment.js. They have contributed to fixing bugs in date calculation methods, demonstrating a strong understanding of functional programming patterns. While there is no explicit evidence of experience with other frameworks, testing, or backend development, their contributions suggest a commitment to code quality and modern JavaScript practices.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 4": [
+        "Moment.js, frequency: 4"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 4": [
+        "DOM Manipulation, frequency: 4"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 4": [
+        "Functional Programming, frequency: 4"
+      ],
+      "Functional Programming, frequency: 4": [
+        "Immutability, frequency: 2",
+        "Pure Functions, frequency: 2"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 4,
+    "repos_contributed": 1,
+    "repo_list": [
+      "moment"
+    ]
+  }
+}

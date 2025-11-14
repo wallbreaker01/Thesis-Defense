@@ -1,0 +1,51 @@
+{
+  "reviewer_name": "Gauravms2143",
+  "generated_at": "20251114_174802",
+  "stats": {
+    "total_reviews": 3,
+    "total_comments": 0,
+    "total_prs": 3,
+    "repos": [
+      "lodash"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "Gauravms2143",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "Functional Programming",
+      "Backend Development Skills",
+      "Code Quality"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Gauravms2143 demonstrates a solid foundation in basic JavaScript programming, with a focus on functional programming and backend development. They show an understanding of code quality and modern JavaScript practices, particularly in function naming and object manipulation. However, there is limited evidence of expertise in advanced topics, specific frameworks or libraries, testing, build tools, TypeScript, API development, and asynchronous programming.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise": [],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 3": [
+        "Server-Side Logic, frequency: 1",
+        "API Endpoints, frequency: 1",
+        "Middleware, frequency: 1"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Module Systems, frequency: 1"
+      ],
+      "Functional Programming, frequency: 1": [
+        "Immutability, frequency: 1"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": []
+    }
+  }
+}

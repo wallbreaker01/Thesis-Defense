@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "developer_name": "gnarf",
+    "generation_timestamp": "2025-11-14T16:51:06.594225",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 42,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 15
+  },
+  "profile": {
+    "developer_name": "gnarf",
+    "experience_level": "Senior",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Asynchronous Programming",
+      "Unit Testing",
+      "Code Optimization",
+      "Error Handling"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "gnarf demonstrates a high level of expertise in frontend JavaScript, particularly within the jQuery library. Their contributions cover a wide range of areas, including performance optimization, asynchronous programming, and testing. While there is no explicit evidence of backend JavaScript, TypeScript, or extensive use of ES6+ features, the overall quality and depth of their contributions suggest a strong foundation in modern JavaScript practices and a commitment to writing efficient, maintainable code.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 42": [
+        "jQuery, frequency: 42"
+      ],
+      "Asynchronous Programming, frequency: 12": [
+        "Promises, frequency: 8",
+        "Callbacks, frequency: 4"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "HTTP ETags, frequency: 1",
+        "Cross-Domain Requests, frequency: 1"
+      ],
+      "Error Handling, frequency: 4": [
+        "Custom Error Classes, frequency: 2",
+        "Error Boundaries, frequency: 2"
+      ],
+      "Frontend Development Skills, frequency: 10": [
+        "DOM Manipulation, frequency: 10"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "Makefile, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 6": [
+        "Closures, frequency: 2",
+        "Higher-Order Functions, frequency: 2",
+        "Module Systems, frequency: 2"
+      ],
+      "Functional Programming, frequency: 4": [
+        "Immutability, frequency: 2",
+        "Pure Functions, frequency: 2"
+      ],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 4": [
+        "Code Splitting, frequency: 2",
+        "Minification & Compression, frequency: 2"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 2": [
+        "npm/yarn, frequency: 2"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 42,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

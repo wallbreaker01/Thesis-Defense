@@ -1,0 +1,58 @@
+{
+  "reviewer_name": "Hardanish-Singh",
+  "generated_at": "20251110_073028",
+  "stats": {
+    "total_reviews": 6,
+    "total_comments": 0,
+    "total_prs": 6,
+    "repos": [
+      "express"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "Hardanish-Singh",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Express.js",
+      "ES6+ Features",
+      "Code Quality and Best Practices"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Hardanish-Singh demonstrates strong expertise in backend JavaScript, particularly in Node.js and Express.js. They are well-versed in modern JavaScript practices, including ES6+ features such as destructuring and modern looping constructs. The reviewer shows a good understanding of code quality and best practices, as evidenced by their approval of PRs that enforce explicit imports and refactor code for better readability and performance. While there is a strong focus on backend development, there is no clear evidence of frontend JavaScript, testing frameworks, or specific API development and consumption patterns.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 6": [
+        "Node.js, frequency: 6"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills": [],
+      "Backend Development Skills, frequency: 6": [
+        "Middleware, frequency: 1",
+        "API Endpoints, frequency: 1",
+        "Authentication/Authorization, frequency: 1",
+        "Server-Side Logic, frequency: 3"
+      ],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 6": [
+        "Module Systems, frequency: 3",
+        "Closures, frequency: 1",
+        "Prototypes & Inheritance, frequency: 2"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 6": [
+        "npm/yarn, frequency: 6"
+      ],
+      "Graphical Data Visualization": []
+    }
+  }
+}

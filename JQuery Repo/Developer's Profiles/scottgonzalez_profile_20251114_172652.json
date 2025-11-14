@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "developer_name": "scottgonzalez",
+    "generation_timestamp": "2025-11-14T17:04:37.782774",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 10,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 10
+  },
+  "profile": {
+    "developer_name": "scottgonzalez",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Code Optimization",
+      "QUnit",
+      "Build Scripts",
+      "Versioning",
+      "JSHint"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "ScottGonzalez demonstrates strong expertise in frontend JavaScript, particularly with the jQuery library, and a commitment to code quality and performance optimization. They are also familiar with testing frameworks and build tools, which are essential for maintaining and releasing high-quality software.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 5": [
+        "jQuery, frequency: 5"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 3": [
+        "DOM Manipulation, frequency: 3"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "Versioning, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Code Optimization, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization, frequency: 2": [
+        "Code Optimization, frequency: 2"
+      ],
+      "Event-Driven Architecture": [],
+      "Dependency Management, frequency: 1": [
+        "JSHint, frequency: 1"
+      ],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 10,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

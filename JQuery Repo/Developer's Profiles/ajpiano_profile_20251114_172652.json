@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "developer_name": "ajpiano",
+    "generation_timestamp": "2025-11-14T17:25:01.844557",
+    "llm_provider": "OpenRouter (Qwen 2.5)",
+    "source": "GitHub PR Data Analysis",
+    "total_prs_analyzed": 3,
+    "repositories": [
+      "jquery"
+    ],
+    "pr_data_sample_size": 3
+  },
+  "profile": {
+    "developer_name": "ajpiano",
+    "experience_level": "Junior",
+    "primary_skills": [
+      "jQuery",
+      "DOM Manipulation",
+      "Array Flattening",
+      "Code Documentation"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "ajpiano is a junior-level JavaScript developer with a strong focus on frontend development, particularly using jQuery. They have demonstrated proficiency in DOM manipulation and array flattening techniques. Their contributions to the jQuery repository show an emphasis on code quality and documentation, indicating a commitment to maintainable and clear code. While their experience is currently limited to frontend JavaScript, they show potential for growth in other areas of web development.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "jQuery, frequency: 1"
+      ],
+      "Asynchronous Programming": [],
+      "API Design & Consumption": [],
+      "Error Handling": [],
+      "Frontend Development Skills, frequency: 2": [
+        "DOM Manipulation, frequency: 1",
+        "Code Documentation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment": [],
+      "Advanced JavaScript Concepts, frequency: 1": [
+        "Array Flattening, frequency: 1"
+      ],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Dependency Management": [],
+      "Graphical Data Visualization": []
+    }
+  },
+  "statistics": {
+    "total_prs": 3,
+    "repos_contributed": 1,
+    "repo_list": [
+      "jquery"
+    ]
+  }
+}

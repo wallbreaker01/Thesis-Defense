@@ -1,0 +1,60 @@
+{
+  "reviewer_name": "melloware",
+  "generated_at": "20251114_163138",
+  "stats": {
+    "total_reviews": 3,
+    "total_comments": 0,
+    "total_prs": 2,
+    "repos": [
+      "jquery"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "melloware",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Asynchronous Programming",
+      "API Consumption",
+      "Error Handling",
+      "Frontend Development Skills",
+      "DevOps & Deployment"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "melloware is a mid-level JavaScript reviewer with a strong focus on frontend development, particularly in handling asynchronous requests and API consumption. They demonstrate expertise in error handling, specifically in the context of Content Security Policy (CSP) errors. They are also proficient in using build tools and CI/CD workflows, as evidenced by their use of GitHub Actions and Dependabot. While they show a strong foundation in modern JavaScript practices, there is no explicit mention of specific frameworks, testing methodologies, or TypeScript in the provided data.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 1": [
+        "jQuery, frequency: 1"
+      ],
+      "Asynchronous Programming, frequency: 2": [
+        "Promises, frequency: 1",
+        "async/await, frequency: 1"
+      ],
+      "API Design & Consumption, frequency: 2": [
+        "RESTful APIs, frequency: 1",
+        "API Error Handling, frequency: 1"
+      ],
+      "Error Handling, frequency: 1": [
+        "Custom Error Classes, frequency: 1"
+      ],
+      "Frontend Development Skills, frequency: 1": [
+        "DOM Manipulation, frequency: 1"
+      ],
+      "Backend Development Skills": [],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 1",
+        "Dependency Management, frequency: 1"
+      ],
+      "Advanced JavaScript Concepts": [],
+      "Functional Programming": [],
+      "Data Structures & Algorithms": [],
+      "TypeScript": [],
+      "Progressive Web Apps (PWA)": [],
+      "Mobile Development with JavaScript": [],
+      "Web Performance Optimization": [],
+      "Event-Driven Architecture": [],
+      "Graphical Data Visualization": []
+    }
+  }
+}

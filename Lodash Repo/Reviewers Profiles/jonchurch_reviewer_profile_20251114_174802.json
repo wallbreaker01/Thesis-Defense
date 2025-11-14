@@ -1,0 +1,53 @@
+{
+  "reviewer_name": "jonchurch",
+  "generated_at": "20251114_174802",
+  "stats": {
+    "total_reviews": 4,
+    "total_comments": 6,
+    "total_prs": 3,
+    "repos": [
+      "lodash"
+    ]
+  },
+  "profile": {
+    "reviewer_name": "jonchurch",
+    "experience_level": "Mid",
+    "primary_skills": [
+      "Node.js",
+      "Bun",
+      "CI/CD Pipelines",
+      "Backend Development"
+    ],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "summary": "Jonchurch demonstrates strong expertise in backend JavaScript development, particularly with Node.js and emerging runtimes like Bun. They have a good understanding of CI/CD practices and build tools, which are crucial for modern JavaScript development. While there is no direct evidence of frontend JavaScript, testing frameworks, or specific programming patterns, their involvement in backend development and CI/CD suggests a strong foundation in modern JavaScript practices and a likely familiarity with ES6+ features and asynchronous programming.",
+    "javascript_skill_matrix": {
+      "Framework/Library Expertise, frequency: 2": [
+        "Node.js, frequency: 1",
+        "Bun, frequency: 1"
+      ],
+      "Asynchronous Programming, frequency: 0": [],
+      "API Design & Consumption, frequency: 0": [],
+      "Error Handling, frequency: 0": [],
+      "Frontend Development Skills, frequency: 0": [],
+      "Backend Development Skills, frequency: 2": [
+        "Middleware, frequency: 1",
+        "API Endpoints, frequency: 1"
+      ],
+      "DevOps & Deployment, frequency: 2": [
+        "CI/CD Pipelines, frequency: 2"
+      ],
+      "Advanced JavaScript Concepts, frequency: 0": [],
+      "Functional Programming, frequency: 0": [],
+      "Data Structures & Algorithms, frequency: 0": [],
+      "TypeScript, frequency: 0": [],
+      "Progressive Web Apps (PWA), frequency: 0": [],
+      "Mobile Development with JavaScript, frequency: 0": [],
+      "Web Performance Optimization, frequency: 0": [],
+      "Event-Driven Architecture, frequency: 0": [],
+      "Dependency Management, frequency: 0": [],
+      "Graphical Data Visualization, frequency: 0": []
+    }
+  }
+}
